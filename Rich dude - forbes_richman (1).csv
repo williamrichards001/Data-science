@@ -1,0 +1,2510 @@
+Rank,Name,Net Worth,Age,Country,Source,Industry,country_code
+1,Elon Musk,219,50,United States,"Tesla, SpaceX",Automotive,USA
+2,Jeff Bezos,171,58,United States,Amazon,Technology,USA
+3,Bernard Arnault & family,158,73,France,LVMH,Fashion & Retail,FRA
+4,Bill Gates,129,66,United States,Microsoft,Technology,USA
+5,Warren Buffett,118,91,United States,Berkshire Hathaway,Finance & Investments,USA
+6,Larry Page,111,49,United States,Google,Technology,USA
+7,Sergey Brin,107,48,United States,Google,Technology,USA
+8,Larry Ellison,106,77,United States,software,Technology,USA
+9,Steve Ballmer,91.4,66,United States,Microsoft,Technology,USA
+10,Mukesh Ambani,90.7,64,India,diversified,Diversified,IND
+11,Gautam Adani,90,59,India,"infrastructure, commodities",Diversified,IND
+12,Michael Bloomberg,82,80,United States,Bloomberg LP,Media & Entertainment,USA
+13,Francoise Bettencourt Meyers & family,74.8,68,France,L'Oréal,Fashion & Retail,FRA
+14,Mark Zuckerberg,67.3,37,United States,Facebook,Technology,USA
+15,Jim Walton,66.2,73,United States,Walmart,Fashion & Retail,USA
+16,Zhong Shanshan,65.7,67,China,"beverages, pharmaceuticals",Food & Beverage,CHN
+17,Alice Walton,65.3,72,United States,Walmart,Fashion & Retail,USA
+18,Rob Walton,65,77,United States,Walmart,Fashion & Retail,USA
+19,Changpeng Zhao,65,44,Canada,cryptocurrency exchange,Finance & Investments,CAN
+20,Charles Koch,60,86,United States,Koch Industries,Diversified,USA
+21,Julia Koch & family,60,59,United States,Koch Industries,Diversified,USA
+22,Amancio Ortega,59.6,86,Spain,Zara,Fashion & Retail,ESP
+23,Michael Dell,55.1,57,United States,Dell computers,Technology,USA
+24,Zhang Yiming,50,38,China,TikTok,Media & Entertainment,CHN
+25,David Thomson & family,49.2,64,Canada,media,Media & Entertainment,CAN
+26,Phil Knight & family,47.3,84,United States,Nike,Fashion & Retail,USA
+27,Robin Zeng,44.8,53,Hong Kong,batteries,Automotive,HKG
+28,MacKenzie Scott,43.6,51,United States,Amazon,Technology,USA
+29,Rodolphe Saadé & family,41.4,52,France,shipping,Logistics,FRA
+30,François Pinault & family,40.4,85,France,luxury goods,Fashion & Retail,FRA
+31,Klaus-Michael Kuehne,37.3,84,Germany,shipping,Logistics,DEU
+32,Ma Huateng,37.2,50,China,internet media,Technology,CHN
+33,Beate Heister & Karl Albrecht Jr. & family,36.8,N/A,Germany,supermarkets,Fashion & Retail,DEU
+34,Giovanni Ferrero,36.2,57,Italy,"Nutella, chocolates",Food & Beverage,ITA
+35,Li Ka-shing,34.8,93,Hong Kong,diversified,Diversified,HKG
+36,Stephen Schwarzman,34.8,75,United States,investments,Finance & Investments,USA
+37,Lee Shau Kee,32.6,94,Hong Kong,real estate,Real Estate,HKG
+38,Len Blavatnik,32.5,64,United States,"music, chemicals",Diversified,USA
+39,Jacqueline Mars,31.7,82,United States,"candy, pet food",Food & Beverage,USA
+40,John Mars,31.7,86,United States,"candy, pet food",Food & Beverage,USA
+41,Gerard Wertheimer,31.2,71,France,Chanel,Fashion & Retail,FRA
+42,German Larrea Mota Velasco & family,30.8,68,Mexico,mining,Metals & Mining,MEX
+43,Gina Rinehart,30.2,68,Australia,mining,Metals & Mining,AUS
+44,Shiv Nadar,28.7,76,India,software services,Technology,IND
+45,Jim Simons,28.6,83,United States,hedge funds,Finance & Investments,USA
+46,He Xiangjian,28.3,79,China,home appliances,Manufacturing,CHN
+47,Miriam Adelson & family,27.5,76,United States,casinos,Gambling & Casinos,USA
+48,Dietrich Mateschitz,27.4,77,Austria,Red Bull,Food & Beverage,AUT
+49,Leonardo Del Vecchio & family,27.3,86,Italy,eyeglasses,Fashion & Retail,ITA
+50,Ken Griffin,27.2,53,United States,hedge funds,Finance & Investments,USA
+51,Tadashi Yanai & family,26.1,73,Japan,fashion retail,Fashion & Retail,JPN
+52,William Lei Ding,25.2,50,China,online games,Technology,CHN
+53,Susanne Klatten,24.3,59,Germany,"BMW, pharmaceuticals",Automotive,DEU
+54,Cyrus Poonawalla,24.3,80,India,vaccines,Healthcare,IND
+55,Qin Yinglin,24.1,56,China,pig breeding,Food & Beverage,CHN
+56,Sam Bankman-Fried,24,30,United States,cryptocurrency exchange,Finance & Investments,USA
+57,Takemitsu Takizaki,23.9,76,Japan,sensors,Manufacturing,JPN
+58,Li Shufu,23.7,58,China,automobiles,Automotive,CHN
+59,Emmanuel Besnier,23.5,51,France,cheese,Food & Beverage,FRA
+60,R. Budi Hartono,23.2,81,Indonesia,"banking, tobacco",Finance & Investments,IDN
+61,Leonard Lauder,23.1,89,United States,Estee Lauder,Fashion & Retail,USA
+62,Guillaume Pousaz,23,40,Switzerland,fintech,Finance & Investments,CHE
+63,Iris Fontbona & family,22.8,79,Chile,mining,Metals & Mining,CHL
+64,Jack Ma,22.8,57,China,e-commerce,Technology,CHN
+65,Michael Hartono,22.3,82,Indonesia,"banking, tobacco",Manufacturing,IDN
+66,Eric Schmidt,22.1,66,United States,Google,Technology,USA
+67,Ray Dalio,22,72,United States,hedge funds,Finance & Investments,USA
+68,Daniel Gilbert,22,60,United States,Quicken Loans,Finance & Investments,USA
+69,Masayoshi Son,21.3,64,Japan,"internet, telecom",Telecom,JPN
+70,Abigail Johnson,21.2,60,United States,money management,Finance & Investments,USA
+71,Rupert Murdoch & family,20.8,91,United States,"newspapers, TV network",Media & Entertainment,USA
+72,Stefan Quandt,20.7,55,Germany,BMW,Automotive,DEU
+73,Jensen Huang,20.6,59,United States,semiconductors,Technology,USA
+74,Huang Shilin,20.3,55,China,batteries,Automotive,CHN
+75,Thomas Peterffy,20.1,77,United States,discount brokerage,Finance & Investments,USA
+76,Radhakishan Damani,20,67,India,"retail, investments",Fashion & Retail,IND
+77,Pang Kang,19.6,66,China,soy sauce,Food & Beverage,CHN
+78,Wang Chuanfu,19.5,56,China,"batteries, automobiles",Automotive,CHN
+79,Reinhold Wuerth & family,19,86,Germany,fasteners,Manufacturing,DEU
+80,"Theo Albrecht, Jr. & family",18.7,71,Germany,"Aldi, Trader Joe's",Fashion & Retail,DEU
+81,Yang Huiyan & family,18.7,40,China,real estate,Real Estate,CHN
+82,Vladimir Lisin,18.4,65,Russia,"steel, transport",Metals & Mining,RUS
+83,Lakshmi Mittal,17.9,71,India,steel,Metals & Mining,IND
+84,Andrew Forrest,17.8,60,Australia,mining,Metals & Mining,AUS
+85,Jiang Rensheng & family,17.7,68,China,vaccines,Healthcare,CHN
+86,Savitri Jindal & family,17.7,72,India,steel,Metals & Mining,IND
+87,Wang Wenyin,17.7,54,China,"mining, copper products",Metals & Mining,CHN
+88,Li Xiting,17.6,71,Singapore,medical devices,Healthcare,SGP
+89,Stefan Persson,17.6,74,Sweden,H&M,Fashion & Retail,SWE
+90,Steve Cohen,17.4,65,United States,hedge funds,Finance & Investments,USA
+91,Vladimir Potanin,17.3,61,Russia,metals,Metals & Mining,RUS
+92,Harold Hamm & family,17.2,76,United States,oil & gas,Energy,USA
+93,Sun Piaoyang,17.1,63,China,pharmaceuticals,Healthcare,CHN
+94,Luo Liguo & family,17,66,China,chemicals,Manufacturing,CHN
+95,Peter Woo,17,75,Hong Kong,real estate,Real Estate,HKG
+96,Gianluigi & Rafaela Aponte,16.8,81,Switzerland,Shipping,Logistics,CHE
+97,Renata Kellnerova & family,16.6,54,Czechia,"finance, telecommunications",Finance & Investments,CZE
+98,"John Menard, Jr.",16.6,82,United States,home improvement stores,Fashion & Retail,USA
+99,Kumar Birla,16.5,54,India,commodities,Diversified,IND
+100,Carl Icahn,16.5,86,United States,investments,Finance & Investments,USA
+101,Hank & Doug Meijer,16.5,N/A,United States,supermarkets,Fashion & Retail,USA
+102,Lukas Walton,16.5,35,United States,Walmart,Fashion & Retail,USA
+103,Laurene Powell Jobs & family,16.4,58,United States,"Apple, Disney",Technology,USA
+104,James Ratcliffe,16.3,69,United Kingdom,chemicals,Manufacturing,GBR
+105,Donald Bren,16.2,89,United States,real estate,Real Estate,USA
+106,Xu Hang,16.1,55,Hong Kong,medical devices,Healthcare,HKG
+107,Lu Xiangyang,15.7,59,China,"automobiles, batteries",Automotive,CHN
+108,Dilip Shanghvi,15.6,66,India,pharmaceuticals,Healthcare,IND
+109,Wei Jianjun & family,15.5,58,China,automobiles,Automotive,CHN
+110,Jorge Paulo Lemann & family,15.4,82,Brazil,beer,Food & Beverage,BRA
+111,Mike Cannon-Brookes,15.3,42,Australia,software,Technology,AUS
+112,Wu Yajun,15.3,58,China,real estate,Real Estate,CHN
+113,Charlene de Carvalho-Heineken & family,15.2,67,Netherlands,Heineken,Food & Beverage,NLD
+114,Michael Platt,15.2,54,United Kingdom,hedge funds,Finance & Investments,GBR
+115,Pavel Durov,15.1,37,United Arab Emirates,messaging app,Technology,ARE
+116,Scott Farquhar,15.1,42,Australia,software,Technology,AUS
+117,Pallonji Mistry,15,92,Ireland,construction,Construction & Engineering,IRL
+118,Dang Yanbao,14.8,49,China,coal,Metals & Mining,CHN
+119,Robert Pera,14.6,44,United States,wireless networking gear,Technology,USA
+120,Donald Newhouse,14.4,92,United States,media,Media & Entertainment,USA
+121,Uday Kotak,14.3,63,India,banking,Finance & Investments,IND
+122,Aliko Dangote,14,64,Nigeria,"cement, sugar",Manufacturing,NGA
+123,Leonid Mikhelson,14,66,Russia,"gas, chemicals",Energy,RUS
+124,Sunil Mittal & family,13.9,64,India,telecom,Telecom,IND
+125,Liu Hanyuan,13.65,58,China,agribusiness,Food & Beverage,CHN
+126,Anders Holch Povlsen,13.6,49,Denmark,fashion retail,Fashion & Retail,DNK
+127,Joseph Lau,13.6,70,Hong Kong,real estate,Real Estate,HKG
+128,Dhanin Chearavanont,13.5,82,Thailand,diversified,Diversified,THA
+129,Gong Hongjia & family,13.2,57,Hong Kong,video surveillance,Finance & Investments,HKG
+130,Liu Yongxing,13.2,73,China,diversified,Service,CHN
+131,Alexey Mordashov,13.2,56,Russia,"steel, investments",Metals & Mining,RUS
+132,Wang Jianlin,13.2,67,China,real estate,Real Estate,CHN
+133,David Duffield,12.9,81,United States,business software,Technology,USA
+134,Li Zhenguo & family,12.9,54,China,solar wafers and modules,Manufacturing,CHN
+135,Harry Triguboff,12.8,89,Australia,real estate,Real Estate,AUS
+136,Zhang Zhidong,12.8,50,China,internet media,Technology,CHN
+137,Chen Bang,12.7,56,China,hospitals,Healthcare,CHN
+138,John Doerr,12.7,70,United States,venture capital,Technology,USA
+139,Kwong Siu-hing,12.6,92,Hong Kong,real estate,Real Estate,HKG
+140,Pei Zhenhua,12.5,63,China,batteries,Energy,CHN
+141,Ricardo Salinas Pliego & family,12.4,66,Mexico,"retail, media",Fashion & Retail,MEX
+142,Jim Pattison,12.2,93,Canada,diversified,Diversified,CAN
+143,Charles Schwab,12.2,84,United States,discount brokerage,Finance & Investments,USA
+144,Goh Cheng Liang,12.1,94,Singapore,paints,Manufacturing,SGP
+145,Lin Jianhua,12.1,59,China,solar panel components,Manufacturing,CHN
+146,Charoen Sirivadhanabhakdi,12,77,Thailand,"alcohol, real estate",Food & Beverage,THA
+147,Jeff Yass,12,63,United States,"trading, investments",Finance & Investments,USA
+148,John Fredriksen,11.9,77,Cyprus,shipping,Logistics,CYP
+149,Andreas Struengmann & family,11.9,72,Germany,pharmaceuticals,Healthcare,DEU
+150,Thomas Struengmann & family,11.9,72,Germany,pharmaceuticals,Healthcare,DEU
+151,Mikhail Fridman,11.8,57,Russia,"oil, banking, telecom",Energy,RUS
+152,Sarath Ratanavadi,11.8,56,Thailand,energy,Energy,THA
+153,Lei Jun,11.7,52,China,smartphones,Technology,CHN
+154,Zhang Congyuan,11.7,74,Taiwan,shoes,Fashion & Retail,TWN
+155,Lui Che Woo,11.6,93,Hong Kong,casinos/hotels,Gambling & Casinos,HKG
+156,Brian Chesky,11.5,40,United States,Airbnb,Technology,USA
+157,Israel Englander,11.5,73,United States,hedge funds,Finance & Investments,USA
+158,Dustin Moskovitz,11.5,37,United States,Facebook,Technology,USA
+159,Alisher Usmanov,11.5,68,Russia,"steel, telecom, investments",Metals & Mining,RUS
+160,Jay Chaudhry,11.4,62,United States,security software,Technology,USA
+161,Anthony Pratt,11.4,61,Australia,manufacturing,Manufacturing,AUS
+162,Colin Zheng Huang,11.3,42,China,e-commerce,Technology,CHN
+163,Jin Baofang,11.3,69,China,solar panels,Energy,CHN
+164,Pierre Omidyar,11.3,54,United States,"eBay, PayPal",Technology,USA
+165,Gennady Timchenko,11.3,69,Russia,"oil, gas",Energy,RUS
+166,Carl Cook,11.1,59,United States,medical devices,Healthcare,USA
+167,Wang Xing,11,43,China,e-commerce,Technology,CHN
+168,David Cheriton,10.9,71,Canada,Google,Technology,CAN
+169,Alexander Otto,10.9,54,Germany,real estate,Real Estate,DEU
+170,Philip Anschutz,10.9,82,United States,investments,Finance & Investments,USA
+171,Diane Hendricks,10.7,75,United States,roofing,Construction & Engineering,USA
+172,Stanley Kroenke,10.7,74,United States,"sports, real estate",Sports,USA
+173,Jerry Jones,10.6,79,United States,Dallas Cowboys,Sports,USA
+174,Quek Leng Chan,10.6,80,Malaysia,"banking, property",Diversified,MYS
+175,Eduardo Saverin,10.6,40,Brazil,Facebook,Media & Entertainment,BRA
+176,Vagit Alekperov,10.5,71,Russia,oil,Energy,RUS
+177,Richard Liu,10.5,48,China,e-commerce,Technology,CHN
+178,Idan Ofer,10.5,66,Israel,shipping,Diversified,ISR
+179,Melker Schorling & family,10.4,74,Sweden,investments,Finance & Investments,SWE
+180,Marcel Herrmann Telles,10.3,72,Brazil,beer,Food & Beverage,BRA
+181,"Chase Coleman, III.",10.3,46,United States,investments,Finance & Investments,USA
+182,Stefano Pessina,10.3,80,Monaco,drugstores,Fashion & Retail,MCO
+183,Mikhail Prokhorov,10.3,56,Russia,investments,Finance & Investments,RUS
+184,Leon Black,10,70,United States,private equity,Finance & Investments,USA
+185,Joe Gebbia,10,40,United States,Airbnb,Technology,USA
+186,David Geffen,10,79,United States,"movies, record labels",Media & Entertainment,USA
+187,Yu Renrong,10,56,China,semiconductors,Manufacturing,CHN
+188,George Kaiser,9.9,79,United States,"oil & gas, banking",Energy,USA
+189,Qi Shi & family,9.9,52,China,financial information,Technology,CHN
+190,Luis Carlos Sarmiento,9.9,89,Colombia,banking,Finance & Investments,COL
+191,Andreas von Bechtolsheim & family,9.9,66,Germany,Google,Technology,DEU
+192,Andrew Beal,9.9,69,United States,"banks, real estate",Finance & Investments,USA
+193,Jan Koum,9.8,46,United States,WhatsApp,Technology,USA
+194,Jorge Moll Filho & family,9.8,77,Brazil,hospitals,Healthcare,BRA
+195,Azim Premji,9.8,76,India,software services,Technology,IND
+196,Finn Rausing,9.8,67,Sweden,packaging,Food & Beverage,SWE
+197,Jorn Rausing,9.8,62,Sweden,packaging,Food & Beverage,SWE
+198,Kirsten Rausing,9.8,69,Sweden,packaging,Food & Beverage,SWE
+199,Wang Laisheng,9.8,57,China,electronics components,Technology,CHN
+200,Tom & Judy Love,9.7,N/A,United States,retail & gas stations,Fashion & Retail,USA
+201,Gordon Moore,9.5,93,United States,Intel,Technology,USA
+202,Wang Laichun,9.5,54,China,electronics components,Technology,CHN
+203,Patrick Collison,9.5,33,Ireland,payment software,Technology,IRL
+204,Graeme Hart,9.4,66,New Zealand,investments,Finance & Investments,NZL
+205,Zheng Shuliang & family,9.4,76,China,aluminum products,Metals & Mining,CHN
+206,Cao Renxian,9.3,53,China,photovoltaic equipment,Energy,CHN
+207,Nathan Blecharczyk,9.2,38,United States,Airbnb,Technology,USA
+208,James Dyson,9.2,74,United Kingdom,vacuums,Manufacturing,GBR
+209,Ivan Glasenberg,9.1,65,Switzerland,mining,Metals & Mining,CHE
+210,Kim Beom-su,9.1,56,South Korea,online services,Technology,KOR
+211,Jay Y. Lee,9.1,53,South Korea,Samsung,Diversified,KOR
+212,Liu Yonghao & family,9.1,70,China,agribusiness,Service,CHN
+213,Ann Walton Kroenke,9,73,United States,Walmart,Fashion & Retail,USA
+214,Eric Wittouck,9,75,Belgium,investments,Finance & Investments,BEL
+215,Friedhelm Loh,8.9,75,Germany,manufacturing,Manufacturing,DEU
+216,Xavier Niel,8.9,54,France,"internet, telecom",Telecom,FRA
+217,Michael Otto,8.9,78,Germany,"retail, real estate",Fashion & Retail,DEU
+218,Johann Rupert & family,8.9,71,South Africa,luxury goods,Fashion & Retail,ZAF
+219,Ian & Richard Livingstone,8.9,N/A,United Kingdom,real estate,Real Estate,GBR
+220,Hui Ka Yan,8.8,63,China,real estate,Real Estate,CHN
+221,Pauline MacMillan Keinath,8.8,88,United States,Cargill,Food & Beverage,USA
+222,"Herbert Kohler, Jr. & family",8.8,83,United States,plumbing fixtures,Manufacturing,USA
+223,Ge Li,8.8,55,United States,pharmaceutical ingredients,Healthcare,USA
+224,Kushal Pal Singh,8.8,90,India,real estate,Real Estate,IND
+225,Zong Qinghou,8.8,76,China,beverages,Food & Beverage,CHN
+226,Cai Kui,8.7,59,China,real estate,Real Estate,CHN
+227,Charles Ergen,8.7,69,United States,satellite TV,Media & Entertainment,USA
+228,Bernard Marcus,8.7,92,United States,Home Depot,Fashion & Retail,USA
+229,Nicky Oppenheimer & family,8.7,76,South Africa,diamonds,Metals & Mining,ZAF
+230,Bajaj brothers,8.6,N/A,India,diversified,Diversified,IND
+231,"Ernest Garcia, II.",8.6,64,United States,used cars,Automotive,USA
+232,Paul Lee,8.6,64,United States,packaging,Manufacturing,USA
+233,George Soros,8.6,91,United States,hedge funds,Finance & Investments,USA
+234,Wang Liping & family,8.6,56,China,hydraulic machinery,Manufacturing,CHN
+235,Ernesto Bertarelli,8.5,56,Switzerland,"biotech, investments",Healthcare,CHE
+236,Tamara Gustavson,8.5,60,United States,self storage,Service,USA
+237,Carlos Alberto Sicupira & family,8.5,74,Brazil,beer,Food & Beverage,BRA
+238,Francine von Finck & family,8.4,N/A,Germany,investments,Finance & Investments,DEU
+239,Anthony von Mandl,8.4,72,Canada,alcoholic beverages,Food & Beverage,CAN
+240,Laurent Dassault,8.4,68,France,diversified,Diversified,FRA
+241,Thierry Dassault,8.4,65,France,diversified,Diversified,FRA
+242,Marie-Hélène Habert-Dassault,8.4,57,France,diversified,Diversified,FRA
+243,Liu Jincheng & family,8.4,57,China,lithium batteries,Technology,CHN
+244,Steven Rales,8.4,71,United States,"manufacturing, investments",Manufacturing,USA
+245,Joseph Tsai,8.4,58,Canada,e-commerce,Technology,CAN
+246,Carl Bennet,8.3,70,Sweden,investments,Finance & Investments,SWE
+247,Robert Kraft,8.3,80,United States,New England Patriots,Sports,USA
+248,Chairul Tanjung,8.3,59,Indonesia,diversified,Diversified,IDN
+249,Manuel Villar,8.3,72,Philippines,real estate,Real Estate,PHL
+250,Jean-Michel Besnier,8.2,54,France,cheese,Food & Beverage,FRA
+251,Marie Besnier Beauvalot,8.2,41,France,cheese,Food & Beverage,FRA
+252,Gustaf Douglas,8.2,84,Sweden,investments,Diversified,SWE
+253,Kjeld Kirk Kristiansen,8.2,74,Denmark,Lego,Manufacturing,DNK
+254,Sofie Kirk Kristiansen,8.2,46,Denmark,Lego,Manufacturing,DNK
+255,Thomas Kirk Kristiansen,8.2,43,Denmark,Lego,Manufacturing,DNK
+256,Agnete Kirk Thinggaard,8.2,38,Denmark,Lego,Manufacturing,DNK
+257,Dmitri Bukhman,8.1,36,Israel,online games,Media & Entertainment,ISR
+258,Igor Bukhman,8.1,40,Israel,online games,Media & Entertainment,ISR
+259,Francis Choi,8.1,74,Hong Kong,real estate,Real Estate,HKG
+260,Murali Divi & family,8.1,71,India,pharmaceuticals,Healthcare,IND
+261,Nancy Walton Laurie,8.1,70,United States,Walmart,Fashion & Retail,USA
+262,Georg Schaeffler,8.1,57,Germany,auto parts,Automotive,DEU
+263,Yao Liangsong,8.1,57,China,furniture,Manufacturing,CHN
+264,Zhong Huijuan,8.1,61,China,pharmaceuticals,Healthcare,CHN
+265,Marc Benioff,8.1,57,United States,business software,Technology,USA
+266,Stewart & Lynda Resnick,8,N/A,United States,"agriculture, water",Food & Beverage,USA
+267,George Roberts,8,78,United States,private equity,Finance & Investments,USA
+268,Michael Rubin,8,49,United States,online retail,Fashion & Retail,USA
+269,Patrick Ryan,8,84,United States,insurance,Finance & Investments,USA
+270,Valerie Mars,7.9,63,United States,"candy, pet food",Food & Beverage,USA
+271,Victoria Mars,7.9,65,United States,"candy, pet food",Food & Beverage,USA
+272,Hasso Plattner & family,7.9,78,Germany,software,Technology,DEU
+273,Georg Stumpf,7.9,49,Austria,"real estate, construction",Diversified,AUT
+274,Christy Walton,7.9,73,United States,Walmart,Fashion & Retail,USA
+275,Marijke Mars,7.9,57,United States,"candy, pet food",Food & Beverage,USA
+276,Pamela Mars,7.9,61,United States,"candy, pet food",Food & Beverage,USA
+277,Giorgio Armani,7.8,87,Italy,luxury goods,Fashion & Retail,ITA
+278,Gopikishan Damani,7.8,64,India,"retail, investments",Fashion & Retail,IND
+279,Ding Shizhong & family,7.8,51,China,sports apparel,Fashion & Retail,CHN
+280,Jim Kennedy,7.8,74,United States,"media, automotive",Media & Entertainment,USA
+281,German Khan,7.8,60,Russia,"oil, banking, telecom",Energy,RUS
+282,Liang Wengen,7.8,65,China,construction equipment,Manufacturing,CHN
+283,Blair Parry-Okeden,7.8,71,United States,"media, automotive",Media & Entertainment,USA
+284,Ding Shijia,7.7,58,China,sports apparel,Fashion & Retail,CHN
+285,Karel Komarek,7.7,53,Czechia,"oil and gas, IT, lotteries",Gambling & Casinos,CZE
+286,Henry Kravis,7.7,78,United States,private equity,Finance & Investments,USA
+287,Frederik Paulsen,7.7,71,Sweden,health care,Healthcare,SWE
+288,Safra siblings,7.7,N/A,Brazil,banking,Finance & Investments,BRA
+289,Nassef Sawiris,7.7,61,Egypt,"construction, investments",Construction & Engineering,EGY
+290,Xu Shihui,7.7,64,China,"snacks, beverages",Food & Beverage,CHN
+291,Bajaj siblings,7.7,N/A,India,"two-wheelers, finance",Automotive,IND
+292,Ashwin Dani & family,7.7,79,India,paints,Manufacturing,IND
+293,Rahel Blocher,7.6,46,Switzerland,chemicals,Manufacturing,CHE
+294,Shahid Khan,7.6,71,United States,auto parts,Automotive,USA
+295,Magdalena Martullo-Blocher,7.6,53,Switzerland,chemicals,Manufacturing,CHE
+296,Vincent Bolloré & family,7.5,70,France,investments,Finance & Investments,FRA
+297,Jeffery Hildebrand,7.5,63,United States,oil,Energy,USA
+298,Richard Kinder,7.5,77,United States,pipelines,Energy,USA
+299,David Shaw,7.5,71,United States,hedge funds,Finance & Investments,USA
+300,John Malone,7.4,81,United States,cable television,Media & Entertainment,USA
+301,Vicky Safra,7.4,69,Greece,banking,Finance & Investments,GRC
+302,Tim Sweeney,7.4,51,United States,video games,Media & Entertainment,USA
+303,Mike Adenuga,7.3,68,Nigeria,"telecom, oil",Diversified,NGA
+304,David Green & family,7.3,80,United States,retail,Fashion & Retail,USA
+305,"Paul Tudor Jones, II.",7.3,67,United States,hedge funds,Finance & Investments,USA
+306,Yuri Milner,7.3,60,Israel,tech investments,Finance & Investments,ISR
+307,Henry Samueli,7.3,67,United States,semiconductors,Technology,USA
+308,Patrick Soon-Shiong,7.3,69,United States,pharmaceuticals,Healthcare,USA
+309,Antonia Ax:son Johnson & family,7.2,78,Sweden,diversified,Diversified,SWE
+310,Michael Kadoorie,7.2,80,Hong Kong,"hotels, energy",Energy,HKG
+311,Lin Shu-hong,7.2,93,Taiwan,petrochemicals,Manufacturing,TWN
+312,Reinhold Schmieding,7.2,67,United States,medical devices,Healthcare,USA
+313,Wee Cho Yaw,7.2,93,Singapore,banking,Finance & Investments,SGP
+314,Silvio Berlusconi & family,7.1,85,Italy,media,Diversified,ITA
+315,Arthur Blank,7.1,79,United States,Home Depot,Sports,USA
+316,Qian Dongqi & family,7.1,64,China,home-cleaning robots,Manufacturing,CHN
+317,J. Christopher Reyes,7.1,68,United States,food distribution,Food & Beverage,USA
+318,Jude Reyes,7.1,66,United States,food distribution,Food & Beverage,USA
+319,Nik Storonsky,7.1,37,United Kingdom,fintech,Finance & Investments,GBR
+320,Zhou Qunfei & family,7.1,52,Hong Kong,smartphone screens,Technology,HKG
+321,Deng Weiming & family,7,53,China,battery components,Manufacturing,CHN
+322,Judy Faulkner,7,78,United States,health IT,Technology,USA
+323,Robin Li,7,53,China,internet search,Technology,CHN
+324,Carrie Perrodo & family,7,71,France,oil,Energy,FRA
+325,David Reuben,7,83,United Kingdom,"investments, real estate",Real Estate,GBR
+326,Seo Jung-jin,7,64,South Korea,biotech,Healthcare,KOR
+327,Micky Arison,6.9,72,United States,Carnival Cruises,Service,USA
+328,Edythe Broad & family,6.9,86,United States,"homebuilding, insurance",Diversified,USA
+329,Terry Gou,6.9,71,Taiwan,electronics,Technology,TWN
+330,Jiang Bin,6.9,55,China,acoustic components,Technology,CHN
+331,Vinod Khosla,6.9,67,United States,venture capital,Technology,USA
+332,Ralph Lauren,6.9,82,United States,apparel,Fashion & Retail,USA
+333,Douglas Leone,6.9,64,United States,venture capital,Finance & Investments,USA
+334,Lucia Maggi & family,6.9,89,Brazil,agribusiness,Diversified,BRA
+335,Horst Julius Pudwill,6.9,77,Germany,manufacturing,Manufacturing,DEU
+336,Abdulsamad Rabiu,6.9,61,Nigeria,"cement, sugar",Diversified,NGA
+337,Harry Stine,6.9,80,United States,agriculture,Food & Beverage,USA
+338,Dennis Washington,6.9,87,United States,"construction, mining",Logistics,USA
+339,Roman Abramovich,6.9,55,Russia,"steel, investments",Diversified,RUS
+340,Kwon Hyuk-bin,6.8,48,South Korea,online games,Technology,KOR
+341,Frank Lowy,6.8,91,Australia,shopping malls,Real Estate,AUS
+342,Ronda Stryker,6.8,67,United States,medical equipment,Healthcare,USA
+343,Stanley Druckenmiller,6.8,68,United States,hedge funds,Finance & Investments,USA
+344,Jonathan Gray,6.8,52,United States,investments,Finance & Investments,USA
+345,Alejandro Bailleres Gual & siblings,6.7,61,Mexico,mining,Diversified,MEX
+346,Benu Gopal Bangur,6.7,90,India,cement,Manufacturing,IND
+347,James Goodnight,6.7,79,United States,software,Technology,USA
+348,Alain Merieux & family,6.7,84,France,pharmaceuticals,Healthcare,FRA
+349,Enrique Razon Jr.,6.7,62,Philippines,ports,Logistics,PHL
+350,Robert F. Smith,6.7,59,United States,private equity,Finance & Investments,USA
+351,Law Kar Po,6.6,73,Hong Kong,real estate,Real Estate,HKG
+352,Nicolas Puech,6.6,79,France,Hermes,Fashion & Retail,FRA
+353,Viktor Rashnikov,6.6,73,Russia,steel,Manufacturing,RUS
+354,Dmitry Rybolovlev,6.6,55,Russia,fertilizer,Manufacturing,RUS
+355,Randa Duncan Williams,6.6,60,United States,pipelines,Energy,USA
+356,Brian Armstrong,6.6,39,United States,cryptocurrency,Finance & Investments,USA
+357,Dannine Avara,6.6,58,United States,pipelines,Energy,USA
+358,Patrick Drahi,6.6,58,France,telecom,Telecom,FRA
+359,Milane Frantz,6.6,52,United States,pipelines,Energy,USA
+360,Andreas Halvorsen,6.6,60,Norway,hedge funds,Finance & Investments,NOR
+361,David Siegel,6.5,60,United States,hedge funds,Finance & Investments,USA
+362,David Velez,6.5,40,Colombia,fintech,Finance & Investments,COL
+363,Chen Jianhua,6.5,51,China,chemicals,Manufacturing,CHN
+364,John Grayken,6.5,65,Ireland,private equity,Finance & Investments,IRL
+365,Ray Lee Hunt,6.5,78,United States,"oil, real estate",Energy,USA
+366,Philippe Laffont,6.5,54,United States,hedge fund,Finance & Investments,USA
+367,"Henry Nicholas, III.",6.5,62,United States,semiconductors,Technology,USA
+368,Axel Oberwelland & siblings,6.5,55,Germany,candy,Food & Beverage,DEU
+369,Cliff Obrecht,6.5,36,Australia,software,Technology,AUS
+370,Melanie Perkins,6.5,34,Australia,software,Technology,AUS
+371,Ruan Hongliang & family,6.5,61,China,glass,Manufacturing,CHN
+372,Takahisa Takahara,6.4,60,Japan,personal care goods,Fashion & Retail,JPN
+373,Juergen Blickle,6.4,75,Germany,auto parts,Manufacturing,DEU
+374,Cheng Xue,6.4,52,China,soy sauce,Food & Beverage,CHN
+375,Jack Dangermond,6.4,76,United States,mapping software,Technology,USA
+376,Jiang Weiping & family,6.4,67,China,chemicals,Manufacturing,CHN
+377,Orlando Bravo,6.3,51,United States,private equity,Finance & Investments,USA
+378,Hong Ra-hee,6.3,76,South Korea,Samsung,Technology,KOR
+379,"Edward Johnson, IV.",6.3,57,United States,money management,Finance & Investments,USA
+380,Li Xiaohua & family,6.3,60,China,packaging,Manufacturing,CHN
+381,Sri Prakash Lohia,6.3,69,Indonesia,petrochemicals,Manufacturing,IDN
+382,Miao Hangen,6.3,57,China,"textiles, petrochemicals",Diversified,CHN
+383,Bobby Murphy,6.3,33,United States,Snapchat,Technology,USA
+384,Wu Jianshu,6.3,58,Hong Kong,auto parts,Automotive,HKG
+385,Leonard Stern,6.2,84,United States,real estate,Real Estate,USA
+386,Stef Wertheimer & family,6.2,95,Israel,metalworking tools,Manufacturing,ISR
+387,Maria Asuncion Aramburuzabala & family,6.2,58,Mexico,"beer, investments",Food & Beverage,MEX
+388,Melinda French Gates,6.2,57,United States,Microsoft,Technology,USA
+389,Bruce Kovner,6.2,77,United States,hedge funds,Finance & Investments,USA
+390,Michal Solowow,6.2,59,Poland,investments,Finance & Investments,POL
+391,Rocco Commisso,6.1,72,United States,telecom,Telecom,USA
+392,Jack Dorsey,6.1,45,United States,"Twitter, Square",Technology,USA
+393,Lin Li,6.1,58,China,investments,Finance & Investments,CHN
+394,George Lucas,6.1,77,United States,Star Wars,Media & Entertainment,USA
+395,Evan Spiegel,6.1,31,United States,Snapchat,Media & Entertainment,USA
+396,Zhao Yan,6.1,55,China,biotech,Diversified,CHN
+397,Tom Gores,6,57,United States,private equity,Finance & Investments,USA
+398,Leo Koguan,6,67,United States,IT provider,Technology,USA
+399,Alexei Kuzmichev,6,59,Russia,"oil, banking, telecom",Energy,RUS
+400,Fredrik Lundberg,6,70,Sweden,"real estate, investments",Real Estate,SWE
+401,Ivar Tollefsen,6,60,Norway,real estate,Real Estate,NOR
+402,"John, Alan & Bruce Wilson",6,N/A,Australia,retailing,Fashion & Retail,AUS
+403,Stephen Bisciotti,5.9,61,United States,"staffing, Baltimore Ravens",Sports,USA
+404,Mahendra Choksi & family,5.9,80,India,paints,Manufacturing,IND
+405,Jian Jun,5.9,58,China,biomedical products,Healthcare,CHN
+406,Barry Lam,5.9,72,Taiwan,electronics,Technology,TWN
+407,Michael Moritz,5.9,67,United States,venture capital,Technology,USA
+408,Teh Hong Piow,5.9,92,Malaysia,banking,Finance & Investments,MYS
+409,Gary Wang,5.9,28,United States,cryptocurrency exchange,Finance & Investments,USA
+410,Mitchell Rales,5.8,65,United States,"manufacturing, investments",Manufacturing,USA
+411,Wolfgang Reimann,5.8,69,Germany,consumer goods,Fashion & Retail,DEU
+412,Matthias Reimann-Andersen,5.8,57,Germany,consumer goods,Fashion & Retail,DEU
+413,Stefan Reimann-Andersen,5.8,58,Germany,consumer goods,Fashion & Retail,DEU
+414,Renate Reimann-Haas,5.8,70,Germany,consumer goods,Fashion & Retail,DEU
+415,Ruan Liping,5.8,58,Hong Kong,power strips,Manufacturing,HKG
+416,Ruan Xueping,5.8,50,Hong Kong,power strip,Manufacturing,HKG
+417,Andre Esteves,5.8,53,Brazil,banking,Finance & Investments,BRA
+418,Charles Simonyi,5.8,73,United States,Microsoft,Technology,USA
+419,Josh Harris,5.8,57,United States,private equity,Finance & Investments,USA
+420,John A. Sobrato & family,5.8,82,United States,real estate,Real Estate,USA
+421,Rakesh Jhunjhunwala,5.8,61,India,investments,Finance & Investments,IND
+422,David Steward,5.8,70,United States,IT provider,Technology,USA
+423,Ken Langone,5.8,86,United States,investments,Finance & Investments,USA
+424,Radovan Vitek,5.8,50,Czechia,real estate,Real Estate,CZE
+425,Ludwig Merckle,5.8,57,Germany,pharmaceuticals,Finance & Investments,DEU
+426,Les Wexner & family,5.8,84,United States,retail,Fashion & Retail,USA
+427,Terrence Pegula,5.8,71,United States,natural gas,Energy,USA
+428,Sam Zell,5.8,80,United States,"real estate, private equity",Real Estate,USA
+429,Karen Pritzker,5.8,64,United States,"hotels, investments",Finance & Investments,USA
+430,Rainer Blickle,5.7,74,Germany,auto parts,Manufacturing,DEU
+431,Clive Calder,5.7,75,United Kingdom,record label,Media & Entertainment,GBR
+432,Frits Goldschmeding,5.7,88,Netherlands,temp agency,Service,NLD
+433,Ananda Krishnan,5.7,84,Malaysia,"telecoms, media, oil-services",Telecom,MYS
+434,Joe Mansueto,5.7,65,United States,investment research,Finance & Investments,USA
+435,Odd Reitan & family,5.7,70,Norway,"retail, real estate",Fashion & Retail,NOR
+436,Antony Ressler,5.7,60,United States,finance,Finance & Investments,USA
+437,Tang Xiao'ou,5.7,54,Hong Kong,software,Technology,HKG
+438,Tse Ping & family,5.7,70,China,pharmaceuticals,Healthcare,CHN
+439,Ken Xie,5.7,59,United States,cybersecurity,Technology,USA
+440,Anthony Bamford & family,5.7,76,United Kingdom,construction equipment,Construction & Engineering,GBR
+441,David Sun,5.6,70,United States,computer hardware,Technology,USA
+442,John Tu,5.6,80,United States,computer hardware,Technology,USA
+443,Erich Wesjohann & family,5.6,76,Germany,poultry genetics,Food & Beverage,DEU
+444,Xu Jinfu,5.6,58,China,chemicals,Manufacturing,CHN
+445,Tilman Fertitta,5.6,64,United States,"Houston Rockets, entertainment",Food & Beverage,USA
+446,Prajogo Pangestu,5.6,77,Indonesia,petrochemicals,Diversified,IDN
+447,Teddy Sagi,5.6,50,Israel,gambling software,Gambling & Casinos,ISR
+448,Thomas Straumann,5.6,58,Switzerland,dental implants,Healthcare,CHE
+449,Alexander Abramov,5.5,63,Russia,"steel, mining",Metals & Mining,RUS
+450,Neil Bluhm,5.5,84,United States,real estate,Real Estate,USA
+451,Don Hankey,5.5,78,United States,auto loans,Finance & Investments,USA
+452,Kwee brothers,5.5,N/A,Singapore,Real Estate,Real Estate,SGP
+453,Jane Lauder,5.5,49,United States,Estée Lauder,Fashion & Retail,USA
+454,Gwendolyn Sontheim Meyer,5.5,60,United States,Cargill,Food & Beverage,USA
+455,John Reece,5.5,65,United Kingdom,chemicals,Manufacturing,GBR
+456,Eric Smidt,5.5,62,United States,hardware stores,Fashion & Retail,USA
+457,Ronald Wanek,5.5,80,United States,furniture,Manufacturing,USA
+458,John Brown,5.4,87,United States,medical equipment,Healthcare,USA
+459,Chris Xu,5.4,38,China,e-commerce,Fashion & Retail,CHN
+460,Chen Zhiping,5.4,46,China,e-cigarettes,Manufacturing,CHN
+461,Samuel Yin,5.4,71,Taiwan,retail,Diversified,TWN
+462,Andrew Currie,5.4,66,United Kingdom,chemicals,Manufacturing,GBR
+463,M.A. Yusuff Ali,5.4,66,India,retail,Fashion & Retail,IND
+464,Jim Davis & family,5.4,78,United States,New Balance,Manufacturing,USA
+465,Charles Dolan & family,5.4,95,United States,cable television,Media & Entertainment,USA
+466,Tom Golisano,5.4,80,United States,payroll services,Service,USA
+467,Hui Wing Mau,5.4,71,Hong Kong,real estate,Real Estate,HKG
+468,Daniel Kretinsky,5.4,46,Czechia,"energy, investments",Energy,CZE
+469,Massimiliana Landini Aleotti & family,5.4,79,Italy,pharmaceuticals,Healthcare,ITA
+470,Joe Lewis,5.4,85,United Kingdom,investments,Finance & Investments,GBR
+471,Li Chunan,5.4,53,China,renewable energy,Manufacturing,CHN
+472,Lin Muqin & family,5.4,58,China,beverages,Food & Beverage,CHN
+473,Kjell Inge Rokke,5.4,63,Norway,"shipping, seafood",Logistics,NOR
+474,Rene Benko,5.4,45,Austria,"real estate, retail",Real Estate,AUT
+475,Wang Wenjing,5.4,57,China,business software,Technology,CHN
+476,Chip Wilson,5.3,65,Canada,Lululemon,Fashion & Retail,CAN
+477,Zhang Yong,5.3,51,Singapore,restaurants,Food & Beverage,SGP
+478,Denise Coates,5.3,54,United Kingdom,online gambling,Gambling & Casinos,GBR
+479,Ken Fisher,5.3,71,United States,money management,Finance & Investments,USA
+480,Peter Grogg,5.3,80,Switzerland,biochemicals,Healthcare,CHE
+481,Dietmar Hopp & family,5.3,81,Germany,software,Technology,DEU
+482,Sumet Jiaravanon,5.3,87,Thailand,diversified,Diversified,THA
+483,Nathan Kirsh,5.3,90,Eswatini (Swaziland),"retail, real estate",Fashion & Retail,#N/A
+484,Forrest Li,5.3,44,Singapore,gaming,Media & Entertainment,SGP
+485,Rudolf Maag,5.3,76,Switzerland,medical devices,Healthcare,CHE
+486,Gary Rollins,5.3,77,United States,pest control,Service,USA
+487,Mark Scheinberg,5.3,48,Canada,online gambling,Gambling & Casinos,CAN
+488,Shen Guojun,5.3,59,China,retail,Fashion & Retail,CHN
+489,James Chambers,5.2,64,United States,"media, automotive",Media & Entertainment,USA
+490,Chen Fashu,5.2,61,China,investments,Finance & Investments,CHN
+491,Jaran Chiaravanont,5.2,92,Thailand,diversified,Diversified,THA
+492,Ravi Jaipuria,5.2,67,India,"soft drinks, fast food",Food & Beverage,IND
+493,Koon Poh Keong,5.2,60,Malaysia,aluminum,Manufacturing,MYS
+494,Li Liangbin,5.2,54,China,lithium,Manufacturing,CHN
+495,Liang Feng,5.2,53,China,manufacturing,Manufacturing,CHN
+496,Wolfgang Marguerre & family,5.2,80,Germany,pharmaceuticals,Healthcare,DEU
+497,Katharine Rayner,5.2,77,United States,"media, automotive",Media & Entertainment,USA
+498,Carlos Rodriguez-Pastor,5.2,62,Peru,finance,Finance & Investments,PER
+499,You Xiaoping,5.2,64,China,"chemicals, spandex",Manufacturing,CHN
+500,Eric Yuan & family,5.2,52,United States,Zoom Video Communications,Technology,USA
+501,Robert Bass,5.1,74,United States,"oil, investments",Energy,USA
+502,Wang Yanqing & family,5.1,55,China,electrical equipment,Manufacturing,CHN
+503,Alexandre Behring,5.1,55,Brazil,investments,Finance & Investments,BRA
+504,Chan Laiwa & family,5.1,81,China,real estate,Real Estate,CHN
+505,Jeff Greene,5.1,67,United States,"real estate, investments",Real Estate,USA
+506,Montri Jiaravanont,5.1,91,Thailand,diversified,Diversified,THA
+507,Charles B. Johnson,5.1,89,United States,money management,Finance & Investments,USA
+508,Elizabeth Johnson,5.1,58,United States,money management,Finance & Investments,USA
+509,Lin Bin,5.1,54,United States,smartphones,Technology,USA
+510,Hiroshi Mikitani,5.1,57,Japan,online retail,Fashion & Retail,JPN
+511,Isaac Perlmutter,5.1,79,United States,Marvel comics,Media & Entertainment,USA
+512,Michael Pieper,5.1,76,Switzerland,kitchen appliances,Manufacturing,CHE
+513,Issad Rebrab & family,5.1,78,Algeria,food,Food & Beverage,DZA
+514,Richard Tsai,5.1,64,Taiwan,finance,Finance & Investments,TWN
+515,Wang Junshi & family,5.1,73,China,solar inverters,Manufacturing,CHN
+516,Tobi Lutke,5,41,Canada,e-commerce,Technology,CAN
+517,Shari Arison,5,64,Israel,Carnival Cruises,Service,ISR
+518,Thomas Pritzker,5,71,United States,"hotels, investments",Finance & Investments,USA
+519,Alain Bouchard,5,73,Canada,convinience stores,Fashion & Retail,CAN
+520,Scott Shleifer,5,44,United States,private equity,Finance & Investments,USA
+521,"Austen Cargill, II.",5,71,United States,Cargill,Food & Beverage,USA
+522,Autry Stephens,5,83,United States,oil,Energy,USA
+523,"James Cargill, II.",5,72,United States,Cargill,Food & Beverage,USA
+524,Peter Thiel,5,54,United States,"Facebook, investments",Finance & Investments,USA
+525,Ben Chestnut,5,47,United States,email marketing,Technology,USA
+526,Tsai Cheng-ta,5,72,Taiwan,finance,Finance & Investments,TWN
+527,Wei Fang,5,48,China,steel,Manufacturing,CHN
+528,Maximilian Viessmann,5,N/A,Germany,"heating, cooling equipment",Manufacturing,DEU
+529,Leonid Fedun,5,66,Russia,oil,Energy,RUS
+530,Hansjoerg Wyss,5,87,Switzerland,medical devices,Healthcare,CHE
+531,Johann Graf,5,75,Austria,gambling,Gambling & Casinos,AUT
+532,Xiao Yongming & family,5,57,China,fertilizer,Diversified,CHN
+533,Huang Chulong,5,63,Canada,real estate,Real Estate,CAN
+534,Zhang Tao,5,49,China,e-commerce,Fashion & Retail,CHN
+535,Huang Yi,5,60,Hong Kong,car dealerships,Automotive,HKG
+536,Daniel Ziff,5,50,United States,investments,Finance & Investments,USA
+537,Vladimir Kim,5,61,Kazakhstan,mining,Metals & Mining,KAZ
+538,Dirk Ziff,5,58,United States,investments,Finance & Investments,USA
+539,Ronald Lauder,5,78,United States,Estee Lauder,Fashion & Retail,USA
+540,Marianne Liebmann,5,68,United States,Cargill,Food & Beverage,USA
+541,"Robert Rich, Jr.",4.9,81,United States,frozen foods,Food & Beverage,USA
+542,Thomas Schmidheiny,4.9,76,Switzerland,cement,Construction & Engineering,CHE
+543,Alexandra Schoerghuber & family,4.9,63,Germany,real estate,Real Estate,DEU
+544,Erik Selin,4.9,54,Sweden,real estate,Real Estate,SWE
+545,Daniel Tsai,4.9,65,Taiwan,finance,Finance & Investments,TWN
+546,Kapil & Rahul Bhatia,4.9,N/A,India,airlines,Service,IND
+547,Mat Ishbia,4.9,42,United States,mortgage lender,Finance & Investments,USA
+548,Emanuele (Lino) Saputo & family,4.8,85,Canada,cheese,Food & Beverage,CAN
+549,Jeff Skoll,4.8,57,United States,eBay,Technology,USA
+550,Frank Wang,4.8,41,China,drones,Technology,CHN
+551,Wang Junlin,4.8,59,China,liquor,Food & Beverage,CHN
+552,Yang Shaopeng,4.8,64,China,shipping,Logistics,CHN
+553,Dona Bertarelli,4.8,54,Switzerland,biotech,Healthcare,CHE
+554,Andrei Guriev & family,4.8,62,Russia,fertilizers,Manufacturing,RUS
+555,Luciano Hang,4.8,59,Brazil,department stores,Fashion & Retail,BRA
+556,Hu Baifan,4.8,59,China,pharmaceuticals,Healthcare,CHN
+557,Bidzina Ivanishvili,4.8,66,Georgia,investments,Finance & Investments,GEO
+558,Lee Yeow Chor & Yeow Seng,4.8,N/A,Malaysia,"palm oil, property",Food & Beverage,MYS
+559,Leng Youbin,4.8,53,China,infant formula,Food & Beverage,CHN
+560,"Julian Robertson, Jr.",4.8,89,United States,hedge funds,Finance & Investments,USA
+561,Marc Rowan,4.8,59,United States,private equity,Finance & Investments,USA
+562,Leonid Boguslavsky,4.7,70,Canada,venture capital,Finance & Investments,CAN
+563,Igor Olenicoff,4.7,79,United States,real estate,Real Estate,USA
+564,Richard Branson,4.7,71,United Kingdom,Virgin,Diversified,GBR
+565,Mark Shoen,4.7,71,United States,U-Haul,Automotive,USA
+566,Robert Brockman,4.7,80,United States,software,Technology,USA
+567,Andrei Skoch & family,4.7,56,Russia,steel,Metals & Mining,RUS
+568,Pierre Chen,4.7,65,Taiwan,electronics,Technology,TWN
+569,Fred Smith,4.7,77,United States,FedEx,Logistics,USA
+570,Chu Mang Yee & family,4.7,62,China,real estate,Real Estate,CHN
+571,Murat Ulker,4.7,63,Turkey,food,Food & Beverage,TUR
+572,Scott Cook,4.7,69,United States,software,Technology,USA
+573,Yu Yong,4.7,61,China,mining,Finance & Investments,CHN
+574,Mark Cuban,4.7,63,United States,"online media, Dallas Mavericks",Media & Entertainment,USA
+575,Guenther Fielmann & family,4.7,82,Germany,optometry,Healthcare,DEU
+576,Martin Haefner,4.7,68,Switzerland,"software, investments",Technology,CHE
+577,Johnelle Hunt,4.7,90,United States,trucking,Logistics,USA
+578,"Andre Koo, Sr.",4.7,54,Taiwan,financial services,Finance & Investments,TWN
+579,Lai Meisong,4.7,51,China,package delivery,Logistics,CHN
+580,Mangal Prabhat Lodha,4.7,66,India,real estate,Real Estate,IND
+581,Maria Fernanda Amorim & family,4.7,87,Portugal,"energy, investments",Diversified,PRT
+582,Min Kao & family,4.6,73,United States,navigation equipment,Technology,USA
+583,Lin Xiucheng & family,4.6,66,China,electronics,Technology,CHN
+584,Sami Mnaymneh,4.6,60,United States,private equity,Finance & Investments,USA
+585,Tony Tamer,4.6,64,United States,private equity,Finance & Investments,USA
+586,Richard White,4.6,67,Australia,software,Technology,AUS
+587,Baoguo Zhu & family,4.6,59,China,pharmaceuticals,Healthcare,CHN
+588,Stéphane Bancel,4.6,49,France,"biotech, vaccines",Healthcare,FRA
+589,Bubba Cathy,4.6,67,United States,Chick-fil-A,Food & Beverage,USA
+590,Dan Cathy,4.6,69,United States,Chick-fil-A,Food & Beverage,USA
+591,Trudy Cathy White,4.6,66,United States,Chick-fil-A,Food & Beverage,USA
+592,Jason Chang,4.6,77,Singapore,electronics,Technology,SGP
+593,Dagmar Dolby & family,4.6,80,United States,Dolby Laboratories,Technology,USA
+594,Masatoshi Ito,4.6,97,Japan,retail,Fashion & Retail,JPN
+595,Viatcheslav Kantor,4.6,68,Russia,"fertilizer, real estate",Manufacturing,RUS
+596,Trevor Rees-Jones,4.5,70,United States,oil & gas,Energy,USA
+597,J. Joe Ricketts & family,4.5,80,United States,TD Ameritrade,Finance & Investments,USA
+598,Robert Rowling,4.5,68,United States,"hotels, investments",Service,USA
+599,Mark Stevens,4.5,62,United States,venture capital,Finance & Investments,USA
+600,Gustav Magnar Witzoe,4.5,28,Norway,fish farming,Food & Beverage,NOR
+601,Xie Liangzhi & family,4.5,56,China,biotech,Healthcare,CHN
+602,Michael Ashley,4.5,57,United Kingdom,sports retailing,Fashion & Retail,GBR
+603,Yeung Kin-man,4.5,58,Hong Kong,electronics,Manufacturing,HKG
+604,Ron Baron,4.5,78,United States,money management,Finance & Investments,USA
+605,Zhang Hejun,4.5,N/A,China,electronics,Manufacturing,CHN
+606,Bert Beveridge,4.5,60,United States,vodka,Food & Beverage,USA
+607,Todd Boehly,4.5,48,United States,finance,Finance & Investments,USA
+608,David Bonderman,4.5,79,United States,private equity,Finance & Investments,USA
+609,Guo Guangchang,4.5,55,China,conglomerate,Diversified,CHN
+610,Ted Lerner & family,4.5,96,United States,real estate,Real Estate,USA
+611,Falguni Nayar,4.5,59,India,retailing,Fashion & Retail,IND
+612,Edwin Leong,4.4,70,Hong Kong,real estate,Real Estate,HKG
+613,Lu Yiwen,4.4,35,China,jewelry,Fashion & Retail,CHN
+614,N.R. Narayana Murthy,4.4,75,India,software services,Technology,IND
+615,Yang Jianliang & family,4.4,52,China,machinery,Manufacturing,CHN
+616,Andrej Babis,4.4,67,Czechia,agriculture,Food & Beverage,CZE
+617,Giuseppe De'Longhi & family,4.4,82,Italy,coffee makers,Fashion & Retail,ITA
+618,Barry Diller,4.4,80,United States,online media,Media & Entertainment,USA
+619,Christian Haub,4.4,57,Germany,retail,Fashion & Retail,DEU
+620,Marian Ilitch,4.4,89,United States,Little Caesars,Food & Beverage,USA
+621,Suleiman Kerimov & family,4.4,56,Russia,gold,Finance & Investments,RUS
+622,Jason Jiang,4.3,49,China,advertising,Media & Entertainment,CHN
+623,"Rupert Johnson, Jr.",4.3,81,United States,money management,Finance & Investments,USA
+624,Vikram Lal & family,4.3,80,India,motorcycles,Automotive,IND
+625,Lam Wai-ying,4.3,N/A,Hong Kong,smartphone screens,Manufacturing,HKG
+626,Pyotr Aven,4.3,67,Russia,"oil, banking, telecom",Finance & Investments,RUS
+627,Chris Larsen,4.3,61,United States,cryptocurrency,Finance & Investments,USA
+628,Joesley Batista,4.3,50,Brazil,beef processing,Food & Beverage,BRA
+629,Richard Schulze,4.3,81,United States,Best Buy,Fashion & Retail,USA
+630,Wesley Batista,4.3,49,Brazil,beef packing,Food & Beverage,BRA
+631,Paul Singer,4.3,77,United States,hedge funds,Finance & Investments,USA
+632,Margot Birmingham Perot,4.3,88,United States,"computer services, real estate",Technology,USA
+633,Barry Sternlicht,4.3,61,United States,private equity,Finance & Investments,USA
+634,Rick Caruso,4.3,63,United States,real estate,Real Estate,USA
+635,Su Hua,4.3,40,China,video streaming,Media & Entertainment,CHN
+636,Jim Davis,4.3,62,United States,staffing & recruiting,Service,USA
+637,Mark Walter,4.3,61,United States,finance,Finance & Investments,USA
+638,Walter P.J. Droege,4.3,69,Germany,investing,Finance & Investments,DEU
+639,Ty Warner,4.3,77,United States,"plush toys, real estate",Real Estate,USA
+640,Dan Friedkin,4.3,57,United States,Toyota dealerships,Automotive,USA
+641,Antti Herlin,4.3,65,Finland,"elevators, escalators",Manufacturing,FIN
+642,W. Herbert Hunt,4.3,93,United States,oil,Energy,USA
+643,Daniel D'Aniello,4.2,75,United States,private equity,Finance & Investments,USA
+644,Jon Stryker,4.2,63,United States,medical equipment,Healthcare,USA
+645,Traudl Engelhorn & family,4.2,95,Germany,"pharmaceuticals, medical equipment",Healthcare,DEU
+646,Vincent Viola,4.2,66,United States,electronic trading,Finance & Investments,USA
+647,Piero Ferrari,4.2,76,Italy,automobiles,Automotive,ITA
+648,Romesh T. Wadhwani,4.2,74,United States,software,Technology,USA
+649,Carlo Fidani,4.2,67,Canada,real estate,Real Estate,CAN
+650,Yakir Gabay,4.2,55,Cyprus,real estate,Real Estate,CYP
+651,Jaime Gilinski Bacal,4.2,64,Colombia,banking,Finance & Investments,COL
+652,Bertil Hult,4.2,81,Sweden,education,Service,SWE
+653,Martha Ingram & family,4.2,86,United States,"book distribution, transportation",Media & Entertainment,USA
+654,Lee Yin Yee,4.2,70,China,glass,Manufacturing,CHN
+655,Daniel Loeb,4.2,60,United States,hedge funds,Finance & Investments,USA
+656,Janice McNair,4.2,85,United States,"energy, sports",Sports,USA
+657,Rinat Akhmetov,4.2,55,Ukraine,"steel, coal",Metals & Mining,UKR
+658,Ajay Piramal,4.2,66,India,pharmaceuticals,Healthcare,IND
+659,Bernard Broermann,4.2,78,Germany,hospitals,Healthcare,DEU
+660,Peter Spuhler,4.2,62,Switzerland,train cars,Manufacturing,CHE
+661,Chung Mong-Koo,4.2,84,South Korea,Hyundai,Automotive,KOR
+662,Kerry Stokes,4.2,81,Australia,"construction equipment, media",Diversified,AUS
+663,Augusto & Giorgio Perfetti,4.1,N/A,Italy,candy,Food & Beverage,ITA
+664,Thomas Secunda,4.1,67,United States,Bloomberg LP,Media & Entertainment,USA
+665,Shaul Shani,4.1,67,Israel,telecom,Telecom,ISR
+666,Juan Domingo Beckmann Legorreta & family,4.1,54,Mexico,tequila,Food & Beverage,MEX
+667,E. Joe Shoen,4.1,72,United States,U-Haul,Automotive,USA
+668,Rafael Del Pino,4.1,63,Spain,construction,Construction & Engineering,ESP
+669,Steven Udvar-Hazy,4.1,76,United States,aircraft leasing,Service,USA
+670,Sergey Dmitriev,4.1,56,Cyprus,software,Technology,CYP
+671,Russ Weiner,4.1,51,United States,energy drinks,Food & Beverage,USA
+672,Senapathy Gopalakrishnan,4.1,67,India,software services,Technology,IND
+673,Guanjiang Wu & family,4.1,53,China,pharmaceuticals,Healthcare,CHN
+674,James Irving,4.1,94,Canada,diversified,Diversified,CAN
+675,Lee Boo-jin,4.1,51,South Korea,Samsung,Service,KOR
+676,Samuel Tak Lee,4.1,82,Hong Kong,real estate,Real Estate,HKG
+677,Thai Lee,4.1,63,United States,IT provider,Technology,USA
+678,Eric Lefkofsky,4.1,52,United States,"Groupon, investments",Technology,USA
+679,Ermirio Pereira de Moraes & family,4.1,89,Brazil,diversified,Diversified,BRA
+680,Maria Helena Moraes Scripilliti & family,4.1,91,Brazil,diversified,Diversified,BRA
+681,Wolfgang Herz,4,71,Germany,coffee,Fashion & Retail,DEU
+682,Juan Roig,4,72,Spain,supermarkets,Fashion & Retail,ESP
+683,Arthur Irving,4,92,Canada,oil,Energy,CAN
+684,David Rubenstein,4,72,United States,private equity,Finance & Investments,USA
+685,Victor Jacobsson,4,40,Sweden,fintech,Finance & Investments,SWE
+686,Howard Schultz,4,68,United States,Starbucks,Food & Beverage,USA
+687,Marc Ladreit de Lacharriere,4,81,France,finance,Finance & Investments,FRA
+688,Alex Shevchenko,4,42,Canada,software,Technology,CAN
+689,Patrick Lee,4,80,Hong Kong,paper,Manufacturing,HKG
+690,Dan Snyder,4,57,United States,Washington Football Team,Sports,USA
+691,Max Lytvyn,4,42,Canada,software,Technology,CAN
+692,Jerzy Starak,4,74,Poland,pharmaceuticals,Healthcare,POL
+693,Gilles Martin,4,58,France,laboratory services,Healthcare,FRA
+694,Udo & Harald Tschira,4,N/A,Germany,software,Technology,DEU
+695,Anil Agarwal & family,4,68,India,"mining, metals",Metals & Mining,IND
+696,Ramzi Musallam,4,53,United States,private equity,Finance & Investments,USA
+697,Kelcy Warren,4,66,United States,pipelines,Energy,USA
+698,Somphote Ahunai,4,54,Thailand,renewable energy,Energy,THA
+699,Georg Nemetschek & family,4,88,Germany,software,Technology,DEU
+700,Herbert Wertheim,4,82,United States,investments,Finance & Investments,USA
+701,Patrizio Bertelli,4,76,Italy,luxury goods,Fashion & Retail,ITA
+702,Akio Nitori,4,78,Japan,home furnishings,Fashion & Retail,JPN
+703,Cameron Winklevoss,4,40,United States,cryptocurrency,Finance & Investments,USA
+704,Rakesh Gangwal,4,68,United States,airline,Service,USA
+705,Daniel Och,4,61,United States,hedge funds,Finance & Investments,USA
+706,Tyler Winklevoss,4,40,United States,cryptocurrency,Finance & Investments,USA
+707,Paul Gauselmann & family,4,87,Germany,gambling,Gambling & Casinos,DEU
+708,Pankaj Patel,4,69,India,pharmaceuticals,Healthcare,IND
+709,Denise York & family,4,71,United States,San Francisco 49ers,Sports,USA
+710,He Xiaopeng,4,44,China,electric vehicles,Automotive,CHN
+711,Miuccia Prada,4,72,Italy,luxury goods,Fashion & Retail,ITA
+712,Michael Herz,4,78,Germany,coffee,Fashion & Retail,DEU
+713,Jean (Gigi) Pritzker,4,59,United States,"hotels, investments",Service,USA
+714,Marcos Galperin,3.9,N/A,Argentina,e-commerce,Technology,ARG
+715,Li Xiang,3.9,40,China,electric vehicles,Automotive,CHN
+716,"Stephen Mandel, Jr.",3.9,66,United States,hedge funds,Finance & Investments,USA
+717,Gabe Newell,3.9,59,United States,videogames,Gambling & Casinos,USA
+718,Maja Oeri,3.9,67,Switzerland,pharmaceuticals,Healthcare,CHE
+719,Paolo & Gianfelice Mario Rocca,3.9,N/A,Italy,pipe manufacturing,Metals & Mining,ITA
+720,Neil Shen,3.9,54,China,venture capital,Finance & Investments,CHN
+721,Helmut Sohmen,3.9,82,Austria,shipping,Logistics,AUT
+722,Donald Sterling,3.9,87,United States,real estate,Real Estate,USA
+723,Don Vultaggio & family,3.9,70,United States,beverages,Food & Beverage,USA
+724,Wu Yiling,3.9,72,China,pharmaceuticals,Healthcare,CHN
+725,Gongshan Zhu,3.9,64,China,solar panel materials,Manufacturing,CHN
+726,Hubert Burda,3.9,82,Germany,publishing,Media & Entertainment,DEU
+727,Francesco Gaetano Caltagirone,3.9,79,Italy,"cement, diversified",Construction & Engineering,ITA
+728,Kuldip Singh Dhingra,3.8,74,India,paints,Manufacturing,IND
+729,Leena Tewari,3.8,64,India,pharmaceuticals,Healthcare,IND
+730,Luca Garavoglia,3.8,53,Italy,spirits,Food & Beverage,ITA
+731,Yitzhak Tshuva,3.8,73,Israel,real estate,Real Estate,ISR
+732,Vinod & Anil Rai Gupta,3.8,N/A,India,electrical equipment,Manufacturing,IND
+733,Paul-Heinz Wesjohann & family,3.8,78,Germany,chicken processing,Food & Beverage,DEU
+734,Jimmy Haslam,3.8,68,United States,"gas stations, retail",Fashion & Retail,USA
+735,Zeng Fangqin,3.8,56,China,smartphone components,Technology,CHN
+736,Susan Carol Holland,3.8,65,Italy,hearing aids,Manufacturing,ITA
+737,Zhou Bajin,3.8,86,China,auto parts,Manufacturing,CHN
+738,Timur Kulibaev,3.8,55,Kazakhstan,banking,Finance & Investments,KAZ
+739,Dinara Kulibaeva,3.8,54,Kazakhstan,banking,Finance & Investments,KAZ
+740,Michel Leclercq & family,3.8,82,France,sporting goods,Fashion & Retail,FRA
+741,Pablo Legorreta,3.8,58,United States,investments,Finance & Investments,USA
+742,Margarita Louis-Dreyfus & family,3.8,59,Switzerland,commodities,Food & Beverage,CHE
+743,Michael Milken,3.8,75,United States,investments,Finance & Investments,USA
+744,Denis O'Brien,3.8,63,Ireland,telecom,Telecom,IRL
+745,"William Conway, Jr.",3.8,72,United States,private equity,Finance & Investments,USA
+746,James Packer,3.8,54,Australia,casinos,Gambling & Casinos,AUS
+747,Gurbachan Singh Dhingra,3.8,71,India,paints,Manufacturing,IND
+748,Sergio Stevanato & family,3.8,79,Italy,medical packaging,Healthcare,ITA
+749,John Catsimatidis,3.7,73,United States,"oil, real estate",Energy,USA
+750,Ira Rennert,3.7,87,United States,investments,Finance & Investments,USA
+751,Che Jianxing,3.7,55,China,furniture retailing,Fashion & Retail,CHN
+752,"Bernard Saul, II.",3.7,89,United States,"banking, real estate",Finance & Investments,USA
+753,Gustavo Denegri,3.7,85,Italy,biotech,Healthcare,ITA
+754,Shi Yonghong & family,3.7,53,China,restaurants,Food & Beverage,CHN
+755,Charles Edelstenne,3.7,84,France,aviation,Manufacturing,FRA
+756,Song Chi-hyung,3.7,43,South Korea,cryptocurrency,Finance & Investments,KOR
+757,Reed Hastings,3.7,61,United States,Netflix,Media & Entertainment,USA
+758,Steven Spielberg,3.7,75,United States,movies,Media & Entertainment,USA
+759,"Amos Hostetter, Jr.",3.7,85,United States,cable television,Media & Entertainment,USA
+760,Wong Luen Hei,3.7,60,China,building materials,Manufacturing,CHN
+761,Brad Jacobs,3.7,65,United States,logistics,Logistics,USA
+762,Friedrich Knapp,3.7,70,Germany,fashion retail,Fashion & Retail,DEU
+763,William Lauder,3.7,61,United States,Estee Lauder,Fashion & Retail,USA
+764,Richard LeFrak & family,3.7,76,United States,real estate,Real Estate,USA
+765,Li Guoqiang,3.7,58,China,auto dealerships,Automotive,CHN
+766,Low Tuck Kwong,3.7,73,Indonesia,coal,Energy,IDN
+767,Anthony Pritzker,3.7,61,United States,"hotels, investments",Service,USA
+768,William Berkley,3.7,75,United States,insurance,Finance & Investments,USA
+769,Hu Kaijun,3.6,60,China,pharmaceuticals,Healthcare,CHN
+770,Julia Thiele-Schuerhoff,3.6,50,Germany,"brakes, investments",Manufacturing,DEU
+771,Peter Kellogg,3.6,79,United States,investments,Finance & Investments,USA
+772,Tung Chee Chen,3.6,79,Hong Kong,shipping,Logistics,HKG
+773,James Leprino,3.6,84,United States,cheese,Food & Beverage,USA
+774,Roger Wang,3.6,73,United States,retail,Fashion & Retail,USA
+775,Iskander Makhmudov,3.6,58,Russia,"mining, metals, machinery",Metals & Mining,RUS
+776,Wu Shaoxun,3.6,66,China,wine,Food & Beverage,CHN
+777,Daniel Mate,3.6,58,Spain,"mining, commodities",Metals & Mining,ESP
+778,Wenzhong Zhang,3.6,60,China,supermarkets,Fashion & Retail,CHN
+779,Aristotelis Mistakidis,3.6,60,Greece,"mining, commodities",Metals & Mining,GRC
+780,Danielle Bellon & family,3.6,82,France,food services,Service,FRA
+781,Arturo Moreno,3.6,75,United States,"billboards, Los Angeles Angels",Sports,USA
+782,Byju Raveendran and Divya Gokulnath,3.6,40,India,education technology,Technology,IND
+783,Nan Cunhui,3.6,58,China,power equipment,Manufacturing,CHN
+784,Cho Tak Wong,3.6,75,Hong Kong,auto parts,Manufacturing,HKG
+785,Julio Ponce Lerou,3.6,76,Chile,fertilizer,Metals & Mining,CHL
+786,Charles Cohen,3.6,70,United States,real estate,Real Estate,USA
+787,J.B. Pritzker,3.6,57,United States,"hotels, investments",Finance & Investments,USA
+788,Kenneth Dart,3.6,66,Belize,investments,Finance & Investments,BLZ
+789,Chandru Raheja,3.6,81,India,real estate,Real Estate,IND
+790,Martin Ebner,3.6,76,Switzerland,investments,Finance & Investments,CHE
+791,Rodger Riney & family,3.6,76,United States,discount brokerage,Finance & Investments,USA
+792,Miguel Fluxa Rossello,3.6,83,Spain,hotels,Service,ESP
+793,Zuowen Song,3.6,75,China,"aluminum, diversified",Diversified,CHN
+794,John Henry,3.6,72,United States,sports,Sports,USA
+795,Jerry Speyer,3.6,81,United States,real estate,Real Estate,USA
+796,Kuok Khoon Hong,3.5,72,Singapore,palm oil,Manufacturing,SGP
+797,Herb Simon,3.5,87,United States,real estate,Real Estate,USA
+798,Aerin Lauder,3.5,51,United States,cosmetics,Fashion & Retail,USA
+799,Friede Springer,3.5,79,Germany,publishing,Media & Entertainment,DEU
+800,Lee Seo-hyun,3.5,48,South Korea,Samsung,Diversified,KOR
+801,Wang Zhenhua,3.5,60,China,real estate,Real Estate,CHN
+802,Li Yongxin & family,3.5,46,China,education,Service,CHN
+803,Hans Peter Wild,3.5,80,Switzerland,flavorings,Food & Beverage,CHE
+804,Jeffrey Lurie,3.5,70,United States,Philadelphia Eagles,Sports,USA
+805,"William Wrigley, Jr.",3.5,58,United States,chewing gum,Food & Beverage,USA
+806,Chen Kaixuan,3.5,63,China,household chemicals,Manufacturing,CHN
+807,Mary Alice Dorrance Malone,3.5,72,United States,Campbell Soup,Food & Beverage,USA
+808,Xia Zuoquan,3.5,60,China,"automobiles, batteries",Automotive,CHN
+809,Beatriz Davila de Santo Domingo,3.5,83,Colombia,beer,Food & Beverage,COL
+810,Ronald McAulay,3.5,86,Hong Kong,energy,Energy,HKG
+811,Xue Hua,3.5,52,China,agribusiness,Manufacturing,CHN
+812,Antonio Del Valle Ruiz & family,3.5,83,Mexico,chemicals,Manufacturing,MEX
+813,Apoorva Mehta,3.5,35,Canada,grocery delivery service,Technology,CAN
+814,Carl Douglas,3.5,60,Sweden,investments,Diversified,SWE
+815,Arnon Milchan,3.5,77,Israel,movie making,Media & Entertainment,ISR
+816,Eric Douglas,3.5,53,Sweden,investments,Diversified,SWE
+817,Masahiro Noda,3.5,83,Japan,software,Technology,JPN
+818,Jiangtao Du & family,3.5,52,China,chemicals,Manufacturing,CHN
+819,Maren Otto,3.5,N/A,Germany,"retail, real estate",Diversified,DEU
+820,Juan Carlos Escotet,3.5,62,Venezuela,banking,Finance & Investments,VEN
+821,Renzo Rosso & family,3.5,66,Italy,fashion,Fashion & Retail,ITA
+822,Yuhua Gu & family,3.5,72,China,furniture,Manufacturing,CHN
+823,Gil Shwed,3.5,53,Israel,software,Technology,ISR
+824,James Irsay,3.5,62,United States,Indianapolis Colts,Sports,USA
+825,Thomas Siebel,3.5,69,United States,business software,Technology,USA
+826,Fu Liquan & family,3.4,54,China,surveillance equipment,Technology,CHN
+827,T. Denny Sanford,3.4,86,United States,"banking, credit cards",Finance & Investments,USA
+828,David Gottesman,3.4,95,United States,investments,Finance & Investments,USA
+829,Naguib Sawiris,3.4,67,Egypt,telecom,Telecom,EGY
+830,Laurence Graff & family,3.4,83,United Kingdom,diamond jewelry,Fashion & Retail,GBR
+831,Pavel Tykac,3.4,57,Czechia,coal mines,Metals & Mining,CZE
+832,Jeff T. Green,3.4,45,United States,digital advertising,Media & Entertainment,USA
+833,Todd Wanek,3.4,58,United States,furniture,Manufacturing,USA
+834,Jim Kavanaugh,3.4,59,United States,IT provider,Technology,USA
+835,Meg Whitman,3.4,65,United States,eBay,Technology,USA
+836,Steven Klinsky,3.4,65,United States,investments,Finance & Investments,USA
+837,Michael Xie,3.4,53,United States,cybersecurity,Technology,USA
+838,John Middleton,3.4,67,United States,tobacco,Food & Beverage,USA
+839,Chenghai Ye & family,3.4,78,Hong Kong,pharmaceuticals,Healthcare,HKG
+840,Mohed Altrad,3.4,74,France,"scaffolding, cement mixers",Construction & Engineering,FRA
+841,Jerry Ng,3.4,56,Indonesia,banking,Finance & Investments,IDN
+842,Sid Bass,3.4,79,United States,"oil, investments",Energy,USA
+843,Tengyun Nie & family,3.4,46,China,logistics,Service,CHN
+844,Nick Caporella,3.4,86,United States,beverages,Food & Beverage,USA
+845,Nandan Nilekani,3.4,66,India,software services,Technology,IND
+846,Cheng Yixiao,3.4,38,China,video streaming app,Media & Entertainment,CHN
+847,Bob Parsons,3.4,71,United States,web hosting,Technology,USA
+848,Wesley Edens,3.4,60,United States,investments,Finance & Investments,USA
+849,Prasert Prasarttong-Osoth,3.4,89,Thailand,hospitals,Healthcare,THA
+850,Archie Aldis Emmerson & family,3.4,92,United States,"timberland, lumber mills",Manufacturing,USA
+851,Richard Sands,3.4,71,United States,liquor,Food & Beverage,USA
+852,Jose E. Feliciano,3.4,48,United States,private equity,Finance & Investments,USA
+853,Robert Sands,3.4,63,United States,liquor,Food & Beverage,USA
+854,Ralph Dommermuth,3.3,58,Germany,internet service provider,Technology,DEU
+855,Alfred Oetker,3.3,55,Germany,consumer goods,Fashion & Retail,DEU
+856,Walter Faria,3.3,67,Brazil,beer,Food & Beverage,BRA
+857,Carl Ferdinand Oetker,3.3,49,Germany,consumer goods,Fashion & Retail,DEU
+858,Bob Gaglardi,3.3,81,Canada,hotels,Real Estate,CAN
+859,Julia Oetker,3.3,43,Germany,consumer goods,Fashion & Retail,DEU
+860,John Gandel,3.3,87,Australia,shopping malls,Real Estate,AUS
+861,Or Wai Sheun,3.3,70,Hong Kong,real estate,Real Estate,HKG
+862,Xuande Hua & family,3.3,78,China,pharmaceuticals,Healthcare,CHN
+863,Jay Paul,3.3,74,United States,real estate,Real Estate,USA
+864,Micky Jagtiani,3.3,70,India,retail,Fashion & Retail,IND
+865,Horst Paulmann & family,3.3,87,Chile,retail,Fashion & Retail,CHL
+866,H. Fisk Johnson,3.3,63,United States,cleaning products,Manufacturing,USA
+867,Theodore Rachmat,3.3,78,Indonesia,diversified,Diversified,IDN
+868,An Kang,3.3,73,China,pharmaceuticals,Healthcare,CHN
+869,S. Curtis Johnson,3.3,66,United States,cleaning products,Manufacturing,USA
+870,John Sall,3.3,74,United States,software,Technology,USA
+871,John Arnold,3.3,48,United States,hedge funds,Finance & Investments,USA
+872,Helen Johnson-Leipold,3.3,65,United States,cleaning products,Manufacturing,USA
+873,Stefan von Holtzbrinck,3.3,58,Germany,publishing,Media & Entertainment,DEU
+874,Arun Bharat Ram,3.3,81,India,chemicals,Manufacturing,IND
+875,Miguel Krigsner,3.3,72,Brazil,cosmetics,Fashion & Retail,BRA
+876,Nusli Wadia,3.3,78,India,consumer goods,Food & Beverage,IND
+877,Tomasz Biernacki,3.3,49,Poland,supermarkets,Fashion & Retail,POL
+878,Li Jianquan & family,3.3,65,Hong Kong,consumer products,Healthcare,HKG
+879,Steve Wynn,3.3,80,United States,"casinos, hotels",Gambling & Casinos,USA
+880,Travis Boersma,3.3,51,United States,coffee,Food & Beverage,USA
+881,Lin Ming-hsiung,3.3,72,Taiwan,supermarkets,Fashion & Retail,TWN
+882,Yang Weidong & family,3.3,53,China,chemicals,Manufacturing,CHN
+883,Dongsheng Chen,3.3,64,China,insurance,Finance & Investments,CHN
+884,Kiran Mazumdar-Shaw,3.3,69,India,biopharmaceuticals,Healthcare,IND
+885,Zhang Shilong & family,3.3,56,China,semiconductor,Technology,CHN
+886,Jean Coutu & family,3.3,94,Canada,drugstores,Fashion & Retail,CAN
+887,Patrice Motsepe,3.3,60,South Africa,mining,Metals & Mining,ZAF
+888,Zhong Ruonong & family,3.3,59,China,electronics,Manufacturing,CHN
+889,Cameron Adams,3.2,42,Australia,software,Technology,AUS
+890,Alan Howard,3.2,58,United Kingdom,hedge funds,Finance & Investments,GBR
+891,Rita Tong Liu,3.2,73,Hong Kong,real estate,Real Estate,HKG
+892,Dongchen Cai,3.2,69,China,pharmaceuticals,Healthcare,CHN
+893,Kei Hoi Pang,3.2,56,China,real estate,Real Estate,CHN
+894,Tran Dinh Long,3.2,61,Vietnam,steel,Manufacturing,VNM
+895,Vanich Chaiyawan,3.2,90,Thailand,"insurance, beverages",Finance & Investments,THA
+896,Rudy Ma,3.2,81,Taiwan,finance,Finance & Investments,TWN
+897,Zhang Daocai,3.2,72,China,valves,Diversified,CHN
+898,Andrew & Peggy Cherng,3.2,N/A,United States,restaurants,Food & Beverage,USA
+899,Najib Mikati,3.2,66,Lebanon,telecom,Telecom,LBN
+900,James Clark,3.2,78,United States,"Netscape, investments",Technology,USA
+901,Taha Mikati,3.2,77,Lebanon,telecom,Telecom,LBN
+902,Jack Cowin,3.2,79,Australia,fast food,Food & Beverage,AUS
+903,Gail Miller,3.2,78,United States,car dealerships,Automotive,USA
+904,Giuseppe Crippa & family,3.2,86,Italy,microchip testing,Manufacturing,ITA
+905,Vikas Oberoi,3.2,51,India,real estate,Real Estate,IND
+906,Sergei Galitsky,3.2,54,Russia,retail,Fashion & Retail,RUS
+907,"H. Ross Perot, Jr.",3.2,63,United States,real estate,Real Estate,USA
+908,"Ernest Garcia, III",3.2,39,United States,used cars,Automotive,USA
+909,Candido Pinheiro Koren de Lima,3.2,75,Brazil,"hospitals, health insurance",Healthcare,BRA
+910,Peter Gilgan,3.2,71,Canada,homebuilding,Construction & Engineering,CAN
+911,Matthew Prince,3.2,47,United States,cybersecurity,Technology,USA
+912,Joseph Grendys,3.2,60,United States,poultry processing,Food & Beverage,USA
+913,Penny Pritzker,3.2,62,United States,"hotels, investments",Finance & Investments,USA
+914,Thomas Hagen,3.2,86,United States,insurance,Finance & Investments,USA
+915,Yasumitsu Shigeta,3.2,57,Japan,mobile phone retailer,Telecom,JPN
+916,Michael Hintze,3.2,68,Australia,investment,Finance & Investments,AUS
+917,Barry Silbert,3.2,45,United States,cryptocurrency,Finance & Investments,USA
+918,Pansy Ho,3.2,59,Hong Kong,casinos,Gambling & Casinos,HKG
+919,Daniel Sundheim,3.2,45,United States,hedge funds,Finance & Investments,USA
+920,Harsh Mariwala,3.1,70,India,consumer goods,Food & Beverage,IND
+921,Sergei Popov,3.1,50,Russia,banking,Finance & Investments,RUS
+922,Samir Mehta,3.1,58,India,"pharmaceuticals, power",Healthcare,IND
+923,Haim Saban,3.1,77,United States,"TV network, investments",Media & Entertainment,USA
+924,Sudhir Mehta,3.1,67,India,"pharmaceuticals, power",Healthcare,IND
+925,Karthik Sarma,3.1,47,India,hedge fund,Finance & Investments,IND
+926,John Caudwell,3.1,69,United Kingdom,mobile phones,Telecom,GBR
+927,Pawan Munjal & family,3.1,68,India,motorcycles,Automotive,IND
+928,Klaus-Peter Schulenberg,3.1,70,Germany,ticketing service,Service,DEU
+929,Philippe Foriel-Destezet,3.1,86,France,employment agency,Service,FRA
+930,Nguyen Thi Phuong Thao,3.1,51,Vietnam,airlines,Diversified,VNM
+931,Pat Stryker,3.1,65,United States,medical equipment,Healthcare,USA
+932,Walter Frey,3.1,78,Switzerland,car dealerships,Automotive,CHE
+933,Jeff Sutton,3.1,62,United States,real estate,Real Estate,USA
+934,Alessandra Garavoglia,3.1,62,Italy,spirits,Food & Beverage,ITA
+935,Jon Yarbrough,3.1,64,United States,video games,Gambling & Casinos,USA
+936,Peter Gassner,3.1,57,United States,software,Technology,USA
+937,Gang Ye,3.1,41,Singapore,gaming,Media & Entertainment,SGP
+938,Mitchell Goldhar,3.1,60,Canada,real estate,Real Estate,CAN
+939,Yi Zheng,3.1,51,China,software,Technology,CHN
+940,Otto Happel,3.1,74,Germany,engineering,Construction & Engineering,DEU
+941,Zhang Fan,3.1,56,China,touch screens,Technology,CHN
+942,Peter Hargreaves,3.1,75,United Kingdom,financial services,Finance & Investments,GBR
+943,Bom Kim,3.1,43,United States,online retailing,Technology,USA
+944,Liufa Li & family,3.1,64,China,"steel, diversified",Diversified,CHN
+945,Lu Weiding,3.1,51,China,diversified,Diversified,CHN
+946,Madhukar Parekh,3.1,75,India,adhesives,Manufacturing,IND
+947,Chang Kuo-Hua,3,67,Taiwan,"shipping, airlines",Logistics,TWN
+948,Karsanbhai Patel,3,78,India,consumer goods,Diversified,IND
+949,Xie Juhua & family,3,71,China,pharmaceuticals,Healthcare,CHN
+950,Todd Christopher,3,59,United States,hair care products,Fashion & Retail,USA
+951,Arvind Poddar,3,64,India,tires,Automotive,IND
+952,Oren Zeev,3,57,Israel,investments,Finance & Investments,ISR
+953,Euisun Chung,3,51,South Korea,Hyundai,Logistics,KOR
+954,Remo Ruffini,3,60,Italy,winter jackets,Fashion & Retail,ITA
+955,Charles Zegar,3,74,United States,Bloomberg LP,Media & Entertainment,USA
+956,Bernard Ecclestone & family,3,91,United Kingdom,Formula One,Sports,GBR
+957,Eddy Kusnadi Sariaatmadja,3,68,Indonesia,"media, tech",Media & Entertainment,IDN
+958,Zhang Lei,3,49,China,investments,Finance & Investments,CHN
+959,Michael Federmann & family,3,78,Israel,"defense, hotels",Technology,ISR
+960,Sybill Storz,3,84,Germany,medical devices,Healthcare,DEU
+961,Zhang Xin & Pan Shiyi,3,56,China,real estate,Real Estate,CHN
+962,Gudrun Heine,3,67,Germany,medical devices,Healthcare,DEU
+963,Lawrence Stroll,3,62,Canada,fashion investments,Fashion & Retail,CAN
+964,Zhu Yan & family,3,N/A,China,real estate,Real Estate,CHN
+965,Heidi Horten,3,81,Austria,retail,Fashion & Retail,AUT
+966,Wijono & Hermanto Tanoko,3,N/A,Indonesia,paints,Manufacturing,IDN
+967,Mortimer Zuckerman,3,84,United States,"real estate, media",Real Estate,USA
+968,Dawen Huang,3,61,Hong Kong,silicon,Manufacturing,HKG
+969,Michael Tojner,3,56,Austria,"batteries, investments",Manufacturing,AUT
+970,Sheldon Lavin,3,89,United States,meat processing,Food & Beverage,USA
+971,Donald Trump,3,75,United States,real estate,Real Estate,USA
+972,Li Min,3,56,China,semiconductor,Technology,CHN
+973,Tsai Ming-kai,3,71,Taiwan,semiconductors,Technology,TWN
+974,William Ackman,3,55,United States,hedge funds,Finance & Investments,USA
+975,Liang Yunchao,3,53,China,nutritional supplements,Food & Beverage,CHN
+976,John Tyson & family,3,68,United States,food processing,Food & Beverage,USA
+977,Markus Blocher,3,51,Switzerland,chemicals,Manufacturing,CHE
+978,Joseph Liemandt,3,53,United States,software,Technology,USA
+979,Rufino Vigil Gonzalez,3,73,Mexico,steel,Metals & Mining,MEX
+980,Eva Maria Bucher-Haefner,3,65,Switzerland,"software, investments",Technology,CHE
+981,Masahiro Miki,3,66,Japan,shoes,Fashion & Retail,JPN
+982,Wang Yusuo & family,3,58,China,natural gas distribution,Energy,CHN
+983,Pan Laican,3,N/A,China,soy sauce,Food & Beverage,CHN
+984,Zhigang Wu & family,3,87,China,bakery chain,Food & Beverage,CHN
+985,Cao Longxiang & family,2.9,64,China,pharmaceuticals,Healthcare,CHN
+986,Benjamin Otto,2.9,N/A,Germany,retail,Fashion & Retail,DEU
+987,Ye Fan & family,2.9,51,China,auto dealerships,Automotive,CHN
+988,Deng Wen,2.9,54,China,flavorings,Food & Beverage,CHN
+989,Roger Penske,2.9,85,United States,cars,Automotive,USA
+990,Yoo Jung-hyun,2.9,52,South Korea,online games,Media & Entertainment,KOR
+991,Daniel Dines,2.9,50,Romania,software,Technology,ROU
+992,Olivier Pomel,2.9,45,France,cloud computing,Technology,FRA
+993,Fenggang Zhao,2.9,56,China,batteries,Energy,CHN
+994,Joseph Edelman,2.9,66,United States,hedge funds,Finance & Investments,USA
+995,Jean Salata,2.9,56,Chile,finance,Finance & Investments,CHL
+996,Zheng Xiaodong,2.9,58,China,manufacturing,Manufacturing,CHN
+997,N. Murray Edwards,2.9,62,Canada,oil & gas,Energy,CAN
+998,Arnout Schuijff,2.9,54,Netherlands,payments software,Technology,NLD
+999,Zhou Jianping,2.9,61,China,fashion retail,Fashion & Retail,CHN
+1000,Jane Goldman,2.9,66,United States,real estate,Real Estate,USA
+1001,Hua Shen,2.9,59,United States,semiconductors,Technology,USA
+1002,Guo Zhenyu & family,2.9,58,Canada,cosmetics,Fashion & Retail,CAN
+1003,Martua Sitorus,2.9,62,Indonesia,palm oil,Manufacturing,IDN
+1004,Juan Abello,2.9,80,Spain,investments,Finance & Investments,ESP
+1005,Stewart Horejsi & family,2.9,84,United States,Berkshire Hathaway,Finance & Investments,USA
+1006,Zygmunt Solorz-Zak,2.9,65,Poland,TV broadcasting,Media & Entertainment,POL
+1007,John Armitage,2.9,62,Ireland,hedge funds,Finance & Investments,IRL
+1008,Zhenda Huang & family,2.9,74,China,construction,Construction & Engineering,CHN
+1009,Warren Stephens,2.9,65,United States,investment banking,Finance & Investments,USA
+1010,Bang Si-hyuk,2.9,49,South Korea,entertainment,Media & Entertainment,KOR
+1011,"Jeremy Jacobs, Sr. & family",2.9,82,United States,food service,Service,USA
+1012,Tang Jinkui & family,2.9,66,China,"textiles, petrochemicals",Manufacturing,CHN
+1013,Miriam Baumann-Blocher,2.9,47,Switzerland,chemicals,Manufacturing,CHE
+1014,Hamilton James & family,2.9,70,United States,investments,Finance & Investments,USA
+1015,Alan Trefler,2.9,66,United States,software,Technology,USA
+1016,Riley Bechtel & family,2.9,70,United States,"engineering, construction",Construction & Engineering,USA
+1017,Valentin Kipyatkov,2.9,45,Cyprus,software,Technology,CYP
+1018,Masateru Uno & family,2.9,75,Japan,drugstores,Fashion & Retail,JPN
+1019,Nicolas Berggruen,2.9,60,United States,"real estate, investments",Real Estate,USA
+1020,Martin Lorentzon,2.9,53,Sweden,Spotify,Technology,SWE
+1021,Guangming Wu,2.9,60,China,medical equipment,Healthcare,CHN
+1022,Bui Thanh Nhon,2.9,64,Vietnam,real estate,Real Estate,VNM
+1023,"Drayton McLane, Jr.",2.9,85,United States,"Walmart, logistics",Fashion & Retail,USA
+1024,Kai Wu,2.9,54,China,batteries,Energy,CHN
+1025,Garrett Camp,2.8,43,Canada,Uber,Technology,CAN
+1026,James Jannard,2.8,72,United States,sunglasses,Fashion & Retail,USA
+1027,Philip Niarchos,2.8,68,Greece,art collection,Diversified,GRC
+1028,Andrew Tan,2.8,70,Philippines,diversified,Diversified,PHL
+1029,Cao Ji,2.8,70,China,manufacturing,Manufacturing,CHN
+1030,Travis Kalanick,2.8,45,United States,Uber,Technology,USA
+1031,Pan Dong,2.8,57,Canada,consumer goods,Fashion & Retail,CAN
+1032,Kenneth Tuchman,2.8,62,United States,call centers,Service,USA
+1033,Hua Chen,2.8,56,China,real estate,Real Estate,CHN
+1034,Diane Kemper,2.8,76,United States,real estate,Real Estate,USA
+1035,Sean Parker,2.8,42,United States,Facebook,Technology,USA
+1036,Tung Chee Hwa,2.8,84,Hong Kong,shipping,Logistics,HKG
+1037,John Paul DeJoria,2.8,77,United States,"hair products, tequila",Fashion & Retail,USA
+1038,George Kurtz,2.8,51,United States,security software,Technology,USA
+1039,Richard Peery,2.8,83,United States,real estate,Real Estate,USA
+1040,Bulat Utemuratov,2.8,64,Kazakhstan,"mining, banking, hotels",Metals & Mining,KAZ
+1041,Beda Diethelm,2.8,81,Switzerland,hearing aids,Healthcare,CHE
+1042,Kwek Leng Beng,2.8,81,Singapore,diversified,Diversified,SGP
+1043,Gregorio Perez Companc & family,2.8,86,Argentina,oil & gas,Energy,ARG
+1044,Anna Katharina Viessmann,2.8,N/A,Germany,heating and cooling equipment,Manufacturing,DEU
+1045,Jose Joao Abdalla Filho,2.8,76,Brazil,investments,Finance & Investments,BRA
+1046,K. Dinesh,2.8,67,India,software services,Technology,IND
+1047,Geoffrey Kwok,2.8,36,Hong Kong,real estate,Real Estate,HKG
+1048,Sebastian Piñera & family,2.8,72,Chile,investments,Finance & Investments,CHL
+1049,Xicheng Wang & family,2.8,73,China,tires,Manufacturing,CHN
+1050,Brian Acton,2.8,50,United States,WhatsApp,Technology,USA
+1051,Dong Fan,2.8,52,China,medical devices,Healthcare,CHN
+1052,Lai Jianping,2.8,N/A,China,soy sauce,Food & Beverage,CHN
+1053,Nicholas Pritzker,2.8,78,United States,"hotels, investments",Finance & Investments,USA
+1054,Urs Wietlisbach,2.8,60,Switzerland,private equity,Finance & Investments,CHE
+1055,Bill Alfond,2.8,73,United States,shoes,Fashion & Retail,USA
+1056,Bennett Dorrance,2.8,76,United States,Campbell Soup,Food & Beverage,USA
+1057,Maritsa Lazari & family,2.8,77,United Kingdom,real estate,Real Estate,GBR
+1058,Jeff Rothschild,2.8,67,United States,Facebook,Technology,USA
+1059,Wong Man Li,2.8,57,Hong Kong,furniture,Manufacturing,HKG
+1060,Susan Alfond,2.8,76,United States,shoes,Fashion & Retail,USA
+1061,Marcel Erni,2.8,57,Switzerland,private equity,Finance & Investments,CHE
+1062,Alexis Lê-Quôc,2.8,47,United States,cloud computing,Technology,USA
+1063,Steven Sarowitz,2.8,56,United States,payroll software,Technology,USA
+1064,Xie Weitong,2.8,65,Taiwan,cobalt,Metals & Mining,TWN
+1065,Ted Alfond,2.8,77,United States,shoes,Fashion & Retail,USA
+1066,Abhay Firodia,2.8,77,India,automobiles,Automotive,IND
+1067,Angela Leong,2.8,61,Hong Kong,casinos,Real Estate,HKG
+1068,Isabella Seràgnoli,2.8,76,Italy,packaging,Manufacturing,ITA
+1069,Xu Chuanhua & family,2.8,87,China,"chemicals, logistics",Manufacturing,CHN
+1070,Felix Baker,2.8,53,United States,biotech investing,Finance & Investments,USA
+1071,Alfred Gantner,2.8,54,Switzerland,private equity,Finance & Investments,CHE
+1072,Lin Chen-hai,2.8,75,Taiwan,real estate,Real Estate,TWN
+1073,Stephen Smith,2.8,70,Canada,finance and investments,Finance & Investments,CAN
+1074,Ye Xiaoping,2.8,59,China,pharmaceuticals,Healthcare,CHN
+1075,Julian Baker,2.8,55,United States,investing,Finance & Investments,USA
+1076,Allan Goldman,2.8,79,United States,real estate,Real Estate,USA
+1077,Sergio Mantegazza,2.8,94,Switzerland,travel,Service,CHE
+1078,William Stone,2.8,66,United States,software,Technology,USA
+1079,Weiguo Zhao,2.8,55,China,IT products,Technology,CHN
+1080,Maurizio Billi,2.8,64,Brazil,generic drugs,Healthcare,BRA
+1081,J. Tomilson Hill,2.8,73,United States,investments,Finance & Investments,USA
+1082,Tom Morris,2.8,67,United Kingdom,retail,Fashion & Retail,GBR
+1083,Sun Shoukuan,2.8,72,China,"metals, coal",Manufacturing,CHN
+1084,Otto Philipp Braun,2.8,44,Germany,medical technology,Healthcare,DEU
+1085,Hong Jie,2.8,54,China,paint,Manufacturing,CHN
+1086,Eugene Murtagh,2.8,79,Ireland,building materials,Manufacturing,IRL
+1087,"Henry Sy, Jr.",2.8,69,Philippines,diversified,Diversified,PHL
+1088,Yvonne Bauer,2.7,45,Germany,"magazines, media",Media & Entertainment,DEU
+1089,Carlos Hank Rhon,2.7,74,Mexico,banking,Diversified,MEX
+1090,Giuliana Benetton,2.7,84,Italy,"fashion retail, investments",Fashion & Retail,ITA
+1091,Vivek Jain,2.7,66,India,chemicals,Manufacturing,IND
+1092,Luciano Benetton,2.7,86,Italy,"fashion retail, investments",Fashion & Retail,ITA
+1093,Brad Kelley,2.7,65,United States,tobacco,Real Estate,USA
+1094,Aneel Bhusri,2.7,56,United States,business software,Technology,USA
+1095,Alicia Koplowitz,2.7,68,Spain,"construction, investments",Finance & Investments,ESP
+1096,George Bishop,2.7,84,United States,oil & gas,Energy,USA
+1097,Li Li,2.7,56,China,healthcare,Healthcare,CHN
+1098,Vivek Chand Burman,2.7,84,India,consumer goods,Food & Beverage,IND
+1099,C. Dean Metropoulos,2.7,75,United States,investments,Food & Beverage,USA
+1100,Morris Chang,2.7,90,Taiwan,semiconductors,Technology,TWN
+1101,Dan Olsson,2.7,75,Sweden,diversified,Diversified,SWE
+1102,Jinxia Chen,2.7,54,China,investments,Finance & Investments,CHN
+1103,Tor Peterson,2.7,57,United States,commodities,Metals & Mining,USA
+1104,Cho Jung-ho,2.7,63,South Korea,finance,Finance & Investments,KOR
+1105,John Pritzker,2.7,68,United States,"hotels, investments",Finance & Investments,USA
+1106,Jack Cockwell,2.7,81,Canada,"real estate, private equity",Finance & Investments,CAN
+1107,Hussain Sajwani,2.7,69,United Arab Emirates,real estate,Real Estate,ARE
+1108,"Edward DeBartolo, Jr.",2.7,75,United States,shopping centers,Real Estate,USA
+1109,Tseng Cheng,2.7,60,Taiwan,petrochemicals,Manufacturing,TWN
+1110,Abilio dos Santos Diniz,2.7,85,Brazil,retail,Fashion & Retail,BRA
+1111,Jerry Yang,2.7,53,United States,Yahoo,Technology,USA
+1112,Bill Austin,2.7,80,United States,hearing aids,Manufacturing,USA
+1113,Hailiang Feng,2.7,61,China,"copper, education",Metals & Mining,CHN
+1114,Yu Qibing & family,2.7,56,China,glass,Manufacturing,CHN
+1115,Pavel Baudis,2.7,61,Czechia,software,Technology,CZE
+1116,Xingjiang Gao,2.7,58,China,steel,Manufacturing,CHN
+1117,Zhang Xuezheng,2.7,46,China,telecom,Technology,CHN
+1118,Abdulla bin Ahmad Al Ghurair & family,2.6,N/A,United Arab Emirates,diversified,Diversified,ARE
+1119,Norman Braman,2.6,89,United States,"art, car dealerships",Automotive,USA
+1120,Raj Kumar & Kishin RK,2.6,67,Singapore,real estate,Real Estate,SGP
+1121,Hans Sy,2.6,66,Philippines,diversified,Diversified,PHL
+1122,Isak Andic & family,2.6,68,Spain,fashion retail,Fashion & Retail,ESP
+1123,J. Hyatt Brown,2.6,84,United States,insurance,Finance & Investments,USA
+1124,Li Hongxin & family,2.6,69,China,paper & related products,Manufacturing,CHN
+1125,Herbert Sy,2.6,65,Philippines,diversified,Diversified,PHL
+1126,Harindarpal Banga,2.6,71,India,commodities,Finance & Investments,IND
+1127,Chen Lip Keong,2.6,74,Malaysia,"casinos, property, energy",Gambling & Casinos,MYS
+1128,Liu Fangyi,2.6,52,China,medical equipment,Healthcare,CHN
+1129,Tahir & family,2.6,70,Indonesia,diversified,Diversified,IDN
+1130,Anne Beaufour,2.6,58,France,pharmaceuticals,Healthcare,FRA
+1131,Jim Coulter,2.6,62,United States,private equity,Finance & Investments,USA
+1132,Lu Zhongfang,2.6,79,China,education,Automotive,CHN
+1133,Wang Linpeng,2.6,53,China,furniture retailing,Construction & Engineering,CHN
+1134,Henri Beaufour,2.6,56,France,pharmaceuticals,Healthcare,FRA
+1135,Federico De Nora,2.6,54,Italy,electrodes,Manufacturing,ITA
+1136,Nirmal Minda,2.6,64,India,auto parts,Automotive,IND
+1137,David Wertheim,2.6,64,Israel,Coca Cola Israel,Food & Beverage,ISR
+1138,Dong Wei,2.6,51,China,pharmaceuticals,Healthcare,CHN
+1139,Farhad Moshiri,2.6,66,United Kingdom,diversified,Diversified,GBR
+1140,Oprah Winfrey,2.6,68,United States,TV shows,Media & Entertainment,USA
+1141,Sandeep Engineer,2.6,60,India,plastic pipes,Manufacturing,IND
+1142,Hans Georg Naeder,2.6,60,Germany,prosthetics,Manufacturing,DEU
+1143,Xingming Zhu,2.6,55,China,electrical equipment,Manufacturing,CHN
+1144,Alceu Elias Feldmann,2.6,72,Brazil,fertilizer,Energy,BRA
+1145,Eren Ozmen,2.6,63,United States,aerospace,Manufacturing,USA
+1146,"Frank Fertitta, III.",2.6,60,United States,"casinos, mixed martial arts",Sports,USA
+1147,Ronald Perelman,2.6,79,United States,leveraged buyouts,Finance & Investments,USA
+1148,Lorenzo Fertitta,2.6,53,United States,"casinos, mixed martial arts",Sports,USA
+1149,Ravi Pillai,2.6,68,India,construction,Construction & Engineering,IND
+1150,Doris Fisher,2.6,90,United States,Gap,Fashion & Retail,USA
+1151,Daniel Pritzker,2.6,62,United States,"hotels, investments",Finance & Investments,USA
+1152,Alec Gores,2.6,69,United States,private equity,Finance & Investments,USA
+1153,Matthias Reinhart,2.6,62,Switzerland,financial services,Finance & Investments,CHE
+1154,Igor Kesaev,2.6,55,Russia,"tobacco distribution, retail",Fashion & Retail,RUS
+1155,Vivek Chaand Sehgal,2.6,65,Australia,auto parts,Automotive,AUS
+1156,Sanjeev Bikhchandani,2.6,58,India,Internet,Technology,IND
+1157,Kavitark Ram Shriram,2.6,65,United States,"venture capital, Google",Technology,USA
+1158,Chuchat Petaumpai & Daonapa Petampai,2.5,69,Thailand,motorcycle loans,Finance & Investments,THA
+1159,Stephen Lansdown,2.5,69,Guernsey,financial services,Finance & Investments,GGY
+1160,Yongpei Ni & family,2.5,70,China,beverages,Food & Beverage,CHN
+1161,Hongyi Zhou,2.5,51,China,security software,Technology,CHN
+1162,Leon G. Cooperman,2.5,78,United States,hedge funds,Finance & Investments,USA
+1163,Mark Leonard & family,2.5,65,Canada,software,Technology,CAN
+1164,Fatih Ozmen,2.5,64,United States,aerospace,Manufacturing,USA
+1165,Smita Crishna-Godrej,2.5,71,India,consumer goods,Diversified,IND
+1166,William Li,2.5,47,China,electric vehicles,Automotive,CHN
+1167,Qiu Minxiu,2.5,76,China,semiconductors,Technology,CHN
+1168,Jacques D'Amours,2.5,65,Canada,convenience stores,Fashion & Retail,CAN
+1169,K.C. Liu,2.5,68,Taiwan,manufacturing,Technology,TWN
+1170,Stewart Rahr,2.5,76,United States,drug distribution,Healthcare,USA
+1171,Maria Del Pino,2.5,66,Spain,construction,Construction & Engineering,ESP
+1172,Liu Xiaodong,2.5,54,China,flavorings,Manufacturing,CHN
+1173,Prathap Reddy,2.5,90,India,healthcare,Healthcare,IND
+1174,Yoichi & Keiko Erikawa,2.5,N/A,Japan,videogames,Media & Entertainment,JPN
+1175,Aloke Lohia,2.5,63,India,petrochemicals,Manufacturing,IND
+1176,Chad Richison,2.5,51,United States,payroll processing,Technology,USA
+1177,Gerald Ford,2.5,77,United States,banking,Finance & Investments,USA
+1178,Mohamed Mansour,2.5,74,Egypt,diversified,Diversified,EGY
+1179,Karin Sartorius-Herbst,2.5,N/A,Germany,biopharmaceuticals,Healthcare,DEU
+1180,Abdulla Al Futtaim & family,2.5,N/A,United Arab Emirates,"auto dealers, investments",Automotive,ARE
+1181,Adi Godrej,2.5,80,India,consumer goods,Diversified,IND
+1182,Kishore Mariwala,2.5,87,India,consumer goods,Food & Beverage,IND
+1183,Christiane Schoeller,2.5,N/A,Germany,publishing,Media & Entertainment,DEU
+1184,Suhail Bahwan,2.5,83,Oman,diversified,Diversified,OMN
+1185,Jamshyd Godrej,2.5,73,India,diversified,Diversified,IND
+1186,Jed McCaleb,2.5,47,United States,cryptocurrency,Finance & Investments,USA
+1187,Suh Kyung-bae,2.5,59,South Korea,cosmetics,Fashion & Retail,KOR
+1188,Ulrike Baro,2.5,N/A,Germany,biopharmaceuticals,Healthcare,DEU
+1189,Nadir Godrej,2.5,71,India,consumer goods,Diversified,IND
+1190,Enhua Mi,2.5,64,China,retail,Fashion & Retail,CHN
+1191,Glen Taylor,2.5,80,United States,printing,Service,USA
+1192,David Baszucki,2.5,59,United States,online games,Media & Entertainment,USA
+1193,Sanjiv Goenka,2.5,61,India,diversified,Diversified,IND
+1194,Willy Michel,2.5,75,Switzerland,medical devices,Healthcare,CHE
+1195,Nadia Thiele,2.5,46,Germany,investments,Finance & Investments,DEU
+1196,Thor Bjorgolfsson,2.5,55,Iceland,investments,Diversified,ISL
+1197,Stein Erik Hagen,2.5,65,Norway,consumer goods,Fashion & Retail,NOR
+1198,Lachhman Das Mittal,2.5,91,India,tractors,Automotive,IND
+1199,Wang Minwen,2.5,58,China,semiconductor,Technology,CHN
+1200,Chen Qiongxiang,2.5,N/A,China,batteries,Energy,CHN
+1201,Hu Yangzhong,2.5,57,China,technology,Technology,CHN
+1202,Charles Munger,2.5,98,United States,Berkshire Hathaway,Finance & Investments,USA
+1203,Zhang Ning & family,2.5,48,Canada,chemicals,Manufacturing,CAN
+1204,Chen Tei-fu,2.5,73,Taiwan,herbal products,Fashion & Retail,TWN
+1205,Baba Kalyani,2.5,73,India,engineering,Construction & Engineering,IND
+1206,Rishad Naoroji,2.5,70,India,consumer goods,Diversified,IND
+1207,Zhao Tao,2.5,56,Singapore,pharmaceuticals,Healthcare,SGP
+1208,Bernard Fraisse & family,2.4,65,France,pharmaceuticals,Healthcare,FRA
+1209,Ferit Faik Sahenk,2.4,58,Turkey,diversified,Diversified,TUR
+1210,Peter Unger,2.4,77,Germany,auto repair,Automotive,DEU
+1211,Rajendra Agarwal,2.4,63,India,pharmaceuticals,Healthcare,IND
+1212,William Franke,2.4,84,United States,low-cost airlines,Diversified,USA
+1213,Hilton Schlosberg,2.4,69,United Kingdom,energy drinks,Food & Beverage,GBR
+1214,Nikil Viswanathan,2.4,34,United States,blockchain technology,Technology,USA
+1215,George Argyros & family,2.4,85,United States,"real estate, investments",Real Estate,USA
+1216,Caroline Hagen Kjos,2.4,38,Norway,conglomerate,Diversified,NOR
+1217,Alberto Siccardi & family,2.4,77,Switzerland,medical devices,Healthcare,CHE
+1218,Anthony Wood,2.4,56,United States,Roku,Technology,USA
+1219,Edward Bass,2.4,76,United States,"oil, investments",Energy,USA
+1220,Lam Kong,2.4,57,China,pharmaceuticals,Healthcare,CHN
+1221,Salil Singhal,2.4,74,India,agrochemicals,Manufacturing,IND
+1222,Zhang Hongwei,2.4,67,China,"oil, banking",Diversified,CHN
+1223,Banwari Lal Bawri,2.4,69,India,pharmaceuticals,Healthcare,IND
+1224,Hans Langer,2.4,70,Germany,3D printing,Manufacturing,DEU
+1225,Lucy Stitzer,2.4,62,United States,Cargill,Food & Beverage,USA
+1226,Zhang Li,2.4,69,China,real estate,Real Estate,CHN
+1227,Girdhari Lal Bawri,2.4,74,India,pharmaceuticals,Healthcare,IND
+1228,Joe Lau,2.4,32,United States,"blockchain, technology",Technology,USA
+1229,Otto Toto Sugiri,2.4,68,Indonesia,data centers,Technology,IDN
+1230,Chao Teng-hsiung,2.4,77,Taiwan,real estate,Real Estate,TWN
+1231,Kevin David Lehmann,2.4,19,Germany,drugstores,Fashion & Retail,DEU
+1232,Harley Sy,2.4,62,Philippines,diversified,Diversified,PHL
+1233,Zhisong Chen,2.4,56,China,communication equipment,Technology,CHN
+1234,Liang Qin & family,2.4,50,China,semiconductor devices,Technology,CHN
+1235,Teresita Sy-Coson,2.4,71,Philippines,diversified,Diversified,PHL
+1236,Chey Tae-won,2.4,61,South Korea,"oil, semiconductor",Telecom,KOR
+1237,Peter Lim,2.4,68,Singapore,investments,Finance & Investments,SGP
+1238,Katsumi Tada,2.4,76,Japan,real estate,Real Estate,JPN
+1239,Choo Chong Ngen,2.4,68,Singapore,hotels,Real Estate,SGP
+1240,Sarah MacMillan,2.4,68,United States,Cargill,Food & Beverage,USA
+1241,Tang Yiu,2.4,88,Hong Kong,fashion retail,Fashion & Retail,HKG
+1242,John Coates,2.4,52,United Kingdom,online gambling,Gambling & Casinos,GBR
+1243,Kalanithi Maran,2.4,56,India,media,Media & Entertainment,IND
+1244,Jeff Tangney,2.4,49,United States,healthcare IT,Healthcare,USA
+1245,Alexandra Daitch,2.4,59,United States,Cargill,Food & Beverage,USA
+1246,Lirio Parisotto,2.4,68,Brazil,investments,Finance & Investments,BRA
+1247,Lottie Tham & family,2.4,72,Sweden,H&M,Fashion & Retail,SWE
+1248,Daniel Ek,2.4,39,Sweden,Spotify,Technology,SWE
+1249,Alberto Roemmers,2.4,95,Argentina,pharmaceuticals,Healthcare,ARG
+1250,Timur Turlov,2.4,34,Kazakhstan,stock brokerage,Finance & Investments,KAZ
+1251,John Fisher,2.4,60,United States,Gap,Fashion & Retail,USA
+1252,Rodney Sacks,2.4,72,United States,energy drinks,Food & Beverage,USA
+1253,Hamdi Ulukaya,2.4,49,Turkey,greek yogurt,Food & Beverage,TUR
+1254,Kommer Damen,2.3,78,Netherlands,shipbuilding,Manufacturing,NLD
+1255,Erman Ilicak,2.3,54,Turkey,construction,Construction & Engineering,TUR
+1256,Heloise Pratt,2.3,59,Australia,"manufacturing, investment",Manufacturing,AUS
+1257,Xiaojuan Zhang,2.3,52,China,logistics,Logistics,CHN
+1258,Henry Davis,2.3,71,United States,beef processing,Food & Beverage,USA
+1259,Zhaobai Jiang,2.3,58,China,real estate,Real Estate,CHN
+1260,Qiu Jianping & family,2.3,60,China,hand tools,Manufacturing,CHN
+1261,Ray Davis,2.3,80,United States,pipelines,Energy,USA
+1262,Osman Kibar,2.3,51,United States,biotech,Healthcare,USA
+1263,Dirk Rossmann & family,2.3,75,Germany,drugstores,Fashion & Retail,DEU
+1264,Stephen Feinberg,2.3,62,United States,private equity,Finance & Investments,USA
+1265,Adam Kwok,2.3,39,Hong Kong,real estate,Real Estate,HKG
+1266,Karin Schick,2.3,N/A,Germany,information technology,Technology,DEU
+1267,Kenneth Feld & family,2.3,73,United States,live entertainment,Media & Entertainment,USA
+1268,Frank Laukien,2.3,62,United States,scientific equipment,Manufacturing,USA
+1269,Stephan Schmidheiny,2.3,74,Switzerland,investments,Finance & Investments,CHE
+1270,Houshan Bai,2.3,58,China,lithium battery,Energy,CHN
+1271,Alexander Frolov,2.3,57,Russia,"mining, steel",Metals & Mining,RUS
+1272,Louis Le Duff,2.3,75,France,bakeries,Food & Beverage,FRA
+1273,Wenrong Shen,2.3,76,China,steel production,Metals & Mining,CHN
+1274,Alex Beard,2.3,54,United Kingdom,"mining, commodities",Metals & Mining,GBR
+1275,Mario Germano Giuliani,2.3,50,Switzerland,pharmaceuticals,Healthcare,CHE
+1276,Solomon Lew,2.3,77,Australia,retail,Fashion & Retail,AUS
+1277,Guangxin Sun,2.3,59,China,diversified,Diversified,CHN
+1278,Koos Bekker,2.3,69,South Africa,"media, investments",Media & Entertainment,ZAF
+1279,Serge Godin,2.3,72,Canada,information technology,Technology,CAN
+1280,Liang Rubo,2.3,39,China,TikTok,Technology,CHN
+1281,Mengquan Sun & family,2.3,72,China,edible oil,Food & Beverage,CHN
+1282,William Boyd & family,2.3,90,United States,"casinos, banking",Gambling & Casinos,USA
+1283,Noam Gottesman,2.3,60,United States,hedge funds,Finance & Investments,USA
+1284,Liang Zhaoxian,2.3,57,China,appliances,Manufacturing,CHN
+1285,Thomas Tull,2.3,51,United States,"movies, investments",Media & Entertainment,USA
+1286,Timothy Boyle,2.3,72,United States,Columbia Sportswear,Fashion & Retail,USA
+1287,Philip & Cristina Green,2.3,70,United Kingdom,fashion retail,Fashion & Retail,GBR
+1288,Prayudh Mahagitsiri,2.3,76,Thailand,"coffee, shipping",Food & Beverage,THA
+1289,Ted Turner,2.3,83,United States,cable television,Media & Entertainment,USA
+1290,Anand Burman,2.3,69,India,consumer goods,Food & Beverage,IND
+1291,Yusuf Hamied,2.3,85,India,pharmaceuticals,Healthcare,IND
+1292,Clayton Mathile,2.3,81,United States,pet food,Food & Beverage,USA
+1293,David Walentas,2.3,83,United States,real estate,Real Estate,USA
+1294,Richard Chandler,2.3,63,New Zealand,investments,Finance & Investments,NZL
+1295,Bill Haslam,2.3,63,United States,gas stations,Fashion & Retail,USA
+1296,Erwin Franz Mueller,2.3,89,Germany,drugstores,Fashion & Retail,DEU
+1297,Yingming Wu,2.3,55,China,batteries,Energy,CHN
+1298,Cho Young-sik,2.3,60,South Korea,diagnostics,Healthcare,KOR
+1299,Ho Hung Anh,2.3,51,Vietnam,"consumer products, banking",Finance & Investments,VNM
+1300,Rubens Ometto Silveira Mello,2.3,72,Brazil,"sugar, ethanol",Energy,BRA
+1301,Christoph Zeller,2.3,64,Liechtenstein,dental materials,Healthcare,LIE
+1302,Chu Lam Yiu,2.3,52,Hong Kong,flavorings,Manufacturing,HKG
+1303,Douglas Hsu,2.3,79,Taiwan,diversified,Diversified,TWN
+1304,Erik Paulsson & family,2.3,80,Sweden,"construction, real estate",Real Estate,SWE
+1305,Zhang Wanzhen,2.3,72,China,electronics components,Manufacturing,CHN
+1306,Yadu Hari Dalmia & family,2.2,74,India,cement,Manufacturing,IND
+1307,Christian Latouche,2.2,81,France,accounting services,Finance & Investments,FRA
+1308,Filiz Sahenk,2.2,55,Turkey,diversified,Diversified,TUR
+1309,Michael Ashcroft,2.2,76,United Kingdom,security,Finance & Investments,GBR
+1310,Zhenggang Dou,2.2,68,China,"energy, chemicals",Diversified,CHN
+1311,Martin Lau,2.2,49,Hong Kong,e-commerce,Technology,HKG
+1312,S.D. Shibulal,2.2,67,India,software services,Technology,IND
+1313,Alex Atallah,2.2,30,United States,online marketplace,Technology,USA
+1314,Weimin Du,2.2,58,China,vaccines,Healthcare,CHN
+1315,Li Wa,2.2,56,Hong Kong,real estate,Real Estate,HKG
+1316,Alexander Svetakov,2.2,54,Russia,real estate,Finance & Investments,RUS
+1317,Brett Blundy,2.2,62,Australia,"retail, agribusiness",Fashion & Retail,AUS
+1318,Devin Finzer,2.2,31,United States,online marketplace,Technology,USA
+1319,Liang Xinjun,2.2,54,China,conglomerate,Diversified,CHN
+1320,Jeffrey Talpins,2.2,47,United States,hedge fund,Finance & Investments,USA
+1321,Chris Britt,2.2,49,United States,fintech,Finance & Investments,USA
+1322,Robert Friedland,2.2,71,United States,mining,Metals & Mining,USA
+1323,Lin Chang Su-O,2.2,81,Taiwan,real estate,Real Estate,TWN
+1324,Ming Tian,2.2,68,China,measuring instruments,Technology,CHN
+1325,Phillip Frost,2.2,85,United States,pharmaceuticals,Healthcare,USA
+1326,Lin Fanlian,2.2,60,China,"energy, real estate",Energy,CHN
+1327,Arvind Tiku,2.2,52,India,"oil & gas, investments",Energy,IND
+1328,Jeffrey Gundlach,2.2,63,United States,investments,Finance & Investments,USA
+1329,Lin Lairong & family,2.2,53,China,iron ore mining,Metals & Mining,CHN
+1330,Torsten Toeller,2.2,55,Germany,pet food,Fashion & Retail,DEU
+1331,John Hancock,2.2,46,Australia,mining,Metals & Mining,AUS
+1332,Daniel Lubetzky,2.2,53,United States,snack bars,Food & Beverage,USA
+1333,Riaz Valani,2.2,45,United States,e-cigarettes,Finance & Investments,USA
+1334,Georg Haub,2.2,60,Germany,retail,Fashion & Retail,DEU
+1335,Howard Marks,2.2,75,United States,private equity,Finance & Investments,USA
+1336,Pieter van der Does,2.2,52,Netherlands,payments software,Technology,NLD
+1337,Hortensia Herrero,2.2,71,Spain,supermarkets,Fashion & Retail,ESP
+1338,Craig McCaw,2.2,72,United States,telecom,Telecom,USA
+1339,Lang Walker,2.2,76,Australia,real estate,Real Estate,AUS
+1340,"B. Wayne Hughes, Jr.",2.2,61,United States,storage facilities,Real Estate,USA
+1341,Vincent McMahon,2.2,76,United States,entertainment,Sports,USA
+1342,Hope Welker,2.2,36,Australia,mining,Metals & Mining,AUS
+1343,Bruce Karsh,2.2,66,United States,private equity,Finance & Investments,USA
+1344,Mu Rongjun,2.2,42,China,e-commerce,Technology,CHN
+1345,Xie Bingkun & family,2.2,55,China,pearlescent pigments,Fashion & Retail,CHN
+1346,Jonathan Kwok,2.2,30,Hong Kong,Real Estate,Real Estate,HKG
+1347,Bianca Rinehart,2.2,45,Australia,mining,Metals & Mining,AUS
+1348,Zhou Jian,2.2,45,China,solar energy equipment,Energy,CHN
+1349,Cen Junda,2.2,57,China,pharmaceuticals,Healthcare,CHN
+1350,Ginia Rinehart,2.2,35,Australia,mining,Metals & Mining,AUS
+1351,Mohamed Al Fayed,2.1,93,Egypt,"retail, investments",Fashion & Retail,EGY
+1352,John Elkann,2.1,46,Italy,"FIAT, investments",Finance & Investments,ITA
+1353,Eiichi Kuriwada,2.1,75,Japan,package delivery,Logistics,JPN
+1354,Xiangdong Qi,2.1,51,China,software,Technology,CHN
+1355,Wu Ying,2.1,57,China,materials,Manufacturing,CHN
+1356,Faisal Bin Qassim Al Thani,2.1,74,Qatar,"hotels, diversified",Diversified,QAT
+1357,Bob Ell,2.1,77,Australia,real estate,Real Estate,AUS
+1358,Kwek Leng Kee,2.1,67,Singapore,diversified,Diversified,SGP
+1359,Jianhua Ren,2.1,65,China,kitchen appliances,Manufacturing,CHN
+1360,Amy Wyss,2.1,51,United States,medical equipment,Healthcare,USA
+1361,Masaaki Arai,2.1,56,Japan,home sales,Real Estate,JPN
+1362,Fang Xiaoliang & family,2.1,63,China,biotech,Healthcare,CHN
+1363,Lai Shixian,2.1,47,China,sports apparel,Fashion & Retail,CHN
+1364,Alice Schwartz,2.1,95,United States,biotech,Healthcare,USA
+1365,Xiang Guangming & family,2.1,58,China,waste disposal,Manufacturing,CHN
+1366,Tatyana Bakalchuk,2.1,46,Russia,ecommerce,Fashion & Retail,RUS
+1367,Lindsay Fox,2.1,84,Australia,"logistics, real estate",Logistics,AUS
+1368,Lau Cho Kun,2.1,86,Malaysia,"palm oil, property",Diversified,MYS
+1369,Peter Sondakh,2.1,72,Indonesia,investments,Finance & Investments,IDN
+1370,Xu Shugen,2.1,56,China,"construction, mining machinery",Manufacturing,CHN
+1371,Lee Bass,2.1,65,United States,"oil, investments",Energy,USA
+1372,Gary Friedman,2.1,64,United States,Furniture retail,Fashion & Retail,USA
+1373,Lee Hae-jin,2.1,54,South Korea,Internet,Technology,KOR
+1374,Song Fei,2.1,55,China,machinery,Manufacturing,CHN
+1375,Steven Meng Yang & family,2.1,39,China,electronics,Technology,CHN
+1376,Alberto Bombassei,2.1,81,Italy,automotive brakes,Automotive,ITA
+1377,Gordon Getty,2.1,88,United States,Getty Oil,Energy,USA
+1378,Harald Link,2.1,67,Thailand,diversified,Diversified,THA
+1379,Timothy Springer,2.1,74,United States,biotech,Healthcare,USA
+1380,Clayton Zekelman,2.1,53,Canada,steel,Manufacturing,CAN
+1381,Jim Breyer,2.1,60,United States,venture capital,Technology,USA
+1382,Dennis Gillings,2.1,77,United Kingdom,clinical trials,Healthcare,GBR
+1383,Liu Xiucai & family,2.1,65,United States,chemicals,Manufacturing,USA
+1384,Suyu Su & family,2.1,73,China,"utilities, real estate",Real Estate,CHN
+1385,Hongfei Zhao,2.1,47,China,software,Technology,CHN
+1386,Ron Burkle,2.1,69,United States,"supermarkets, investments",Finance & Investments,USA
+1387,Harsh Goenka,2.1,64,India,diversified,Diversified,IND
+1388,Yangyong Luo & family,2.1,46,China,mining,Metals & Mining,CHN
+1389,Elizabeth Sy,2.1,69,Philippines,diversified,Diversified,PHL
+1390,Chen Huwen,2.1,51,China,stationery,Manufacturing,CHN
+1391,David Hains,2.1,91,Australia,Investments,Finance & Investments,AUS
+1392,Igor Makarov,2.1,60,Russia,investments,Energy,RUS
+1393,Sukanto Tanoto,2.1,72,Indonesia,diversified,Diversified,IDN
+1394,Chen Huxiong,2.1,51,China,stationery,Manufacturing,CHN
+1395,Bahaa Hariri,2.1,55,Lebanon,"real estate, investments",Real Estate,LBN
+1396,Alexander Mamut,2.1,62,Russia,investments,Finance & Investments,RUS
+1397,Jayshree Ullal,2.1,61,United States,computer networking,Technology,USA
+1398,Chen Xuehua,2.1,61,China,nonferrous,Metals & Mining,CHN
+1399,Shmuel Harlap,2.1,77,Israel,automotive,Automotive,ISR
+1400,David Mindus,2.1,50,Sweden,real estate,Real Estate,SWE
+1401,Sunny Varkey,2.1,64,India,education,Service,IND
+1402,Bruce Cheng,2.1,86,Taiwan,electronics,Technology,TWN
+1403,Gerry Harvey,2.1,82,Australia,retail,Fashion & Retail,AUS
+1404,Yuji Otsuka,2.1,68,Japan,"copy machines, software",Technology,JPN
+1405,Jitendra Virwani,2.1,56,India,real estate,Real Estate,IND
+1406,Dermot Desmond,2.1,71,Ireland,finance,Finance & Investments,IRL
+1407,Hou Juncheng,2.1,57,China,cosmetics,Healthcare,CHN
+1408,Ajay Parekh,2.1,64,India,adhesives,Manufacturing,IND
+1409,Wang Wenmo,2.1,65,China,sports apparel,Fashion & Retail,CHN
+1410,Bill and Jean Adderley & family,2.1,N/A,United Kingdom,home furnishings,Fashion & Retail,GBR
+1411,Fred Ehrsam,2.1,33,United States,cryptocurrency exchange,Finance & Investments,USA
+1412,Thomas James,2.1,79,United States,finance,Finance & Investments,USA
+1413,Narendrakumar Parekh,2.1,83,India,adhesives,Manufacturing,IND
+1414,Thomas Wu,2.1,72,Taiwan,finance,Finance & Investments,TWN
+1415,Herb Chambers,2,80,United States,car dealerships,Automotive,USA
+1416,Kim Chang-soo,2,61,South Korea,apparel,Fashion & Retail,KOR
+1417,David Nahmad,2,74,Monaco,art collection,Fashion & Retail,MCO
+1418,Sylvia Stroeher,2,66,Germany,cosmetics,Fashion & Retail,DEU
+1419,Daniel Chiu,2,61,Hong Kong,oil & gas,Energy,HKG
+1420,Vyacheslav Kim,2,52,Kazakhstan,fintech,Finance & Investments,KAZ
+1421,Florentino Perez,2,75,Spain,construction,Construction & Engineering,ESP
+1422,Wichai Thongtang,2,75,Thailand,investments,Finance & Investments,THA
+1423,Tim Cook,2,61,United States,Apple,Technology,USA
+1424,Kuan Kam Hon & family,2,74,Malaysia,rubber gloves,Manufacturing,MYS
+1425,Jennifer Pritzker,2,71,United States,"hotels, investments",Finance & Investments,USA
+1426,Todd Wagner,2,61,United States,online media,Media & Entertainment,USA
+1427,Brunello Cucinelli & family,2,68,Italy,fashion,Fashion & Retail,ITA
+1428,Egor Kulkov,2,50,Russia,pharmaceuticals,Healthcare,RUS
+1429,Linda Pritzker,2,68,United States,"hotels, investments",Service,USA
+1430,Wang Jianguo,2,62,China,retail,Fashion & Retail,CHN
+1431,Georgi Domuschiev,2,49,Bulgaria,"animal health, investments",Diversified,BGR
+1432,Josh Kushner,2,36,United States,venture capital,Finance & Investments,USA
+1433,P.V. Ramprasad Reddy,2,64,India,pharmaceuticals,Healthcare,IND
+1434,Shuifu Wang,2,67,China,Manufacturing,Manufacturing,CHN
+1435,Kiril Domuschiev,2,52,Bulgaria,"animal health, investments",Diversified,BGR
+1436,Henry Laufer,2,76,United States,hedge funds,Finance & Investments,USA
+1437,"Joe Rogers, Jr.",2,75,United States,Waffle House,Food & Beverage,USA
+1438,Wenbiao Wang,2,65,China,"natural gas, fertilizers",Manufacturing,CHN
+1439,Glenn Dubin,2,64,United States,hedge funds,Finance & Investments,USA
+1440,Thomas Lee,2,78,United States,private equity,Finance & Investments,USA
+1441,Ruan Shuilong & family,2,86,China,chemicals,Manufacturing,CHN
+1442,Kanye West,2,44,United States,"music, sneakers",Fashion & Retail,USA
+1443,S. Daniel Abraham,2,97,United States,Slim-Fast,Food & Beverage,USA
+1444,James Duff,2,61,United States,"tires, diversified",Diversified,USA
+1445,Michael Lee-Chin,2,71,Canada,mutual funds,Finance & Investments,CAN
+1446,Phil Ruffin,2,87,United States,"casinos, real estate",Diversified,USA
+1447,Evan Williams,2,50,United States,Twitter,Technology,USA
+1448,Aziz Akhannouch & family,2,61,Morocco,"petroleum, diversified",Diversified,MAR
+1449,Thomas Duff,2,65,United States,"tires, diversified",Diversified,USA
+1450,Li Xuhui,2,53,China,soy sauce,Food & Beverage,CHN
+1451,Vinod Saraf,2,69,India,chemicals,Manufacturing,IND
+1452,Zhongyi Wu,2,48,China,electronics,Technology,CHN
+1453,Andrey Andreev,2,48,United Kingdom,online dating,Technology,GBR
+1454,Robert Duggan,2,77,United States,pharmaceuticals,Healthcare,USA
+1455,Lim Kok Thay,2,70,Malaysia,casinos,Gambling & Casinos,MYS
+1456,Maria-Elisabeth Schaeffler-Thumann,2,80,Germany,auto parts,Automotive,DEU
+1457,Zhihan Xu,2,49,China,electronics,Technology,CHN
+1458,Ramon Ang,2,68,Philippines,diversified,Food & Beverage,PHL
+1459,Maria Franca Fissolo,2,87,Italy,"Nutella, chocolates",Food & Beverage,ITA
+1460,Joao Roberto Marinho,2,68,Brazil,media,Media & Entertainment,BRA
+1461,Genhuo Shao,2,56,China,agribusiness,Food & Beverage,CHN
+1462,Yan Zhi,2,49,China,real estate,Real Estate,CHN
+1463,Guilherme Benchimol,2,45,Brazil,financial services,Finance & Investments,BRA
+1464,Fu Mingkang & family,2,59,China,manufacturing,Manufacturing,CHN
+1465,Jose Roberto Marinho,2,66,Brazil,media,Media & Entertainment,BRA
+1466,Shen Xiqiang & family,2,74,China,chemical,Energy,CHN
+1467,Michael Ying,2,72,Hong Kong,retail,Fashion & Retail,HKG
+1468,Ryan Breslow,2,27,United States,e-commerce software,Technology,USA
+1469,Orion Hindawi,2,42,United States,software,Technology,USA
+1470,Jim McKelvey,2,56,United States,mobile payments,Technology,USA
+1471,Thaksin Shinawatra,2,72,Thailand,investments,Finance & Investments,THA
+1472,Cao Jianwei,2,43,China,semiconductors,Manufacturing,CHN
+1473,Ji Qi,2,55,China,"hotels, motels",Real Estate,CHN
+1474,Robert Miller,2,88,United Kingdom,retail,Fashion & Retail,GBR
+1475,Alexander Skorobogatko,2,54,Russia,"real estate, airport",Logistics,RUS
+1476,Sezai Bacaksiz,1.9,72,Turkey,diversified,Diversified,TUR
+1477,Reinold Geiger,1.9,74,Austria,beauty products,Fashion & Retail,AUT
+1478,Keeree Kanjanapas,1.9,71,Thailand,transportation,Real Estate,THA
+1479,Pedro Moreira Salles,1.9,62,Brazil,"banking, minerals",Diversified,BRA
+1480,Dilip Surana,1.9,56,India,pharmaceuticals,Healthcare,IND
+1481,Baokun Bai,1.9,52,China,hardware,Manufacturing,CHN
+1482,He Zhenggang,1.9,68,China,chemicals,Manufacturing,CHN
+1483,Kim Dae-il,1.9,42,South Korea,mobile gaming,Technology,KOR
+1484,Alexander Nesis,1.9,59,Russia,"metals, banking, fertilizers",Finance & Investments,RUS
+1485,Djoko Susanto,1.9,72,Indonesia,supermarkets,Fashion & Retail,IDN
+1486,Acharya Balkrishna,1.9,49,India,consumer goods,Food & Beverage,IND
+1487,Roberto Hernandez Ramirez,1.9,80,Mexico,"banking, investments",Finance & Investments,MEX
+1488,Kim Hyoung-nyon,1.9,46,South Korea,fintech,Finance & Investments,KOR
+1489,Nguyen Dang Quang,1.9,58,Vietnam,"consumer products, banking",Food & Beverage,VNM
+1490,Sze Man Bok,1.9,72,China,hygiene products,Manufacturing,CHN
+1491,Kiki Barki,1.9,82,Indonesia,coal,Energy,IDN
+1492,Hoi Kin Hong,1.9,69,Macau,real estate,Real Estate,#N/A
+1493,Andrei Kozitsyn,1.9,61,Russia,metals,Metals & Mining,RUS
+1494,Oei Hong Leong,1.9,74,Singapore,investments,Finance & Investments,SGP
+1495,Alain Taravella,1.9,74,France,real estate development,Real Estate,FRA
+1496,John Bloor,1.9,78,United Kingdom,"real estate, manufacturing",Diversified,GBR
+1497,Huang Qiaoling,1.9,63,China,amusement parks,Media & Entertainment,CHN
+1498,Thomas Kwok,1.9,70,Hong Kong,real estate,Real Estate,HKG
+1499,Nihat Ozdemir,1.9,72,Turkey,diversified,Diversified,TUR
+1500,Martin Viessmann,1.9,68,Germany,heating and cooling equipment,Manufacturing,DEU
+1501,Nicola Bulgari,1.9,81,Italy,luxury goods,Fashion & Retail,ITA
+1502,Lei Jufang,1.9,69,China,pharmaceuticals,Healthcare,CHN
+1503,Gretel Packer,1.9,56,Australia,casinos,Media & Entertainment,AUS
+1504,Georg von Opel,1.9,55,Switzerland,"real estate, investments",Finance & Investments,CHE
+1505,Alejandro Bulgheroni,1.9,77,Argentina,oil & gas,Energy,ARG
+1506,David Lichtenstein,1.9,60,United States,real estate,Real Estate,USA
+1507,Benjamin Zhengmin Pan & family,1.9,52,China,electronics,Technology,CHN
+1508,Changtian Wang,1.9,56,China,"TV, movie production",Media & Entertainment,CHN
+1509,Chen Kaichen,1.9,N/A,China,household chemicals,Manufacturing,CHN
+1510,Lin Dingqiang & family,1.9,55,Hong Kong,real estate,Real Estate,HKG
+1511,Victor Pinchuk,1.9,61,Ukraine,"steel pipes, diversified",Metals & Mining,UKR
+1512,Wang Chaobin,1.9,66,China,real estate,Real Estate,CHN
+1513,Fernando Chico Pardo,1.9,70,Mexico,airport management,Service,MEX
+1514,Mikhail Lomtadze,1.9,46,Georgia,fintech,Finance & Investments,GEO
+1515,Alexander Ponomarenko,1.9,57,Russia,"real estate, airport",Logistics,RUS
+1516,Wang Chou-hsiong,1.9,81,Taiwan,footwear,Manufacturing,TWN
+1517,Jose Luis Cutrale,1.9,75,Brazil,orange juice,Food & Beverage,BRA
+1518,Melissa Ma,1.9,N/A,China,Internet search,Technology,CHN
+1519,Qi Jinxing,1.9,60,China,real estate,Real Estate,CHN
+1520,Wang Xiaoshen,1.9,53,China,lithium,Manufacturing,CHN
+1521,D. Leopoldo Del Pino,1.9,59,Spain,construction,Construction & Engineering,ESP
+1522,Yusaku Maezawa,1.9,46,Japan,online retail,Technology,JPN
+1523,Larry Robbins,1.9,52,United States,hedge funds,Finance & Investments,USA
+1524,Wei Yin-Heng,1.9,63,Taiwan,"food, beverages",Food & Beverage,TWN
+1525,James Dinan,1.9,62,United States,hedge funds,Finance & Investments,USA
+1526,Katarina Martinson,1.9,40,Sweden,investments,Diversified,SWE
+1527,Dwight Schar,1.9,80,United States,"homebuilding, NFL team",Construction & Engineering,USA
+1528,Xue Xiangdong & family,1.9,63,China,software,Technology,CHN
+1529,Anu Aga,1.9,79,India,engineering,Construction & Engineering,IND
+1530,Guangming Fu & family,1.9,68,China,poultry,Food & Beverage,CHN
+1531,Romano Minozzi,1.9,87,Italy,"utilities, diversified",Diversified,ITA
+1532,Sun Hongjun,1.9,48,China,semiconductors,Technology,CHN
+1533,David Zalik,1.9,48,United States,financial technology,Technology,USA
+1534,Joy Alukkas,1.9,65,India,jewelry,Fashion & Retail,IND
+1535,Mario Gabelli,1.9,80,United States,money management,Finance & Investments,USA
+1536,Willis Johnson,1.9,74,United States,damaged cars,Automotive,USA
+1537,Anand Surana,1.9,51,India,pharmaceuticals,Healthcare,IND
+1538,Igor Altushkin,1.8,51,Russia,metals,Metals & Mining,RUS
+1539,Ibrahim Erdemoglu,1.8,59,Turkey,carpet,Manufacturing,TUR
+1540,Huang Min,1.8,48,China,machinery,Manufacturing,CHN
+1541,Wolfgang Leitner,1.8,69,Austria,engineering,Construction & Engineering,AUT
+1542,Pierre Karl Péladeau,1.8,60,Canada,media,Media & Entertainment,CAN
+1543,Wu Lanlan & family,1.8,48,China,packaging,Manufacturing,CHN
+1544,Roberto Angelini Rossi,1.8,73,Chile,"forestry, mining",Diversified,CHL
+1545,Philip Fayer,1.8,N/A,Canada,online payments,Finance & Investments,CAN
+1546,Stanley Hubbard,1.8,88,United States,DirecTV,Media & Entertainment,USA
+1547,Liu Zhongtian & family,1.8,58,China,aluminum products,Manufacturing,CHN
+1548,Miranda Qu,1.8,37,China,e-commerce,Fashion & Retail,CHN
+1549,Wu Yulan,1.8,52,China,pharmaceuticals,Healthcare,CHN
+1550,Nigel Austin,1.8,51,Australia,retail,Fashion & Retail,AUS
+1551,Paul Foster,1.8,64,United States,oil refining,Energy,USA
+1552,Hui Lin Chit,1.8,68,China,hygiene products,Manufacturing,CHN
+1553,Bill Malhotra,1.8,72,Canada,real estate,Real Estate,CAN
+1554,Phillip T. (Terry) Ragon,1.8,72,United States,health IT,Technology,USA
+1555,Elaine Wynn,1.8,79,United States,"casinos, hotels",Gambling & Casinos,USA
+1556,Bang Jun-hyuk,1.8,53,South Korea,online gaming,Media & Entertainment,KOR
+1557,James France,1.8,77,United States,"Nascar, racing",Sports,USA
+1558,Hal Jackman,1.8,89,Canada,"insurance, investments",Finance & Investments,CAN
+1559,Charlwin Mao,1.8,N/A,China,e-commerce,Fashion & Retail,CHN
+1560,G. Rajendran,1.8,79,India,jewellery,Fashion & Retail,IND
+1561,Xu Shijun & family,1.8,59,China,manufacturing,Manufacturing,CHN
+1562,O. Francis Biondi,1.8,57,United States,hedge funds,Finance & Investments,USA
+1563,Yasuhiro Fukushima,1.8,74,Japan,video games,Media & Entertainment,JPN
+1564,Stephen Jarislowsky,1.8,96,Canada,money management,Finance & Investments,CAN
+1565,George Marcus,1.8,80,United States,real estate,Real Estate,USA
+1566,Krit Ratanarak,1.8,75,Thailand,"media, real estate",Media & Entertainment,THA
+1567,Xu Xudong & family,1.8,52,China,auto parts,Automotive,CHN
+1568,Chang Byung-gyu,1.8,48,South Korea,online games,Technology,KOR
+1569,Zhongru Gan,1.8,73,China,pharmaceuticals,Healthcare,CHN
+1570,Mark & Robyn Jones,1.8,N/A,United States,insurance,Finance & Investments,USA
+1571,Yves-Loic Martin,1.8,56,France,laboratory services,Healthcare,FRA
+1572,Jerry Reinsdorf,1.8,86,United States,sports teams,Sports,USA
+1573,Yang Xuegang,1.8,57,China,coking,Manufacturing,CHN
+1574,Chang Kuo-Ming,1.8,N/A,Taiwan,Transportation,Logistics,TWN
+1575,Rahul Gautam,1.8,69,India,mattresses,Fashion & Retail,IND
+1576,George Joseph,1.8,100,United States,insurance,Finance & Investments,USA
+1577,Gary Michelson,1.8,73,United States,medical patents,Healthcare,USA
+1578,Mochtar Riady & family,1.8,92,Indonesia,diversified,Diversified,IDN
+1579,Zhang Chuanwei & family,1.8,59,China,machinery,Manufacturing,CHN
+1580,Chen Gang,1.8,54,China,solar energy,Energy,CHN
+1581,Ali Ghodsi,1.8,43,Sweden,data analytics,Technology,SWE
+1582,Kim Kardashian,1.8,41,United States,"cosmetics, reality TV",Fashion & Retail,USA
+1583,Robert G. Miller,1.8,76,Canada,electronics components,Technology,CAN
+1584,Rajju Shroff,1.8,88,India,agrochemicals,Manufacturing,IND
+1585,Xuexin Zhang & family,1.8,74,China,aluminum,Metals & Mining,CHN
+1586,Liying Chen,1.8,46,China,package delivery,Logistics,CHN
+1587,Giammaria Giuliani,1.8,44,Switzerland,pharmaceuticals,Healthcare,CHE
+1588,Dominika Kulczyk,1.8,44,Poland,diversified,Finance & Investments,POL
+1589,Fernando Roberto Moreira Salles,1.8,75,Brazil,"banking, minerals",Diversified,BRA
+1590,Frank Slootman,1.8,63,United States,software,Technology,USA
+1591,Chen Xueli,1.8,70,China,pharmaceuticals,Healthcare,CHN
+1592,Christopher Goldsbury,1.8,79,United States,salsa,Food & Beverage,USA
+1593,Edward Lampert,1.8,59,United States,Sears,Finance & Investments,USA
+1594,Joao Moreira Salles,1.8,60,Brazil,"banking, minerals",Diversified,BRA
+1595,Henry Swieca,1.8,64,United States,hedge funds,Finance & Investments,USA
+1596,Chi Yufeng,1.8,51,China,software,Technology,CHN
+1597,Alexandre Grendene Bartelle,1.8,72,Brazil,shoes,Fashion & Retail,BRA
+1598,Marc Lasry,1.8,61,United States,hedge funds,Finance & Investments,USA
+1599,Walther Moreira Salles Junior,1.8,65,Brazil,"banking, minerals",Finance & Investments,BRA
+1600,Yuequn Tao,1.8,62,China,Contact Lens,Fashion & Retail,CHN
+1601,Mark Coombs,1.8,61,United Kingdom,finance,Finance & Investments,GBR
+1602,Surjit Kumar Gupta,1.8,80,India,electrical equipment,Manufacturing,IND
+1603,Michiel Le Roux,1.8,72,South Africa,banking,Finance & Investments,ZAF
+1604,Zugen Ni,1.8,65,China,appliances,Manufacturing,CHN
+1605,Robert Toennies,1.8,43,Germany,meat processing,Food & Beverage,DEU
+1606,John de Mol,1.8,67,Netherlands,TV programs,Media & Entertainment,NLD
+1607,David Hindawi,1.8,77,United States,software,Technology,USA
+1608,Regine Leibinger,1.8,59,Germany,machine tools,Manufacturing,DEU
+1609,Mrudula Parekh,1.8,74,India,adhesives,Manufacturing,IND
+1610,Zhenghua Wang,1.8,77,China,budget airline,Service,CHN
+1611,Leslie Alexander,1.8,78,United States,sports team,Sports,USA
+1612,Alfredo Egydio Arruda Villela Filho,1.8,52,Brazil,banking,Finance & Investments,BRA
+1613,Chengzhong Hu,1.8,61,China,manufacturing,Manufacturing,CHN
+1614,Nicola Leibinger-Kammueller,1.8,62,Germany,manufacturing,Manufacturing,DEU
+1615,David Paul,1.8,55,United States,medical devices,Healthcare,USA
+1616,Charlotte Colket Weber,1.8,79,United States,Campbell Soup,Food & Beverage,USA
+1617,Sanjit Biswas,1.7,40,United States,sensor systems,Technology,USA
+1618,Donald Foss,1.7,77,United States,auto loans,Automotive,USA
+1619,Li Jianli,1.7,49,China,lithium-ion battery cap,Manufacturing,CHN
+1620,Marina Prada,1.7,76,Italy,luxury goods,Fashion & Retail,ITA
+1621,Patrizio Vinciarelli,1.7,75,United States,electronic components,Technology,USA
+1622,Gordon Wu,1.7,86,Hong Kong,real estate,Real Estate,HKG
+1623,Zhaojiang Zhu,1.7,48,China,Smartphones,Manufacturing,CHN
+1624,David Booth,1.7,76,United States,mutual funds,Finance & Investments,USA
+1625,Rolf Gerling,1.7,67,Germany,insurance,Finance & Investments,DEU
+1626,Weiwei Li,1.7,45,China,online games,Technology,CHN
+1627,M.Satyanarayana Reddy,1.7,64,India,pharmaceuticals,Healthcare,IND
+1628,Mingwang Wang,1.7,54,China,electronics components,Manufacturing,CHN
+1629,Wu Xiangdong,1.7,53,China,consumer,Food & Beverage,CHN
+1630,Anita Zucker,1.7,70,United States,chemicals,Manufacturing,USA
+1631,Josef Boquoi & family,1.7,88,Germany,frozen foods,Food & Beverage,DEU
+1632,G. Gnanalingam,1.7,77,Malaysia,ports,Logistics,MYS
+1633,Li Zhigang,1.7,45,China,machinery,Manufacturing,CHN
+1634,Rihanna,1.7,34,Barbados,"music, cosmetics",Fashion & Retail,BRB
+1635,Wang Yanqing & family,1.7,75,China,carbon fiber products,Manufacturing,CHN
+1636,Yao Kuizhang,1.7,57,China,beverages,Food & Beverage,CHN
+1637,Saket Burman,1.7,45,United Kingdom,consumer goods,Food & Beverage,GBR
+1638,He Zhaoxi,1.7,48,China,software,Technology,CHN
+1639,Jimmy John Liautaud,1.7,58,United States,sandwich chain,Food & Beverage,USA
+1640,Arkady Rotenberg,1.7,70,Russia,"construction, pipes, banking",Construction & Engineering,RUS
+1641,Lars Wingefors,1.7,45,Sweden,video games,Media & Entertainment,SWE
+1642,Vladimir Yevtushenkov,1.7,73,Russia,"telecom, investments",Telecom,RUS
+1643,Mingtong Cai,1.7,70,China,electronic components,Technology,CHN
+1644,William Heinecke,1.7,72,Thailand,hotels,Real Estate,THA
+1645,Louise Lindh,1.7,42,Sweden,investments,Diversified,SWE
+1646,Dieter Schnabel,1.7,76,Germany,chemicals,Manufacturing,DEU
+1647,Stephen Winn,1.7,75,United States,real estate services,Real Estate,USA
+1648,Dasheng Yi,1.7,61,China,conglomerate,Diversified,CHN
+1649,Chen Yung-tai,1.7,86,Taiwan,real estate,Real Estate,TWN
+1650,Huh Jae-myung,1.7,50,South Korea,electric components,Manufacturing,KOR
+1651,Lu Di,1.7,N/A,China,drones,Technology,CHN
+1652,Shang Xiaobo & family,1.7,48,China,Manufacturing,Manufacturing,CHN
+1653,Yu Lili,1.7,54,China,electronic components,Manufacturing,CHN
+1654,Manas Chiaravanond,1.7,N/A,Thailand,diversified,Diversified,THA
+1655,Tianjiang Jia & family,1.7,59,China,non-ferrous metals,Metals & Mining,CHN
+1656,Anand Mahindra,1.7,66,India,diversified,Diversified,IND
+1657,Shao Qinxiang,1.7,67,China,diversified,Manufacturing,CHN
+1658,Alan Zekelman,1.7,59,Canada,steel,Manufacturing,CAN
+1659,Phongthep Chiaravanont,1.7,70,Thailand,diversified,Diversified,THA
+1660,Michael Jordan,1.7,59,United States,"Charlotte Hornets, endorsements",Sports,USA
+1661,Bruce Mathieson,1.7,78,Australia,hotels,Food & Beverage,AUS
+1662,Renate Sick-Glaser,1.7,N/A,Germany,sensor technology,Technology,DEU
+1663,Kaitian Zeng,1.7,47,China,online games,Technology,CHN
+1664,Noubar Afeyan,1.7,59,United States,biotech,Healthcare,USA
+1665,Ivan Chrenko,1.7,54,Slovakia,real estate,Real Estate,SVK
+1666,Dmitry Kamenshchik,1.7,53,Russia,airport,Service,RUS
+1667,Billy Joe (Red) McCombs,1.7,94,United States,"real estate, oil, cars, sports",Diversified,USA
+1668,Basudeo Singh,1.7,81,India,pharmaceuticals,Healthcare,IND
+1669,Zhang Jingzhang & family,1.7,86,China,precision machinery,Manufacturing,CHN
+1670,Farkhad Akhmedov,1.7,66,Russia,investments,Energy,RUS
+1671,Sol Daurella,1.7,56,Spain,Coca-Cola bottler,Food & Beverage,ESP
+1672,Kim Taek-jin,1.7,55,South Korea,online games,Media & Entertainment,KOR
+1673,Deepak Mehta,1.7,65,India,chemicals,Manufacturing,IND
+1674,Edward Stack,1.7,67,United States,Dick's Sporting Goods,Fashion & Retail,USA
+1675,Zhang Yubai,1.7,57,China,wine,Food & Beverage,CHN
+1676,Marc Andreessen,1.7,50,United States,venture capital investing,Finance & Investments,USA
+1677,Dulce Pugliese de Godoy Bueno,1.7,74,Brazil,"hospitals, health care",Healthcare,BRA
+1678,Koo Kwang-mo,1.7,44,South Korea,LG,Diversified,KOR
+1679,Mario Moretti Polegato & family,1.7,69,Italy,shoes,Fashion & Retail,ITA
+1680,Weijie Sun,1.7,58,China,oilfield equipment,Manufacturing,CHN
+1681,Zheng Hong & family,1.7,71,China,electronics,Technology,CHN
+1682,John Bicket,1.7,42,United States,sensor systems,Technology,USA
+1683,Norbert Dentressangle,1.7,67,France,"transport, logistics",Logistics,FRA
+1684,Anthony Langley,1.7,67,United Kingdom,manufacturing,Diversified,GBR
+1685,Alberto Palatchi,1.7,72,Spain,wedding dresses,Fashion & Retail,ESP
+1686,Vonnarat Tangkaravakoon,1.7,50,Thailand,"wire & cables, paints",Manufacturing,THA
+1687,Zhong Peifeng,1.7,59,United States,semiconductor,Telecom,USA
+1688,Alex Birkenstock,1.7,53,Germany,shoes,Fashion & Retail,DEU
+1689,Dong Jinggui,1.7,52,China,electric scooters,Automotive,CHN
+1690,James Leininger,1.7,77,United States,medical products,Healthcare,USA
+1691,Jorge Perez,1.7,72,United States,real estate,Real Estate,USA
+1692,Jan Van Geet,1.7,50,Belgium,real estate developer,Real Estate,BEL
+1693,Zhu Yiming,1.7,49,China,semiconductors,Technology,CHN
+1694,Christian Birkenstock,1.7,49,Germany,shoes,Fashion & Retail,DEU
+1695,Keith Dunleavy & family,1.7,52,United States,health IT,Healthcare,USA
+1696,Li Haiyan,1.7,N/A,China,restaurants,Food & Beverage,CHN
+1697,Alberto Prada,1.7,68,Italy,luxury goods,Fashion & Retail,ITA
+1698,Radha Vembu,1.7,49,India,business software,Technology,IND
+1699,Ian Wood & family,1.7,79,United Kingdom,energy services,Energy,GBR
+1700,Diao Zhizhong,1.6,58,China,software,Technology,CHN
+1701,Hu Kunhui,1.6,31,China,biotech,Healthcare,CHN
+1702,Li Denghai,1.6,72,China,seed production,Food & Beverage,CHN
+1703,Duncan MacMillan,1.6,84,United States,Bloomberg LP,Finance & Investments,USA
+1704,Andres Santo Domingo,1.6,43,United States,beer,Food & Beverage,USA
+1705,David Teoh,1.6,66,Australia,telecom,Telecom,AUS
+1706,Xu Yuejuan,1.6,60,China,Petro Fibre,Manufacturing,CHN
+1707,Jamie Dimon,1.6,66,United States,banking,Finance & Investments,USA
+1708,Archie Hwang,1.6,69,Taiwan,semiconductors,Technology,TWN
+1709,Li Guoqing,1.6,52,China,Petro Fibre,Manufacturing,CHN
+1710,John MacMillan,1.6,72,United States,Cargill,Food & Beverage,USA
+1711,Paul Saville,1.6,66,United States,homebuilder,Real Estate,USA
+1712,Carl Thoma,1.6,73,United States,investments,Finance & Investments,USA
+1713,Yang Tingdong,1.6,61,China,brewery,Food & Beverage,CHN
+1714,"Herbert Allen, Jr. & family",1.6,82,United States,investment banking,Finance & Investments,USA
+1715,Gary Fegel,1.6,48,Switzerland,"commodities, investments",Metals & Mining,CHE
+1716,Jared Isaacman,1.6,39,United States,payment processing,Technology,USA
+1717,Li Jiaquan,1.6,58,China,chemicals,Manufacturing,CHN
+1718,Martha MacMillan,1.6,70,United States,Cargill,Food & Beverage,USA
+1719,Ivan Savvidis,1.6,63,Russia,agribusiness,Diversified,RUS
+1720,Ion Tiriac,1.6,82,Romania,"banking, insurance",Finance & Investments,ROU
+1721,Yu Peidi,1.6,62,Hong Kong,real estate,Real Estate,HKG
+1722,Vasily Anisimov,1.6,70,Russia,real estate,Metals & Mining,RUS
+1723,Gao Yunfeng,1.6,55,China,industrial lasers,Manufacturing,CHN
+1724,Anurang Jain,1.6,60,India,auto parts,Manufacturing,IND
+1725,Li Rucheng,1.6,70,China,apparel,Fashion & Retail,CHN
+1726,William MacMillan,1.6,67,United States,Cargill,Food & Beverage,USA
+1727,Michael Saylor,1.6,57,United States,cryptocurrency,Technology,USA
+1728,Clemens Toennies,1.6,65,Germany,meat processing,Food & Beverage,DEU
+1729,Matei Zaharia,1.6,36,Romania,data analytics,Technology,ROU
+1730,Mori Arkin,1.6,69,Israel,pharmaceuticals,Healthcare,ISR
+1731,Philippe Ginestet & family,1.6,68,France,retail stores,Fashion & Retail,FRA
+1732,Jin Lei & family,1.6,67,China,medical equipment,Healthcare,CHN
+1733,Li Sze Lim,1.6,65,Hong Kong,real estate,Real Estate,HKG
+1734,Terence (Terry) Matthews,1.6,79,Canada,telecom,Telecom,CAN
+1735,Gerald Schwartz,1.6,80,Canada,finance,Finance & Investments,CAN
+1736,Tran Ba Duong & family,1.6,62,Vietnam,automotive,Automotive,VNM
+1737,Zhang Jian,1.6,53,China,"electric bikes, scooters",Manufacturing,CHN
+1738,Semahat Sevim Arsel,1.6,93,Turkey,diversified,Diversified,TUR
+1739,Sebastian Glaser,1.6,N/A,Germany,sensor technology,Technology,DEU
+1740,Sunjay Kapur,1.6,50,United States,auto parts,Automotive,USA
+1741,Li Yongqing,1.6,57,China,Petro Firbe,Manufacturing,CHN
+1742,Kazuo Okada,1.6,79,Japan,casinos,Gambling & Casinos,JPN
+1743,Sathien Setthasit,1.6,67,Thailand,energy drinks,Food & Beverage,THA
+1744,Tseng Sing-ai,1.6,N/A,Taiwan,petrochemicals,Manufacturing,TWN
+1745,Keqiang Zhang,1.6,61,China,real estate,Real Estate,CHN
+1746,Clifford Asness,1.6,55,United States,money management,Finance & Investments,USA
+1747,Sam Goi,1.6,75,Singapore,frozen foods,Food & Beverage,SGP
+1748,Richard Kayne,1.6,76,United States,investments,Finance & Investments,USA
+1749,Lim Wee Chai,1.6,64,Malaysia,rubber gloves,Manufacturing,MYS
+1750,Tomas Olivo Lopez,1.6,48,Spain,shopping centers,Real Estate,ESP
+1751,Niraj Shah,1.6,48,United States,online retail,Technology,USA
+1752,Tung Ching Bor,1.6,59,China,manufacturing,Manufacturing,CHN
+1753,Zheng Jianjiang & family,1.6,61,China,electrical equipment,Manufacturing,CHN
+1754,Louis Bacon,1.6,65,United States,hedge funds,Finance & Investments,USA
+1755,Lance Gokongwei,1.6,54,Philippines,diversified,Diversified,PHL
+1756,Randal J. Kirk,1.6,68,United States,pharmaceuticals,Healthcare,USA
+1757,Liu Aisen & family,1.6,49,China,building materials,Construction & Engineering,CHN
+1758,Jorge Pinheiro Koren de Lima,1.6,49,Brazil,"hospitals, health insurance",Healthcare,BRA
+1759,Keiichi Shibahara,1.6,57,Japan,healthcare,Healthcare,JPN
+1760,Tung Ching Sai,1.6,57,China,manufacturing,Manufacturing,CHN
+1761,Zhong Sheng Jian,1.6,64,Singapore,real estate,Real Estate,SGP
+1762,Hari Bhartia,1.6,65,India,diversified,Diversified,IND
+1763,Sergei Gordeev,1.6,49,Russia,real estate,Real Estate,RUS
+1764,Jim Koch,1.6,72,United States,beer,Food & Beverage,USA
+1765,Liu Ming Chung,1.6,59,Brazil,paper,Manufacturing,BRA
+1766,Candido Pinheiro Koren de Lima Junior,1.6,51,Brazil,"hospitals, health insurance",Healthcare,BRA
+1767,Evgeny (Eugene) Shvidler,1.6,58,United States,"oil & gas, investments",Energy,USA
+1768,Scott Watterson,1.6,66,United States,fitness equipment,Technology,USA
+1769,Shyam Bhartia,1.6,69,India,"pharmaceuticals, food",Healthcare,IND
+1770,Bill Gross,1.6,77,United States,investments,Finance & Investments,USA
+1771,William Koch,1.6,81,United States,"oil, investments",Energy,USA
+1772,Vincent Lo,1.6,73,Hong Kong,real estate,Real Estate,HKG
+1773,Qian Ying,1.6,56,China,pig breeding,Food & Beverage,CHN
+1774,Ryan Smith,1.6,43,United States,cloud computing,Technology,USA
+1775,Wei Ing-Chou,1.6,68,Taiwan,"food, beverages",Food & Beverage,TWN
+1776,Amit Burman,1.6,52,India,consumer goods,Food & Beverage,IND
+1777,Sue Gross,1.6,72,United States,investments,Finance & Investments,USA
+1778,Kagemasa Kozuki,1.6,81,Japan,video games,Technology,JPN
+1779,Brandt Louie,1.6,78,Canada,drugstores,Food & Beverage,CAN
+1780,Ren Jinsheng & family,1.6,59,China,pharmaceutical,Healthcare,CHN
+1781,Peter Sperling,1.6,62,United States,education,Service,USA
+1782,Wei Yin-Chun,1.6,65,Taiwan,"food, beverages",Food & Beverage,TWN
+1783,Chen Shibin,1.6,55,China,quartz products,Manufacturing,CHN
+1784,Patrick Hanrahan,1.6,66,United States,software,Technology,USA
+1785,Arvind Lal,1.6,72,India,medical diagnostics,Healthcare,IND
+1786,Catherine Lozick,1.6,76,United States,valve manufacturing,Manufacturing,USA
+1787,Brian Roberts,1.6,62,United States,Comcast,Media & Entertainment,USA
+1788,Ion Stoica,1.6,57,Romania,data analytics,Technology,ROU
+1789,Wei Ying-Chiao,1.6,67,Taiwan,"food, beverages",Food & Beverage,TWN
+1790,Robert Clark,1.6,63,United States,construction,Construction & Engineering,USA
+1791,Ilkka Herlin,1.6,63,Finland,"elevators, escalators",Manufacturing,FIN
+1792,Theodore Leonsis,1.6,66,United States,sports teams,Sports,USA
+1793,Lv Jianming,1.6,57,Hong Kong,medical equipment,Healthcare,HKG
+1794,George Sakellaris,1.6,75,United States,energy services,Energy,USA
+1795,Lili Tan,1.6,N/A,China,feed,Food & Beverage,CHN
+1796,Kie Chie Wong,1.6,74,Malaysia,investments,Metals & Mining,MYS
+1797,Ana Lucia de Mattos Barretto Villela,1.6,48,Brazil,banking,Finance & Investments,BRA
+1798,Asok Kumar Hiranandani,1.6,67,Singapore,real estate,Real Estate,SGP
+1799,David Xueling Li,1.6,49,China,live streaming service,Technology,CHN
+1800,"Cargill MacMillan, III.",1.6,62,United States,Cargill,Food & Beverage,USA
+1801,Sheryl Sandberg,1.6,52,United States,Facebook,Technology,USA
+1802,Tan Yu Yeh,1.6,51,Malaysia,retail,Fashion & Retail,MYS
+1803,Xu Guozhong & family,1.6,58,China,Motors,Manufacturing,CHN
+1804,Sharon Azrieli,1.5,61,Canada,Real estate,Real Estate,CAN
+1805,Xianbao Chen & family,1.5,62,China,food,Food & Beverage,CHN
+1806,Henry Engelhardt,1.5,64,United States,insurance,Finance & Investments,USA
+1807,Balkrishan Goenka,1.5,55,India,textiles,Manufacturing,IND
+1808,Jin Xin,1.5,55,China,manufacturing,Manufacturing,CHN
+1809,Seth Klarman,1.5,64,United States,investments,Finance & Investments,USA
+1810,Li Ming,1.5,N/A,China,investments,Finance & Investments,CHN
+1811,Jonathan Oringer,1.5,47,United States,stock photos,Technology,USA
+1812,Christopher Rokos,1.5,51,United Kingdom,hedge fund,Finance & Investments,GBR
+1813,Thomas von Koch,1.5,56,Sweden,asset management,Finance & Investments,SWE
+1814,Lesley Bamberger,1.5,56,Netherlands,real estate,Real Estate,NLD
+1815,Chung Yong-jin,1.5,53,South Korea,retail,Fashion & Retail,KOR
+1816,Ali Erdemoglu,1.5,62,Turkey,carpet,Manufacturing,TUR
+1817,Esther Grether,1.5,86,Switzerland,art collection,Fashion & Retail,CHE
+1818,Conni Jonsson,1.5,61,Sweden,asset management,Finance & Investments,SWE
+1819,Mustafa Rahmi Koc,1.5,91,Turkey,diversified,Diversified,TUR
+1820,Li Zhen & family,1.5,58,China,lithium batteries,Manufacturing,CHN
+1821,Niti Osathanugrah,1.5,48,Thailand,"energy drinks,investments",Finance & Investments,THA
+1822,Fayez Sarofim,1.5,93,United States,money management,Finance & Investments,USA
+1823,Junjin Wang,1.5,53,China,airline,Service,CHN
+1824,Bernhard Braun-Luedicke,1.5,45,Germany,medical technology,Healthcare,DEU
+1825,Steve Conine,1.5,49,United States,online retail,Technology,USA
+1826,Eduardo Eurnekian,1.5,89,Argentina,"airports, investments",Diversified,ARG
+1827,Gu Wei,1.5,57,China,consumer electronics,Manufacturing,CHN
+1828,Jenny Just,1.5,54,United States,fintech,Finance & Investments,USA
+1829,Pyotr Kondrashev,1.5,72,Russia,investments,Manufacturing,RUS
+1830,Rongfu Lu,1.5,51,China,telecommunication,Telecom,CHN
+1831,Dragos Paval,1.5,55,Romania,retail,Fashion & Retail,ROU
+1832,Antonio Luiz Seabra,1.5,79,Brazil,cosmetics,Fashion & Retail,BRA
+1833,Wang Zelong,1.5,25,China,chemicals,Metals & Mining,CHN
+1834,Eva Maria Braun-Luedicke,1.5,35,Germany,medical technology,Healthcare,DEU
+1835,Eduardo Costantini,1.5,75,Argentina,real estate,Real Estate,ARG
+1836,John Farber,1.5,96,United States,chemicals,Manufacturing,USA
+1837,Torstein Hagen,1.5,79,Norway,cruises,Service,NOR
+1838,Ke Xiping & family,1.5,61,China,investments,Diversified,CHN
+1839,Kong Jian Min,1.5,54,China,real estate,Real Estate,CHN
+1840,Rafique Malik,1.5,71,India,footwear,Fashion & Retail,IND
+1841,Zach Perret,1.5,34,United States,fintech,Finance & Investments,USA
+1842,Amnon Shashua,1.5,61,Israel,automotive technology,Automotive,ISR
+1843,Myron Wentz,1.5,82,St. Kitts and Nevis,health products,Fashion & Retail,#N/A
+1844,Ana Maria Brescia Cafferata,1.5,97,Peru,"mining, banking",Diversified,PER
+1845,Wenjun Dai,1.5,53,China,food,Food & Beverage,CHN
+1846,Clement Fayat & family,1.5,90,France,construction,Construction & Engineering,FRA
+1847,Kenneth Hao,1.5,53,United States,private equity,Finance & Investments,USA
+1848,Ke Zunhong & family,1.5,67,China,pharmaceuticals,Healthcare,CHN
+1849,Hemendra Kothari,1.5,75,India,financial services,Finance & Investments,IND
+1850,Youssef Mansour,1.5,76,Egypt,diversified,Diversified,EGY
+1851,Karl-Johan Persson,1.5,47,Sweden,H&M,Fashion & Retail,SWE
+1852,Yuri Shefler,1.5,54,Russia,alcohol,Food & Beverage,RUS
+1853,Kaiting Wu,1.5,52,Hong Kong,electronics,Telecom,HKG
+1854,Nikolai Buinov,1.5,54,Russia,"oil, gas",Energy,RUS
+1855,Bharat Desai,1.5,69,United States,IT consulting,Technology,USA
+1856,Daniel Feffer,1.5,62,Brazil,pulp and paper,Manufacturing,BRA
+1857,He Zhiping,1.5,58,China,investments,Finance & Investments,CHN
+1858,Eduard Kucera,1.5,69,Czechia,software,Technology,CZE
+1859,Mao Lixiang & family,1.5,81,China,cooking appliances,Technology,CHN
+1860,Markus Persson,1.5,42,Sweden,computer games,Media & Entertainment,SWE
+1861,Mikhail Shelkov,1.5,53,Russia,titanium,Metals & Mining,RUS
+1862,Xiong Wu,1.5,46,China,software,Technology,CHN
+1863,Paolo Bulgari,1.5,84,Italy,luxury goods,Fashion & Retail,ITA
+1864,Mohammed Dewji,1.5,46,Tanzania,diversified,Diversified,TZA
+1865,David Feffer,1.5,65,Brazil,pulp and paper,Manufacturing,BRA
+1866,Timothy Headington,1.5,71,United States,"oil & gas, investments",Energy,USA
+1867,Christopher Kwok,1.5,36,Hong Kong,real estate,Real Estate,HKG
+1868,David McMurtry,1.5,81,United Kingdom,manufacturing,Manufacturing,GBR
+1869,Tom Persson,1.5,37,Sweden,H&M,Fashion & Retail,SWE
+1870,Charlotte Soderstrom,1.5,45,Sweden,H&M,Fashion & Retail,SWE
+1871,Xu Wanmao,1.5,77,China,education,Service,CHN
+1872,Andres Bzurovski Bay,1.5,44,Uruguay,fintech,Finance & Investments,URY
+1873,Mathias Doepfner,1.5,59,Germany,media,Media & Entertainment,DEU
+1874,Ruben Feffer,1.5,52,Brazil,pulp and paper,Manufacturing,BRA
+1875,Ilona Herlin,1.5,57,Finland,"elevators, escalators",Manufacturing,FIN
+1876,Edward Kwok,1.5,41,Hong Kong,real estate,Real Estate,HKG
+1877,Meng Qingshan & family,1.5,73,China,chemicals,Manufacturing,CHN
+1878,Kevin Plank,1.5,49,United States,Under Armour,Fashion & Retail,USA
+1879,Edwin Soeryadjaya,1.5,72,Indonesia,"coal, investments",Energy,IDN
+1880,Xu Zhenhua,1.5,N/A,China,online games,Media & Entertainment,CHN
+1881,Antti Aarnio-Wihuri,1.5,82,Finland,diversified,Diversified,FIN
+1882,Ahmet Calik,1.5,64,Turkey,"energy, banking, construction",Diversified,TUR
+1883,Domenico Dolce,1.5,63,Italy,luxury goods,Fashion & Retail,ITA
+1884,Feng Yuxia,1.5,57,China,pharmaceuticals,Healthcare,CHN
+1885,Niranjan Hiranandani,1.5,72,India,real estate,Real Estate,IND
+1886,Joe Lacob,1.5,66,United States,Golden State Warriors,Sports,USA
+1887,Alan Miller & family,1.5,84,United States,healthcare services,Healthcare,USA
+1888,Andreas Pohl,1.5,57,Germany,mutual funds,Finance & Investments,DEU
+1889,Thomas Steyer,1.5,64,United States,hedge funds,Finance & Investments,USA
+1890,Xue Jiping,1.5,71,China,cable,Telecom,CHN
+1891,Hamdi Akin & family,1.5,67,Turkey,diversified,Diversified,TUR
+1892,Giuliana Caprotti,1.5,81,Italy,supermarkets,Food & Beverage,ITA
+1893,Marek Dospiva,1.5,52,Czechia,investments,Finance & Investments,CZE
+1894,Sergio Fogel,1.5,58,Uruguay,fintech,Finance & Investments,URY
+1895,Drew Houston,1.5,39,United States,cloud storage service,Technology,USA
+1896,Lai Jianfa,1.5,52,China,express delivery,Logistics,CHN
+1897,Greg Mondre,1.5,47,United States,private equity,Finance & Investments,USA
+1898,"Reinfried Pohl, Jr.",1.5,62,Germany,mutual funds,Finance & Investments,DEU
+1899,Kevin Systrom,1.5,38,United States,Instagram,Technology,USA
+1900,Yang Jian,1.5,50,China,real estate,Real Estate,CHN
+1901,Chirayu Amin,1.5,75,India,pharmaceuticals,Healthcare,IND
+1902,Marina Caprotti,1.5,44,Italy,supermarkets,Food & Beverage,ITA
+1903,Fritz Draexlmaier,1.5,N/A,Germany,auto parts,Automotive,DEU
+1904,Pedro Franceschi,1.5,25,Brazil,fintech,Finance & Investments,BRA
+1905,Huang Rulun,1.5,70,China,real estate,Real Estate,CHN
+1906,Manuel Lao Hernández,1.5,77,Spain,casinos,Gambling & Casinos,ESP
+1907,Massimo Moratti,1.5,76,Italy,oil refinery,Energy,ITA
+1908,Michael Polsky,1.5,73,United States,Electric power,Energy,USA
+1909,Tang Binsen,1.5,39,China,beverages,Food & Beverage,CHN
+1910,Justin Yuan,1.5,N/A,China,online games,Media & Entertainment,CHN
+1911,Joachim Ante,1.5,39,Germany,game software,Technology,DEU
+1912,Steve Case,1.5,63,United States,AOL,Technology,USA
+1913,Henrique Dubugras,1.5,26,Brazil,fintech,Finance & Investments,BRA
+1914,Stefano Gabbana,1.5,59,Italy,luxury goods,Fashion & Retail,ITA
+1915,Matt Hulsizer,1.5,52,United States,fintech,Finance & Investments,USA
+1916,Lee Joon-ho,1.5,57,South Korea,online games,Technology,KOR
+1917,Robert Mouawad,1.5,77,Lebanon,fine jewelry,Service,LBN
+1918,Qin Long,1.5,56,China,tire,Manufacturing,CHN
+1919,Hary Tanoesoedibjo,1.5,56,Indonesia,"media, real estate",Media & Entertainment,IDN
+1920,Xinghai Zhang & family,1.5,59,China,machinery,Manufacturing,CHN
+1921,Danna Azrieli,1.5,54,Israel,Real estate,Real Estate,ISR
+1922,Binod Chaudhary,1.5,66,Nepal,diversified,Diversified,NPL
+1923,Bulent Eczacibasi,1.5,72,Turkey,"pharmaceuticals, diversified",Diversified,TUR
+1924,Geng Jianming,1.5,59,China,real estate,Real Estate,CHN
+1925,Peter Jackson,1.5,60,New Zealand,"movies, digital effects",Media & Entertainment,NZL
+1926,Li Jinyang,1.5,N/A,China,mining,Metals & Mining,CHN
+1927,Tadako Nakatani,1.5,N/A,Japan,medical diagnostic equipment,Healthcare,JPN
+1928,Mike Repole,1.5,54,United States,sports drink,Food & Beverage,USA
+1929,Wilma Tisch,1.5,94,United States,diversified,Finance & Investments,USA
+1930,Zhang Yin,1.5,65,China,paper manufacturing,Manufacturing,CHN
+1931,Naomi Azrieli,1.5,56,Canada,Real estate,Real Estate,CAN
+1932,Chen Baohua,1.5,60,China,pharmaceutical,Healthcare,CHN
+1933,Faruk Eczacibasi,1.5,67,Turkey,"pharmaceuticals, diversified",Diversified,TUR
+1934,Alan Gerry,1.5,93,United States,cable television,Media & Entertainment,USA
+1935,Jin Lei,1.5,56,China,pharmaceuticals,Healthcare,CHN
+1936,Sidney Kimmel,1.5,94,United States,retail,Fashion & Retail,USA
+1937,Kentaro Ogawa,1.5,73,Japan,restaurants,Food & Beverage,JPN
+1938,Fernando Roig,1.5,74,Spain,supermarkets,Fashion & Retail,ESP
+1939,Kenny Troutt,1.5,74,United States,telecom,Telecom,USA
+1940,Chengjian Zhou,1.5,56,China,fashion retail,Fashion & Retail,CHN
+1941,Radhe Shyam Agarwal,1.4,77,India,consumer goods,Fashion & Retail,IND
+1942,Cho Jyh-jer,1.4,N/A,Taiwan,semiconductors,Technology,TWN
+1943,"William Foley, II.",1.4,77,United States,financial services,Finance & Investments,USA
+1944,Viktor Kharitonin,1.4,49,Russia,pharmaceuticals,Healthcare,RUS
+1945,Anatoly Lomakin,1.4,69,Russia,investments,Metals & Mining,RUS
+1946,Ranjan Pai,1.4,49,India,education,Service,IND
+1947,Prachak Tangkaravakoon,1.4,78,Thailand,paints,Manufacturing,THA
+1948,Wenbo Xiang,1.4,59,China,manufacturing,Manufacturing,CHN
+1949,Syed Mokhtar AlBukhary,1.4,70,Malaysia,"engineering, automotive",Construction & Engineering,MYS
+1950,Jim Crane,1.4,68,United States,"logistics, baseball",Sports,USA
+1951,Jayme Garfinkel & family,1.4,76,Brazil,insurance,Finance & Investments,BRA
+1952,Kim Jun-ki,1.4,77,South Korea,diversified,Diversified,KOR
+1953,Jeffrey Lorberbaum,1.4,67,United States,flooring,Manufacturing,USA
+1954,Antonio Percassi,1.4,68,Italy,"real estate, diversified",Diversified,ITA
+1955,Lina Tombolato,1.4,74,Italy,financial services,Finance & Investments,ITA
+1956,Swift Xie,1.4,42,China,drones,Technology,CHN
+1957,Nerio Alessandri,1.4,60,Italy,gym equipment,Manufacturing,ITA
+1958,Thierry Cruanes,1.4,54,United States,software,Technology,USA
+1959,Radhe Shyam Goenka,1.4,76,India,consumer goods,Fashion & Retail,IND
+1960,Kim Sang-yeol,1.4,61,South Korea,construction,Construction & Engineering,KOR
+1961,Gary Magness,1.4,68,United States,"cable TV, investments",Media & Entertainment,USA
+1962,Mark Pincus,1.4,56,United States,online games,Technology,USA
+1963,Tong Jinquan,1.4,67,China,real estate,Real Estate,CHN
+1964,Xu Bingzhong,1.4,48,China,bars,Food & Beverage,CHN
+1965,Patricia Angelini Rossi,1.4,68,Chile,"forestry, mining",Diversified,CHL
+1966,Benoit Dageville,1.4,55,United States,software,Technology,USA
+1967,Maggie Hardy Knox,1.4,56,United States,building materials,Service,USA
+1968,Christine Knauf,1.4,N/A,Germany,building materials,Manufacturing,DEU
+1969,Zhongwu Mao,1.4,59,China,manufacturing,Manufacturing,CHN
+1970,Alexey Repik,1.4,42,Russia,pharmaceuticals,Healthcare,RUS
+1971,Luiza Helena Trajano,1.4,70,Brazil,retail chain,Fashion & Retail,BRA
+1972,Xu Shaochun,1.4,59,China,software,Technology,CHN
+1973,Tope Awotona,1.4,40,United States,software,Technology,USA
+1974,Weili Dai,1.4,60,United States,semiconductors,Technology,USA
+1975,Ayman Hariri,1.4,43,Lebanon,"construction, investments",Construction & Engineering,LBN
+1976,Karl Knauf,1.4,N/A,Germany,building materials,Manufacturing,DEU
+1977,Ilson Mateus & family,1.4,59,Brazil,supermarkets,Fashion & Retail,BRA
+1978,Matthew Roszak,1.4,49,United States,cryptocurrency,Finance & Investments,USA
+1979,John Van Lieshout,1.4,76,Australia,real estate,Real Estate,AUS
+1980,Yan Junxu,1.4,52,China,Manufacturing,Manufacturing,CHN
+1981,Elena Baturina,1.4,59,Russia,"investments, real estate",Construction & Engineering,RUS
+1982,Darwin Deason,1.4,81,United States,software,Service,USA
+1983,Christoph Henkel,1.4,64,Germany,consumer goods,Fashion & Retail,DEU
+1984,Yogesh Kothari,1.4,73,India,specialty chemicals,Manufacturing,IND
+1985,Vadim Moshkovich,1.4,54,Russia,"agriculture, land",Food & Beverage,RUS
+1986,Subhash Runwal,1.4,78,India,real estate,Real Estate,IND
+1987,Vardis Vardinoyannis & family,1.4,89,Greece,oil and gas,Energy,GRC
+1988,George Yancopoulos,1.4,62,United States,pharmaceuticals,Healthcare,USA
+1989,Sabrina Benetton,1.4,48,Italy,"fashion retail, investments",Fashion & Retail,ITA
+1990,Diego Della Valle,1.4,68,Italy,shoes,Fashion & Retail,ITA
+1991,Daniel Hirschfeld,1.4,80,United States,fashion retail,Fashion & Retail,USA
+1992,Kurt Krieger,1.4,74,Germany,furniture retailing,Fashion & Retail,DEU
+1993,Jerry Moyes & family,1.4,78,United States,transportation,Logistics,USA
+1994,Carlos Sanchez,1.4,60,Brazil,generic drugs,Healthcare,BRA
+1995,Jens von Bahr,1.4,51,Sweden,gambling products,Gambling & Casinos,SWE
+1996,Gavril Yushvaev,1.4,64,Russia,"precious metals, real estate",Finance & Investments,RUS
+1997,Thomas Bruch,1.4,71,Germany,retail,Fashion & Retail,DEU
+1998,Deng Yingzhong,1.4,71,China,paper,Manufacturing,CHN
+1999,William Hockey,1.4,32,United States,fintech,Finance & Investments,USA
+2000,Mustafa Kucuk,1.4,58,Turkey,fashion retail,Fashion & Retail,TUR
+2001,George Alexander Muthoot,1.4,66,India,financial services,Finance & Investments,IND
+2002,Martin Selig,1.4,84,United States,real estate,Real Estate,USA
+2003,Wang Fuji,1.4,N/A,China,pharmaceuticals,Healthcare,CHN
+2004,Zhuo Jun,1.4,56,Hong Kong,printed circuit boards,Manufacturing,HKG
+2005,Marina Budiman,1.4,60,Indonesia,data centers,Technology,IDN
+2006,Ding Shui Po,1.4,51,China,"sneakers, sportswear",Fashion & Retail,CHN
+2007,Huang Guanlin,1.4,57,China,"textiles, apparel",Fashion & Retail,CHN
+2008,Sebastian Kulczyk,1.4,41,Poland,diversified,Finance & Investments,POL
+2009,George Jacob Muthoot,1.4,69,India,financial services,Finance & Investments,IND
+2010,Bhadresh Shah,1.4,70,India,engineering,Manufacturing,IND
+2011,Wang Jian,1.4,68,China,healthcare services,Technology,CHN
+2012,Fredrik Österberg,1.4,51,Sweden,gambling products,Gambling & Casinos,SWE
+2013,Stewart Butterfield,1.4,49,Canada,messaging software,Technology,CAN
+2014,Mark Dixon,1.4,62,United Kingdom,office real estate,Real Estate,GBR
+2015,Huang Xiaofen & family,1.4,60,China,printed circuit boards,Technology,CHN
+2016,Gary Lauder,1.4,59,United States,Estée Lauder,Fashion & Retail,USA
+2017,George Thomas Muthoot,1.4,71,India,financial services,Finance & Investments,IND
+2018,Shao Jianxiong,1.4,N/A,China,photovoltaics,Energy,CHN
+2019,Werner O. Weber,1.4,83,Switzerland,electronic components,Manufacturing,CHE
+2020,Richard Chang,1.4,75,Taiwan,"real estate, electronics",Real Estate,TWN
+2021,Du Shuanghua,1.4,57,China,steel,Manufacturing,CHN
+2022,Jay-Z,1.4,52,United States,Multiple,Media & Entertainment,USA
+2023,Art Levinson,1.4,72,United States,"Genentech, Apple",Diversified,USA
+2024,Sara George Muthoot,1.4,61,India,financial services,Finance & Investments,IND
+2025,Shu Ping,1.4,52,Singapore,restaurants,Food & Beverage,SGP
+2026,Wei Lidong & family,1.4,46,China,software,Technology,CHN
+2027,Chen Tianqiao,1.4,48,China,online games,Technology,CHN
+2028,Mukand Lal Dua,1.4,73,India,footwear,Fashion & Retail,IND
+2029,Yintai Jiang & family,1.4,71,China,auto parts,Automotive,CHN
+2030,Li Li,1.4,58,China,pharmaceuticals,Healthcare,CHN
+2031,Marius Nacht,1.4,56,Israel,software,Technology,ISR
+2032,Ben Silbermann,1.4,39,United States,social media,Media & Entertainment,USA
+2033,Drorit Wertheim,1.4,66,Israel,Coca Cola Israel,Food & Beverage,ISR
+2034,Cheng Antares,1.4,64,Hong Kong,liquor,Food & Beverage,HKG
+2035,Fan Minhua,1.4,60,China,pharmaceuticals,Healthcare,CHN
+2036,Ramesh Juneja,1.4,66,India,pharmaceuticals,Healthcare,IND
+2037,Scott Lin,1.4,89,Taiwan,optical components,Technology,TWN
+2038,Simon Nixon,1.4,54,United Kingdom,price comparison website,Technology,GBR
+2039,Sun Qinghuan,1.4,48,China,lighting,Technology,CHN
+2040,Eugene Wu,1.4,76,Taiwan,finance,Finance & Investments,TWN
+2041,Chin Jong Hwa,1.4,63,Taiwan,auto parts,Automotive,TWN
+2042,Hongbo Fang,1.4,55,China,home appliances,Manufacturing,CHN
+2043,Scott Kapnick,1.4,63,United States,private equity,Finance & Investments,USA
+2044,Jenny Lindén Urnes,1.4,51,Sweden,powdered metal,Manufacturing,SWE
+2045,Stefan Olsson,1.4,73,Sweden,diversified,Diversified,SWE
+2046,Denis Sverdlov,1.4,43,Russia,electric vehicles,Automotive,RUS
+2047,Wu Xushun & family,1.4,73,China,internet,Diversified,CHN
+2048,Binny Bansal,1.3,39,India,flipkart,Technology,IND
+2049,Anna Maria Braun,1.3,43,Germany,medical technology,Healthcare,DEU
+2050,Richard Desmond,1.3,70,United Kingdom,publishing,Media & Entertainment,GBR
+2051,Jaroslav Hascak & family,1.3,52,Slovakia,investments,Finance & Investments,SVK
+2052,Raymond Kwok,1.3,68,Hong Kong,real estate,Real Estate,HKG
+2053,Martin Moller Nielsen,1.3,57,Denmark,aircraft leasing,Logistics,DNK
+2054,Lily Safra,1.3,87,Monaco,banking,Finance & Investments,MCO
+2055,Manny Stul,1.3,72,Australia,toys,Manufacturing,AUS
+2056,"Alfred West, Jr.",1.3,79,United States,money management,Finance & Investments,USA
+2057,Zhu Xingliang,1.3,62,China,construction,Construction & Engineering,CHN
+2058,Sachin Bansal,1.3,40,India,flipkart,Fashion & Retail,IND
+2059,Edouard Carmignac,1.3,74,France,asset management,Finance & Investments,FRA
+2060,Shlomo Eliahu,1.3,86,Israel,insurance,Finance & Investments,ISR
+2061,He Zuxun,1.3,56,China,pig breeding,Food & Beverage,CHN
+2062,Heikki Kyostila,1.3,76,Finland,dental products,Healthcare,FIN
+2063,Neide Helena de Moraes,1.3,67,Brazil,diversified,Diversified,BRA
+2064,Richard Saghian,1.3,40,United States,fast fashion,Fashion & Retail,USA
+2065,Rustem Sulteev,1.3,68,Russia,"refinery, chemicals",Energy,RUS
+2066,Dan Wilks,1.3,65,United States,natural gas,Energy,USA
+2067,Zhu Yiwen & family,1.3,N/A,China,healthcare,Healthcare,CHN
+2068,Barbara Benetton,1.3,52,Italy,"fashion retail, investments",Fashion & Retail,ITA
+2069,Anthony Casalena,1.3,39,United States,software,Technology,USA
+2070,Jose Roberto Ermirio de Moraes,1.3,64,Brazil,diversified,Diversified,BRA
+2071,David Hoffmann,1.3,69,United States,"executive search, investments",Diversified,USA
+2072,Lee Ho-jin,1.3,59,South Korea,diversified,Diversified,KOR
+2073,Yoshiko Mori,1.3,81,Japan,real estate,Real Estate,JPN
+2074,Deniz Sahenk,1.3,76,Turkey,diversified,Diversified,TUR
+2075,Sehat Sutardja,1.3,60,United States,semiconductors,Technology,USA
+2076,Farris Wilks,1.3,70,United States,natural gas,Energy,USA
+2077,Zong Yanmin,1.3,N/A,China,Semiconductor materials,Manufacturing,CHN
+2078,Othman Benjelloun & family,1.3,89,Morocco,"banking, insurance",Finance & Investments,MAR
+2079,Chang Jing,1.3,39,China,technology,Technology,CHN
+2080,Jose Ermirio de Moraes Neto,1.3,69,Brazil,diversified,Diversified,BRA
+2081,Francis Holder,1.3,81,France,bakeries,Food & Beverage,FRA
+2082,Bernard Lewis & family,1.3,96,United Kingdom,fashion retailer,Fashion & Retail,GBR
+2083,Mofatraj Munot,1.3,77,India,real estate,Real Estate,IND
+2084,Thomas Sandell,1.3,61,Sweden,hedge funds,Finance & Investments,SWE
+2085,Tony Tan Caktiong,1.3,69,Philippines,food,Food & Beverage,PHL
+2086,Gang Xu,1.3,58,China,Chemicals,Manufacturing,CHN
+2087,Angela Bennett,1.3,78,Australia,mining,Metals & Mining,AUS
+2088,Jeffrey Cheah,1.3,77,Malaysia,"property, healthcare",Real Estate,MYS
+2089,David Fattal & family,1.3,64,Israel,hotels,Service,ISR
+2090,Hu Rongda & family,1.3,63,China,chemicals,Manufacturing,CHN
+2091,Fengluan Li,1.3,60,China,"steel, diversified",Diversified,CHN
+2092,Randal Nardone,1.3,66,United States,"investments, energy",Finance & Investments,USA
+2093,Hajime Satomi,1.3,80,Japan,"video games, pachinko",Gambling & Casinos,JPN
+2094,Jim Thompson,1.3,82,United States,logistics,Logistics,USA
+2095,Xu Jin,1.3,57,China,wine,Food & Beverage,CHN
+2096,Chen Shiliang,1.3,58,China,polyester,Manufacturing,CHN
+2097,Marvy Finger,1.3,86,United States,real estate,Real Estate,USA
+2098,Wei Huang,1.3,62,China,real estate,Real Estate,CHN
+2099,Hua Li,1.3,44,China,financial services,Finance & Investments,CHN
+2100,God Nisanov,1.3,49,Russia,real estate,Real Estate,RUS
+2101,James Scapa,1.3,65,United States,software,Technology,USA
+2102,Carmen Thyssen,1.3,78,Spain,"investments, art",Manufacturing,ESP
+2103,Tony Xu,1.3,37,United States,food delivery service,Technology,USA
+2104,Yuantai Chen,1.3,54,China,batteries,Energy,CHN
+2105,Adam Foroughi,1.3,41,United States,mobile games,Media & Entertainment,USA
+2106,Zarakh Iliev,1.3,55,Russia,real estate,Real Estate,RUS
+2107,Li Ruiqiang,1.3,42,China,medical services,Healthcare,CHN
+2108,Vadim Novinsky,1.3,58,Ukraine,steel,Metals & Mining,UKR
+2109,Paul Sciarra,1.3,41,United States,Pinterest,Media & Entertainment,USA
+2110,August Troendle,1.3,66,United States,pharmaceutical services,Healthcare,USA
+2111,Ye Yanqiao,1.3,52,China,soy sauce,Food & Beverage,CHN
+2112,Cheng Xianfeng,1.3,53,China,pharmaceuticals,Healthcare,CHN
+2113,Richard Fortin,1.3,73,Canada,convinience stores,Fashion & Retail,CAN
+2114,Mitchell Jacobson,1.3,71,United States,industrial equipment,Service,USA
+2115,Lin Zhijun,1.3,46,China,medical devices,Healthcare,CHN
+2116,Satyanarayan Nuwal,1.3,69,India,industrial explosives,Manufacturing,IND
+2117,Albert Shigaboutdinov,1.3,69,Russia,"refinery, chemicals",Diversified,RUS
+2118,Joop van den Ende,1.3,80,Netherlands,TV shows,Media & Entertainment,NLD
+2119,Patrick Zalupski,1.3,41,United States,homebuilding,Real Estate,USA
+2120,Chu Jian,1.3,59,China,Manufacturing,Manufacturing,CHN
+2121,Luiz Frias,1.3,58,Brazil,mobile payments,Technology,BRA
+2122,Jiang Guiting & family,1.3,63,China,manufacturing,Manufacturing,CHN
+2123,Lin Zhixiong & family,1.3,48,China,medical devices,Healthcare,CHN
+2124,John Ocampo,1.3,63,United States,semiconductors,Technology,USA
+2125,Nobutoshi Shimamura,1.3,96,Japan,retail,Fashion & Retail,JPN
+2126,Sekar Vembu,1.3,50,India,business software,Technology,IND
+2127,Shengda Zan,1.3,59,China,diversified,Diversified,CHN
+2128,Alberto Alcocer,1.3,79,Spain,investments,Finance & Investments,ESP
+2129,Chua Thian Poh,1.3,73,Singapore,real estate,Real Estate,SGP
+2130,Susumu Fujita,1.3,48,Japan,internet media,Media & Entertainment,JPN
+2131,Rajeev Juneja,1.3,56,India,phamaceuticals,Healthcare,IND
+2132,Liu Ming Hui,1.3,59,China,natural gas distribution,Energy,CHN
+2133,Pan Gang,1.3,51,China,dairy,Food & Beverage,CHN
+2134,Ron Sim,1.3,63,Singapore,retail,Fashion & Retail,SGP
+2135,Sandro Veronesi & family,1.3,62,Italy,fashion,Fashion & Retail,ITA
+2136,Zeng Chaoyi,1.3,53,China,aluminum products,Manufacturing,CHN
+2137,Alexandra Andresen,1.3,25,Norway,investments,Diversified,NOR
+2138,Alberto Cortina,1.3,76,Spain,investments,Finance & Investments,ESP
+2139,Simona Giorgetta,1.3,44,Italy,chemical products,Construction & Engineering,ITA
+2140,Peter Kelly,1.3,64,United Kingdom,I.T.,Technology,GBR
+2141,Xuejing Liu & family,1.3,71,China,"copper, poultry",Diversified,CHN
+2142,Forrest Preston,1.3,89,United States,health care,Healthcare,USA
+2143,Alexander Sixt,1.3,42,Germany,car rentals,Automotive,DEU
+2144,Wan Long,1.3,81,China,food,Food & Beverage,CHN
+2145,Zhang Guiping & family,1.3,70,China,real estate,Real Estate,CHN
+2146,Katharina Andresen,1.3,26,Norway,investments,Diversified,NOR
+2147,Sandor Csanyi,1.3,69,Hungary,"finance, real estate",Diversified,HUN
+2148,Premchand Godha,1.3,75,India,pharmaceuticals,Healthcare,IND
+2149,Kim Nam-jung,1.3,49,South Korea,food,Food & Beverage,KOR
+2150,Lu Yonghua & family,1.3,58,China,electronics,Technology,CHN
+2151,Riju Raveendran,1.3,39,India,edtech,Technology,IND
+2152,Konstantin Sixt,1.3,39,Germany,car rentals,Automotive,DEU
+2153,Han Wang,1.3,34,China,airline,Diversified,CHN
+2154,Peng Zhao,1.3,51,China,online recruitment,Service,CHN
+2155,Anant Asavabhokhin,1.3,71,Thailand,real estate,Real Estate,THA
+2156,Anand Deshpande,1.3,59,India,technology,Technology,IND
+2157,Hang Hong,1.3,54,China,machinery,Manufacturing,CHN
+2158,Yuri Kovalchuk,1.3,70,Russia,"banking, insurance, media",Finance & Investments,RUS
+2159,Frederic Luddy,1.3,67,United States,software,Technology,USA
+2160,P.V. Krishna Reddy,1.3,52,India,infrastructure,Construction & Engineering,IND
+2161,Marco Squinzi,1.3,50,Italy,chemical products,Construction & Engineering,ITA
+2162,Wang Qinghua,1.3,56,China,electric equipment,Manufacturing,CHN
+2163,Kostyantin Zhevago,1.3,48,Ukraine,mining,Metals & Mining,UKR
+2164,Mehmet Aydinlar,1.3,65,Turkey,hospitals,Healthcare,TUR
+2165,Oleg Boyko,1.3,57,Russia,diversified,Diversified,RUS
+2166,Alfredo Harp Helu & family,1.3,78,Mexico,"banking, investments",Finance & Investments,MEX
+2167,Michael Krasny,1.3,68,United States,retail,Technology,USA
+2168,Miao Yongjun,1.3,54,China,clinical diagnostics,Healthcare,CHN
+2169,Satish Reddy,1.3,54,India,pharmaceuticals,Healthcare,IND
+2170,Veronica Squinzi,1.3,50,Italy,chemical products,Construction & Engineering,ITA
+2171,Pengcheng Wen & family,1.3,59,China,agribusiness,Food & Beverage,CHN
+2172,Zhou Mingjie,1.3,64,China,lighting installations,Technology,CHN
+2173,Friederike Braun-Luedicke,1.2,38,Germany,medical technology,Healthcare,DEU
+2174,Bernd Freier,1.2,65,Germany,fashion retail,Fashion & Retail,DEU
+2175,Shanbing Huang & family,1.2,65,China,semiconductors,Technology,CHN
+2176,Hartono Kweefanus,1.2,72,Indonesia,food manufacturing,Food & Beverage,IDN
+2177,Park Kwan-ho,1.2,50,South Korea,online games,Media & Entertainment,KOR
+2178,Leonid Radvinsky,1.2,39,United States,e-commerce,Technology,USA
+2179,Petter Stordalen & family,1.2,59,Norway,hotels,Service,NOR
+2180,Jianfeng Wang & family,1.2,52,China,auto parts,Automotive,CHN
+2181,Zhang Tianyu,1.2,54,China,telecommunications,Telecom,CHN
+2182,Pradip Burman,1.2,79,India,consumer goods,Food & Beverage,IND
+2183,Geng Diangen,1.2,65,China,Internet,Technology,CHN
+2184,Huang Shih Tsai,1.2,70,Hong Kong,real estate,Real Estate,HKG
+2185,Kwek Leng Peck,1.2,66,Singapore,diversified,Diversified,SGP
+2186,George Pedersen,1.2,86,United States,defense contractor,Manufacturing,USA
+2187,Megdet Rahimkulov & family,1.2,76,Russia,investments,Finance & Investments,RUS
+2188,Winarko Sulistyo,1.2,76,Indonesia,paper and pulp,Manufacturing,IDN
+2189,Wang Jilei,1.2,57,China,logistics,Logistics,CHN
+2190,Shusheng Zheng,1.2,56,China,telecom,Telecom,CHN
+2191,Cai Hongbin,1.2,N/A,China,pharmaceuticals,Healthcare,CHN
+2192,Dan Gertler,1.2,48,Israel,mining,Metals & Mining,ISR
+2193,Huang Wenbiao,1.2,54,China,soy sauce,Food & Beverage,CHN
+2194,Kristo Käärmann,1.2,41,Estonia,"payments, banking",Finance & Investments,EST
+2195,David Penaloza Alanis,1.2,48,Mexico,toll roads,Construction & Engineering,MEX
+2196,Andrei Rappoport,1.2,58,Russia,investments,Finance & Investments,RUS
+2197,Sun Huaiqing & family,1.2,52,China,cosmetics,Fashion & Retail,CHN
+2198,Wang Junmin,1.2,53,China,pharmaceuticals,Healthcare,CHN
+2199,Sanjay Agarwal,1.2,51,India,banking,Finance & Investments,IND
+2200,Chang Kuo-Cheng,1.2,N/A,Taiwan,Transportation,Logistics,TWN
+2201,David Girouard,1.2,56,United States,fintech,Finance & Investments,USA
+2202,Mohammed Ibrahim,1.2,75,United Kingdom,communications,Telecom,GBR
+2203,Guy Laliberté,1.2,62,Canada,Cirque du Soleil,Media & Entertainment,CAN
+2204,Stefan Pierer,1.2,65,Austria,automotive,Automotive,AUT
+2205,Dasari Uday Kumar Reddy,1.2,54,India,cloud communications,Technology,IND
+2206,Luc Tack,1.2,60,Belgium,"textile, chemicals",Manufacturing,BEL
+2207,Wang Kunxiao,1.2,52,China,oilfield equipment,Manufacturing,CHN
+2208,Hamad bin Jassim bin Jaber Al Thani,1.2,62,Qatar,investments,Finance & Investments,QAT
+2209,Jiancheng Chen,1.2,63,China,manufacturing,Manufacturing,CHN
+2210,John Goff,1.2,67,United States,real estate,Real Estate,USA
+2211,Hedda im Brahm-Droege,1.2,67,Germany,investments,Finance & Investments,DEU
+2212,Lee Sang-ryul,1.2,60,South Korea,chemicals,Manufacturing,KOR
+2213,Murdaya Poo,1.2,81,Indonesia,diversified,Diversified,IDN
+2214,Helena Revoredo,1.2,75,Spain,security services,Service,ESP
+2215,Lucio Tan,1.2,87,Philippines,diversified,Diversified,PHL
+2216,Wang Zhentao & family,1.2,56,China,vaccine & shoes,Healthcare,CHN
+2217,Betty Ang,1.2,67,Philippines,foods,Food & Beverage,PHL
+2218,Chen Xueling,1.2,54,China,stationery,Manufacturing,CHN
+2219,Lawrence Golub,1.2,62,United States,private equity,Finance & Investments,USA
+2220,Rameshchandra Jain,1.2,73,India,textiles,Manufacturing,IND
+2221,Lee Seung-gun,1.2,40,South Korea,fintech,Technology,KOR
+2222,Duke Reyes,1.2,65,United States,beer distribution,Food & Beverage,USA
+2223,Yoshikazu Tanaka,1.2,45,Japan,social network,Technology,JPN
+2224,J. Wayne Weaver,1.2,86,United States,Shoes,Diversified,USA
+2225,Christian Angermayer,1.2,43,Germany,investments,Finance & Investments,DEU
+2226,Cheng Lili,1.2,57,China,poultry breeding,Food & Beverage,CHN
+2227,Sven Hagströmer,1.2,78,Sweden,financial services,Finance & Investments,SWE
+2228,Laurent Junique,1.2,56,France,call centers,Technology,FRA
+2229,Hongjing Li,1.2,54,China,auto parts,Automotive,CHN
+2230,Nobutada Saji,1.2,76,Japan,beverages,Food & Beverage,JPN
+2231,Stanley Tang,1.2,29,United States,food delivery app,Technology,USA
+2232,Weng Xianding,1.2,60,China,medical devices,Healthcare,CHN
+2233,Mika Anttonen,1.2,55,Finland,oil & gas,Energy,FIN
+2234,Yvon Chouinard,1.2,83,United States,Patagonia,Fashion & Retail,USA
+2235,Fahed Hariri,1.2,41,Lebanon,"construction, investments",Construction & Engineering,LBN
+2236,Zbigniew Juroszek & family,1.2,59,Poland,"real estate, gambling",Diversified,POL
+2237,Li Wanqiang,1.2,44,China,smartphones,Technology,CHN
+2238,Leonard Schleifer,1.2,69,United States,pharmaceuticals,Healthcare,USA
+2239,Sam Tarascio,1.2,77,Australia,real estate,Real Estate,AUS
+2240,Horst Wortmann,1.2,80,Germany,footwear,Fashion & Retail,DEU
+2241,Jose Maria Aristrain,1.2,59,Spain,steel,Metals & Mining,ESP
+2242,Luigi Cremonini & family,1.2,82,Italy,meat processing,Food & Beverage,ITA
+2243,Richard Hayne,1.2,74,United States,Urban Outfitters,Fashion & Retail,USA
+2244,Chatchai Kaewbootta,1.2,70,Thailand,auto loans,Finance & Investments,THA
+2245,Lu Hongyan,1.2,44,China,online games,Media & Entertainment,CHN
+2246,Airat Shaimiev,1.2,60,Russia,"refinery, chemicals",Energy,RUS
+2247,Alexander Tedja,1.2,76,Indonesia,real estate,Real Estate,IDN
+2248,Wu Chung-yi,1.2,66,Taiwan,manufacturing,Manufacturing,TWN
+2249,Emilio Azcarraga Jean,1.2,54,Mexico,TV broadcasting,Media & Entertainment,MEX
+2250,Tim Draper,1.2,63,United States,cryptocurrency,Finance & Investments,USA
+2251,He Yamin & family,1.2,65,China,manufacturing,Manufacturing,CHN
+2252,Shirley Kao,1.2,65,Taiwan,food & beverage retailing,Food & Beverage,TWN
+2253,Dalong Lv,1.2,60,China,telecom services,Telecom,CHN
+2254,Radik Shaimiev,1.2,57,Russia,"refinery, chemicals",Energy,RUS
+2255,Laurie Tisch,1.2,71,United States,"insurance, NFL team",Diversified,USA
+2256,Wu Li-gann,1.2,81,Taiwan,electronic components,Manufacturing,TWN
+2257,Thomas Bailey,1.2,85,United States,money management,Finance & Investments,USA
+2258,Fan Zhaoxia & family,1.2,54,China,photovoltaic equipment,Energy,CHN
+2259,Michael Heine,1.2,72,Australia,financial services,Finance & Investments,AUS
+2260,Ipek Kirac,1.2,37,Turkey,diversified,Diversified,TUR
+2261,Carsten Maschmeyer,1.2,62,Germany,finance services,Finance & Investments,DEU
+2262,Vijay Shekhar Sharma,1.2,43,India,financial technology,Service,IND
+2263,Steven Tisch,1.2,73,United States,insurance,Diversified,USA
+2264,Wu Peifu & family,1.2,60,China,plastic,Manufacturing,CHN
+2265,Andrei Bokarev,1.2,55,Russia,"metals, mining",Manufacturing,RUS
+2266,Gleb Fetisov,1.2,55,Russia,investments,Telecom,RUS
+2267,Heikki Herlin,1.2,35,Finland,"elevators, escalators",Manufacturing,FIN
+2268,Carsten Koerl,1.2,57,Germany,sports data,Sports,DEU
+2269,Todd McKinnon,1.2,50,United States,software,Technology,USA
+2270,Devi Shetty,1.2,69,India,healthcare,Healthcare,IND
+2271,Stefania Triva,1.2,57,Italy,microbiology,Healthcare,ITA
+2272,Xiu Laigui,1.2,67,China,pharmaceuticals,Healthcare,CHN
+2273,Ashok Boob,1.2,70,India,specialty chemicals,Manufacturing,IND
+2274,William Fisher,1.2,65,United States,Gap,Fashion & Retail,USA
+2275,Hu Kun,1.2,52,China,medical equipment,Healthcare,CHN
+2276,John Krystynak,1.2,53,United States,mobile games,Media & Entertainment,USA
+2277,Lorinc Meszaros,1.2,56,Hungary,diversified,Diversified,HUN
+2278,Michael Steinhardt,1.2,81,United States,hedge funds,Finance & Investments,USA
+2279,Wim van der Leegte,1.2,74,Netherlands,manufacturing,Manufacturing,NLD
+2280,Faxiang Yu,1.2,50,China,"tourism, cultural industry",Media & Entertainment,CHN
+2281,Ludwig Theodor Braun,1.2,32,Germany,medical technology,Healthcare,DEU
+2282,J. Christopher Flowers,1.2,64,United States,investments,Finance & Investments,USA
+2283,Huang Hongyun & family,1.2,55,China,real estate,Real Estate,CHN
+2284,John Kusuma,1.2,55,Indonesia,banking,Finance & Investments,IDN
+2285,Ulrich Mommert & family,1.2,81,Austria,lighting,Automotive,AUT
+2286,Michael Price,1.2,69,United States,investments,Finance & Investments,USA
+2287,Thongma Vijitpongpun,1.2,64,Thailand,real estate,Real Estate,THA
+2288,Zeng Chaolin,1.2,39,China,Aluminium,Metals & Mining,CHN
+2289,Gabriel Escarrer,1.1,87,Spain,hotels,Service,ESP
+2290,Christian Herz,1.1,N/A,Germany,coffee,Finance & Investments,DEU
+2291,Ke Guihua,1.1,56,China,auto parts,Manufacturing,CHN
+2292,Li Shui-po,1.1,65,Taiwan,Manufacturing,Manufacturing,TWN
+2293,Jeffrey Michael & family,1.1,65,United States,data management,Technology,USA
+2294,"Karl Scheufele, III. & family",1.1,83,Switzerland,jewelry,Fashion & Retail,CHE
+2295,Surin Upatkoon,1.1,72,Thailand,"telecom, lotteries, insurance",Diversified,THA
+2296,Jane Yan & family,1.1,52,China,software,Technology,CHN
+2297,Richard Fairbank,1.1,71,United States,banking,Finance & Investments,USA
+2298,Michaela Herz,1.1,N/A,Germany,coffee,Finance & Investments,DEU
+2299,Kim Jung-woong,1.1,47,South Korea,cosmetics,Fashion & Retail,KOR
+2300,Li Tan,1.1,57,China,pharmaceuticals,Healthcare,CHN
+2301,Soichiro Minami,1.1,45,Japan,internet and software,Technology,JPN
+2302,Steven Schuurman,1.1,46,Netherlands,software,Technology,NLD
+2303,Sunil Vachani,1.1,53,India,electronics,Manufacturing,IND
+2304,Yang Erzhu,1.1,71,China,real estate,Real Estate,CHN
+2305,A. Jayson Adair,1.1,52,United States,damaged cars,Automotive,USA
+2306,Andy Fang,1.1,29,United States,food delivery app,Technology,USA
+2307,Eduardo Hochschild,1.1,58,Peru,mining,Metals & Mining,PER
+2308,Harry Klagsbrun,1.1,67,Sweden,financial services,Finance & Investments,SWE
+2309,Li Wenmei & family,1.1,59,China,medical equipment,Healthcare,CHN
+2310,Bob Muglia,1.1,62,United States,software,Technology,USA
+2311,Shao Zengming,1.1,N/A,China,diamonds,Manufacturing,CHN
+2312,Murat Vargi,1.1,74,Turkey,telecom,Telecom,TUR
+2313,Vlad Yatsenko,1.1,38,Ukraine,fintech,Finance & Investments,UKR
+2314,Joao Alves de Queiroz Filho,1.1,69,Brazil,pharmaceuticals,Diversified,BRA
+2315,Benedicte Find,1.1,N/A,Denmark,medical devices,Healthcare,DNK
+2316,Hong Seok-joh,1.1,69,South Korea,convenience stores,Fashion & Retail,KOR
+2317,Alexander Knauf,1.1,47,Germany,building materials,Manufacturing,DEU
+2318,Lim Hariyanto Wijaya Sarwono,1.1,93,Indonesia,"palm oil, nickel mining",Energy,IDN
+2319,Erik Must,1.1,79,Norway,stock brokerage,Finance & Investments,NOR
+2320,Analjit Singh,1.1,68,India,diversified,Diversified,IND
+2321,Pongsak Viddayakorn,1.1,88,Thailand,hospitals,Healthcare,THA
+2322,Yi Xianzhong & family,1.1,62,China,pharmaceuticals,Healthcare,CHN
+2323,Ryuji Arai,1.1,75,Japan,retail,Fashion & Retail,JPN
+2324,Paul Fireman,1.1,78,United States,Reebok,Fashion & Retail,USA
+2325,Huang Jiangji,1.1,N/A,Hong Kong,smartphones,Technology,HKG
+2326,Martin Knauf,1.1,N/A,Germany,building materials,Manufacturing,DEU
+2327,Lin Jie & family,1.1,53,China,pharmaceuticals,Healthcare,CHN
+2328,Kerr Neilson,1.1,72,Australia,Investments,Finance & Investments,AUS
+2329,Kavita Singhania,1.1,60,India,cement,Manufacturing,IND
+2330,Wang Linxiang,1.1,N/A,China,cashmere,Fashion & Retail,CHN
+2331,Yoshiaki Yoshida,1.1,81,Japan,cosmetics,Fashion & Retail,JPN
+2332,Sara Blakely,1.1,51,United States,Spanx,Fashion & Retail,USA
+2333,Donald Friese,1.1,81,United States,manufacturing,Manufacturing,USA
+2334,Huang Xu,1.1,54,China,semiconductor,Technology,CHN
+2335,Robert Knauf,1.1,N/A,Germany,building materials,Manufacturing,DEU
+2336,Liu Chengyu & family,1.1,59,China,power supply equipment,Manufacturing,CHN
+2337,John Oyler,1.1,54,United States,biotech,Healthcare,USA
+2338,Michael S. Smith,1.1,66,United States,liquefied natural gas,Energy,USA
+2339,Wang Shumin,1.1,65,China,manufacturing,Manufacturing,CHN
+2340,Yu Rong,1.1,50,China,health clinics,Healthcare,CHN
+2341,Lloyd Blankfein,1.1,67,United States,banking,Finance & Investments,USA
+2342,Soichiro Fukutake,1.1,76,Japan,education,Service,JPN
+2343,Subba Rao Jasti,1.1,95,India,pharmaceuticals,Healthcare,IND
+2344,Koh Wee Meng,1.1,58,Singapore,"real estate, hotels",Real Estate,SGP
+2345,Lou Boliang,1.1,58,United States,pharmaceuticals,Healthcare,USA
+2346,Park Hyeon-joo,1.1,63,South Korea,mutual funds,Finance & Investments,KOR
+2347,Scott Smith,1.1,72,United States,cloud computing,Technology,USA
+2348,Richard Warke,1.1,N/A,Canada,Mining,Metals & Mining,CAN
+2349,Igor Yusufov,1.1,65,Russia,oil & gas,Energy,RUS
+2350,Henadiy Boholyubov,1.1,60,Ukraine,"banking, investments",Diversified,UKR
+2351,Antonio Gallardo Ballart,1.1,86,Spain,pharmaceuticals,Healthcare,ESP
+2352,Long Jiang,1.1,48,China,Manufacturing,Technology,CHN
+2353,Sergei Kolesnikov,1.1,50,Russia,building materials,Manufacturing,RUS
+2354,Lun Ruixiang & family,1.1,54,China,real estate,Real Estate,CHN
+2355,Jose Isaac Peres & family,1.1,81,Brazil,shopping malls,Real Estate,BRA
+2356,Ashok Soota,1.1,79,India,software services,Technology,IND
+2357,Anne Werninghaus,1.1,36,Brazil,industrial machinery,Manufacturing,BRA
+2358,Zeng Weixiong,1.1,N/A,China,healthcare,Healthcare,CHN
+2359,Caspar Callerström,1.1,48,Sweden,financial services,Finance & Investments,SWE
+2360,David Golub,1.1,59,United States,private equity,Finance & Investments,USA
+2361,Jiang Xuefei & family,1.1,52,China,printed circuit boards,Technology,CHN
+2362,Andrei Komarov,1.1,55,Russia,investments,Manufacturing,RUS
+2363,Lv Yongxiang,1.1,72,China,magnetic switches,Manufacturing,CHN
+2364,Catherine Phillips,1.1,N/A,Canada,investments,Finance & Investments,CAN
+2365,Michael Spencer,1.1,66,United Kingdom,stock exchange,Finance & Investments,GBR
+2366,Allan Wong,1.1,72,Hong Kong,electronics,Manufacturing,HKG
+2367,Zhang Cheng Fei,1.1,54,China,paper & related products,Manufacturing,CHN
+2368,Kejian Cao,1.1,59,China,air compressors,Manufacturing,CHN
+2369,Guan Yihong,1.1,52,China,restaurant,Food & Beverage,CHN
+2370,Jonas Kamprad,1.1,56,Sweden,IKEA,Finance & Investments,SWE
+2371,Koo Bon-neung,1.1,73,South Korea,electronics,Manufacturing,KOR
+2372,Ma Xiuhui,1.1,51,China,LED lighting,Manufacturing,CHN
+2373,John Phillips,1.1,71,Canada,investments,Finance & Investments,CAN
+2374,Venu Srinivasan,1.1,69,India,two-wheelers,Automotive,IND
+2375,Chaoqun Wu,1.1,52,China,chemicals,Manufacturing,CHN
+2376,Zhang Fangliang,1.1,57,China,biotechnology,Healthcare,CHN
+2377,Turgay Ciner,1.1,66,Turkey,diversified,Diversified,TUR
+2378,Stelios Haji-Ioannou,1.1,55,Cyprus,EasyJet,Service,CYP
+2379,Mathias Kamprad,1.1,52,Sweden,IKEA,Finance & Investments,SWE
+2380,Koo Bon-sik,1.1,63,South Korea,LG,Technology,KOR
+2381,Yasseen Mansour,1.1,60,Egypt,diversified,Diversified,EGY
+2382,Pu Zhongjie & family,1.1,59,China,medical equipment,Healthcare,CHN
+2383,Dirk Stroeer,1.1,53,Germany,advertising,Media & Entertainment,DEU
+2384,Wu Yonghua,1.1,51,China,apparel,Fashion & Retail,CHN
+2385,Baoshen Zhong,1.1,54,China,solar energy,Energy,CHN
+2386,Dai Lizhong,1.1,53,China,medical testing,Healthcare,CHN
+2387,Mustafa Hamied,1.1,81,India,pharmaceuticals,Healthcare,IND
+2388,Peter Kamprad,1.1,58,Sweden,IKEA,Finance & Investments,SWE
+2389,Suresh Krishna,1.1,85,India,auto parts,Automotive,IND
+2390,Jorge Mas,1.1,59,United States,Construction,Construction & Engineering,USA
+2391,Qian Xiaojun,1.1,47,China,IT,Technology,CHN
+2392,Susanto Suwarto,1.1,66,Indonesia,media,Media & Entertainment,IDN
+2393,Wu Zhenxing,1.1,52,China,soy sauce,Food & Beverage,CHN
+2394,Zhou Minghua,1.1,58,China,pharmaceutical,Healthcare,CHN
+2395,Aydin Dogan,1.1,85,Turkey,media,Media & Entertainment,TUR
+2396,Ronnen Harary,1.1,50,Canada,toys,Manufacturing,CAN
+2397,Samvel Karapetyan,1.1,56,Russia,real estate,Construction & Engineering,RUS
+2398,Norma Lerner,1.1,86,United States,banking,Finance & Investments,USA
+2399,Gabriella Meister,1.1,N/A,Germany,appliances,Manufacturing,DEU
+2400,Igor Rybakov,1.1,49,Russia,building materials,Manufacturing,RUS
+2401,Mehmet Sinan Tara,1.1,63,Turkey,construction,Construction & Engineering,TUR
+2402,Xia Xinde,1.1,57,China,batteries,Manufacturing,CHN
+2403,Wolfgang Egger,1.1,56,Germany,real estate,Real Estate,DEU
+2404,David Helgason,1.1,44,Iceland,game software,Technology,ISL
+2405,Alexander Karp,1.1,54,United States,software firm,Technology,USA
+2406,Randolph Lerner,1.1,60,United States,"banking, credit cards",Finance & Investments,USA
+2407,Ulrike Meister,1.1,55,Germany,appliances,Manufacturing,DEU
+2408,K. Rai Sahi,1.1,75,Canada,real estate,Real Estate,CAN
+2409,Robert Toll,1.1,81,United States,home building,Real Estate,USA
+2410,Xiong Jun & family,1.1,48,China,pharmaceuticals,Healthcare,CHN
+2411,Karl Friedrich Braun,1,39,Germany,medical technology,Healthcare,DEU
+2412,Jorge Gallardo Ballart,1,80,Spain,pharmaceuticals,Healthcare,ESP
+2413,Polys Haji-Ioannou,1,62,Cyprus,EasyJet,Service,CYP
+2414,Jeff Lawson,1,44,United States,software,Technology,USA
+2415,Michael Rees,1,47,United States,private equity,Finance & Investments,USA
+2416,Jeff Sprecher,1,67,United States,stock exchanges,Finance & Investments,USA
+2417,Ye Qiongjiu,1,67,China,software,Technology,CHN
+2418,Guo Jiangang,1,55,China,household appliances,Manufacturing,CHN
+2419,Jean-Pierre Cayard,1,79,France,spirits,Food & Beverage,FRA
+2420,Nari Genomal,1,82,Cyprus,apparel,Fashion & Retail,CYP
+2421,Huang Jian,1,55,China,home appliance,Manufacturing,CHN
+2422,Liang Jiankun & family,1,60,China,cobalt mining,Metals & Mining,CHN
+2423,Mark Rein,1,58,United States,video games,Media & Entertainment,USA
+2424,Axel Stawski,1,71,United States,real estate,Real Estate,USA
+2425,"Richard Yuengling, Jr.",1,79,United States,beer,Food & Beverage,USA
+2426,Polys Haji-Ioannou,1,62,Cyprus,EasyJet,Service,CYP
+2427,Tony Chen,1,72,Taiwan,electronics,Technology,TWN
+2428,Ramesh Genomal,1,71,Cyprus,apparel,Fashion & Retail,CYP
+2429,Huang Jinxiang & family,1,57,China,chemicals,Manufacturing,CHN
+2430,Liu Baolin,1,68,China,pharmacies,Fashion & Retail,CHN
+2431,Ren Zhengfei,1,78,China,telecom equipment,Telecom,CHN
+2432,Joseph Steinberg,1,78,United States,investments,Finance & Investments,USA
+2433,Zhang Kapeng,1,57,China,building materials,Construction & Engineering,CHN
+2434,Huang Jian,1,55,China,home appliance,Manufacturing,CHN
+2435,Vivien Chen,1,63,Hong Kong,real estate,Real Estate,HKG
+2436,Sunder Genomal,1,68,United Kingdom,garments,Fashion & Retail,GBR
+2437,Huang Weibin,1,54,China,home appliances,Manufacturing,CHN
+2438,Liu Quan,1,45,China,IT,Technology,CHN
+2439,Francisco Jose Riberas Mera,1,57,Spain,"steel, autoparts",Manufacturing,ESP
+2440,Bhawari Bai Surana,1,76,India,pharmaceuticals,Healthcare,IND
+2441,Zhang Yuqiang,1,66,China,Fiberglass,Manufacturing,CHN
+2442,Huang Jinxiang & family,1,57,China,chemicals,Manufacturing,CHN
+2443,Chey Ki-won,1,57,South Korea,"computer services, telecom",Technology,KOR
+2444,Horst-Otto Gerberding,1,69,Germany,flavors and fragrances,Food & Beverage,DEU
+2445,Hiroshi Ishibashi,1,75,Japan,tires,Automotive,JPN
+2446,Udo Mueller,1,60,Germany,advertising,Media & Entertainment,DEU
+2447,Boris Rotenberg,1,65,Russia,"construction, pipes, chemicals",Construction & Engineering,RUS
+2448,Ruiqing Tan,1,55,China,chemicals,Manufacturing,CHN
+2449,Zhou Ruxin,1,59,China,Navigation,Technology,CHN
+2450,Huang Weibin,1,54,China,home appliances,Manufacturing,CHN
+2451,Pollyanna Chu,1,64,Hong Kong,"financial services, property",Finance & Investments,HKG
+2452,Bent Jensen,1,70,Denmark,electric systems,Manufacturing,DNK
+2453,Bruce Nordstrom,1,88,United States,Nordstrom department stores,Fashion & Retail,USA
+2454,Chanchai Ruayrungruang,1,68,China,real estate,Real Estate,CHN
+2455,Masaru Tange,1,47,Japan,software,Technology,JPN
+2456,Wen Zhou & family,1,57,China,chemicals,Manufacturing,CHN
+2457,Hiroshi Ishibashi,1,75,Japan,tires,Automotive,JPN
+2458,Roy Chi Ping Chung,1,69,Hong Kong,manufacturing,Manufacturing,HKG
+2459,Boris Jordan,1,55,United States,cannabis,Manufacturing,USA
+2460,Scott Nuttall,1,49,United States,private equity,Finance & Investments,USA
+2461,Alan Rydge,1,69,Australia,entertainment,Media & Entertainment,AUS
+2462,Dennis Anthony Uy,1,55,Philippines,telecom,Telecom,PHL
+2463,Zhou Yifeng & family,1,43,China,liquefied petroleum gas,Energy,CHN
+2464,Bent Jensen,1,70,Denmark,electric systems,Manufacturing,DNK
+2465,Doug Clarke,1,41,Australia,"cameras, software",Technology,AUS
+2466,Morris Kahn,1,92,Israel,software,Technology,ISR
+2467,Roberto Ongpin,1,85,Philippines,diversified,Diversified,PHL
+2468,Oliver Samwer,1,48,Germany,tech investments,Technology,DEU
+2469,Peter-Alexander Wacker,1,70,Germany,chemicals,Manufacturing,DEU
+2470,Zhuang Kuilong & family,1,59,China,polyester,Manufacturing,CHN
+2471,Boris Jordan,1,55,United States,cannabis,Manufacturing,USA
+2472,Ronald Clarke,1,66,United States,payments technology,Technology,USA
+2473,Marcelo Kalim,1,52,Brazil,banking,Finance & Investments,BRA
+2474,Adrian Paval,1,53,Romania,retail,Fashion & Retail,ROU
+2475,Glenn Sanford,1,55,United States,real estate brokerage,Real Estate,USA
+2476,Shigefumi Wada & family,1,69,Japan,software,Technology,JPN
+2477,Morris Kahn,1,92,Israel,software,Technology,ISR
+2478,Jean-Paul Clozel,1,67,Switzerland,pharmaceuticals,Healthcare,CHE
+2479,Eugene Kaspersky,1,56,Russia,software,Technology,RUS
+2480,Tyler Perry,1,52,United States,"movies, television",Media & Entertainment,USA
+2481,Dhruv Sawhney,1,77,India,"engineering, sugar",Construction & Engineering,IND
+2482,Wang Qiangxiang,1,50,China,artificial turf,Service,CHN
+2483,Marcelo Kalim,1,52,Brazil,banking,Finance & Investments,BRA
+2484,Carl DeSantis,1,82,United States,energy drink,Food & Beverage,USA
+2485,Kangbao Ke & family,1,59,China,retailing,Healthcare,CHN
+2486,Grant Petty,1,53,Australia,"cameras, software",Technology,AUS
+2487,Stephan Schnabel,1,N/A,Germany,chemicals,Manufacturing,DEU
+2488,Xiong Shaoming,1,51,China,e-cigarettes,Manufacturing,CHN
+2489,Eugene Kaspersky,1,56,Russia,software,Technology,RUS
+2490,Sefik Yilmaz Dizdar,1,84,Turkey,fashion retail,Fashion & Retail,TUR
+2491,Yunfeng Ke & family,1,55,China,retailing,Healthcare,CHN
+2492,G.V. Prasad,1,61,India,pharmaceuticals,Healthcare,IND
+2493,Neerja Sethi,1,67,United States,"IT consulting, outsourcing",Technology,USA
+2494,Shintaro Yamada,1,44,Japan,mobile apps,Technology,JPN
+2495,Kangbao Ke & family,1,59,China,retailing,Healthcare,CHN
+2496,"Wilbur  'Ed' Bosarge, Jr.",1,82,United States,high speed trading,Finance & Investments,USA
+2497,Larry Fink,1,69,United States,money management,Finance & Investments,USA
+2498,Ihor Kolomoyskyy,1,59,Ukraine,"banking, investments",Diversified,UKR
+2499,Jupally Rameshwar Rao,1,66,India,real estate,Real Estate,IND
+2500,Dean Solon,1,57,United States,solar systems,Energy,USA
+2501,Yao Hsiao Tung,1,82,Singapore,Manufacturing,Manufacturing,SGP
+2502,Ken Kendrick,1,78,United States,"banking, sports team",Sports,USA
+2503,Johanna Braun,1,42,Germany,medical technology,Healthcare,DEU
+2504,Fu Gang,1,51,China,pharma retailing,Healthcare,CHN
+2505,Guo Jiangang,1,55,China,household appliances,Manufacturing,CHN
+2506,Vera Rechulski Santo Domingo,1,73,Brazil,beer,Food & Beverage,BRA
+2507,Mike Speiser,1,51,United States,software,Technology,USA
+2508,Yao Liangbo,1,53,China,furniture retailing,Fashion & Retail,CHN
+2509,Ihor Kolomoyskyy,1,59,Ukraine,"banking, investments",Diversified,UKR
